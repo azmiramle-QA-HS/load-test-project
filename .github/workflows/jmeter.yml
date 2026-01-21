@@ -1,0 +1,35 @@
+name: Run JMeter Tests
+
+on:
+  workflow_dispatch:   # Manual run button
+  push:                # Auto-run when you push
+
+jobs:
+  jmeter:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Apache JMeter
+        run: |
+          curl -L -o jmeter.zip https://archive.apache.org/dist/jmeter/binaries/apache-jmeter-5.6.3.zip
+          tar -xf jmeter.zip
+
+      - name: Create results folder
+        run: mkdir results
+
+      - name: Run all JMX files
+        shell: cmd
+        run: |
+          for %%f in (jmx\*.jmx) do (
+            echo Running %%f
+            apache-jmeter-5.6.3\bin\jmeter.bat -n -t "%%f" -l "results\%%~nf.jtl" -e -o "results\%%~nf_report"
+          )
+
+      - name: Upload Test Results
+        uses: actions/upload-artifact@v4
+        with:
+          name: jmeter-results
+          path: results
