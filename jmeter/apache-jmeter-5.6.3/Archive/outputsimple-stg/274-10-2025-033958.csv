@@ -1,0 +1,43 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1759304398637,1241,Login,200,"Number of samples in transaction : 1, number of failing samples : 0",setUp Thread Group 1-1,,true,,2271,266,1,1,null,0,765,664
+1759304399360,1241,POST|token,200,OK,setUp Thread Group 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,1235,0,664
+1759304400675,177,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-1,,true,,779,1935,1,1,null,0,4,51
+1759304400678,177,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-1,text,true,,779,1935,1,1,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,177,0,51
+1759304401675,145,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-2,,true,,779,1935,2,2,null,0,2,47
+1759304401676,145,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-2,text,true,,779,1935,2,2,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,145,0,47
+1759304400857,1058,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-1,,true,,5887,2185,2,2,null,0,0,0
+1759304400857,1058,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-1,text,true,,5887,2185,2,2,https://api-preprod.stg.handshakes.ai/api/entity/search,1058,0,0
+1759304401823,351,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-2,,true,,5887,2185,2,2,null,0,0,0
+1759304401823,351,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-2,text,true,,5887,2185,2,2,https://api-preprod.stg.handshakes.ai/api/entity/search,351,0,0
+1759304402674,24062,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-3,,true,,779,1935,10,10,null,0,1,45
+1759304402675,24062,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-3,text,true,,779,1935,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,24061,0,45
+1759304405673,21084,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-6,,true,,779,1935,10,10,null,0,1,42
+1759304405674,21084,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-6,text,true,,779,1935,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,21083,0,42
+1759304403675,23124,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-4,,true,,779,1935,10,10,null,0,1,41
+1759304403676,23124,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-4,text,true,,779,1935,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,23123,0,41
+1759304407673,19138,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-8,,true,,779,1935,10,10,null,0,2,45
+1759304407675,19138,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-8,text,true,,779,1935,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,19138,0,45
+1759304406675,20137,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-7,,true,,779,1935,10,10,null,0,1,45
+1759304404674,22138,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-5,,true,,779,1935,10,10,null,0,1,46
+1759304406676,20137,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-7,text,true,,779,1935,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,20137,0,45
+1759304409675,17137,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-10,,true,,779,1935,10,10,null,0,2,49
+1759304404675,22138,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-5,text,true,,779,1935,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,22138,0,46
+1759304409677,17137,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-10,text,true,,779,1935,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,17137,0,49
+1759304408675,18142,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-9,,true,,779,1935,10,10,null,0,1,51
+1759304408676,18142,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-9,text,true,,779,1935,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,18142,0,51
+1759304426818,2648,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-9,,true,,5887,2185,10,10,null,0,2,0
+1759304426819,2648,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-9,text,true,,5887,2185,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,2648,0,0
+1759304426799,2717,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-4,,true,,5887,2185,10,10,null,0,0,0
+1759304426799,2717,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-4,text,true,,5887,2185,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,2717,0,0
+1759304426814,2915,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-7,,true,,5887,2185,10,10,null,0,0,0
+1759304426814,2915,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-7,text,true,,5887,2185,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,2915,0,0
+1759304426736,3001,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-3,,true,,5887,2185,10,10,null,0,2,0
+1759304426737,3001,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-3,text,true,,5887,2185,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,3001,0,0
+1759304426814,2924,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-10,,true,,5887,2185,10,10,null,0,1,0
+1759304426814,2924,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-10,text,true,,5887,2185,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,2924,0,0
+1759304426814,2925,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-5,,true,,5887,2185,10,10,null,0,2,0
+1759304426815,2925,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-5,text,true,,5887,2185,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,2925,0,0
+1759304426814,2927,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-8,,true,,5887,2185,10,10,null,0,1,0
+1759304426814,2927,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-8,text,true,,5887,2185,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,2927,0,0
+1759304426758,2992,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-6,,true,,5887,2185,10,10,null,0,0,0
+1759304426758,2992,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-6,text,true,,5887,2185,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,2992,0,0

@@ -1,0 +1,27 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1767579567073,916,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,259,1,1,null,0,3256,646
+1767579570272,916,Token,200,OK,Token 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,908,0,646
+1767579571287,9505,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,5003,2122,1,1,null,0,821,66
+1767579571288,9505,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,5003,2122,1,1,https://api2.stg.handshakes.ai/api/entity/search,9505,0,66
+1767579581613,107930,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3006053,2197,1,1,null,0,33,0
+1767579581613,107930,Radial Map,200,OK,APIs 1-1,text,true,,3006053,2197,1,1,https://api2.stg.handshakes.ai/api/graph/render,107634,0,0
+1767579689578,36123,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,9680,2248,1,1,null,0,22,86
+1767579689578,36123,Interconnection Map,200,OK,APIs 1-1,text,true,,9680,2248,1,1,https://api2.stg.handshakes.ai/api/graph/render,36122,0,86
+1767579725723,123766,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,182490,2003,1,1,null,0,21,0
+1767579725724,123766,EPR,200,OK,APIs 1-1,text,true,,182490,2003,1,1,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=47F27B89-D422-4737-A146-3DED8525CDB9,123715,0,0
+1767579849511,392,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,5003,2122,1,1,null,0,5,60
+1767579849514,392,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,5003,2122,1,1,https://api2.stg.handshakes.ai/api/entity/search,392,0,60
+1767579849909,58690,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3006053,2197,1,1,null,0,1,0
+1767579849909,58690,Radial Map,200,OK,APIs 1-1,text,true,,3006053,2197,1,1,https://api2.stg.handshakes.ai/api/graph/render,58450,0,0
+1767579908601,21532,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,9680,2248,1,1,null,0,3,0
+1767579908602,21532,Interconnection Map,200,OK,APIs 1-1,text,true,,9680,2248,1,1,https://api2.stg.handshakes.ai/api/graph/render,21532,0,0
+1767579930137,94959,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,182490,2003,1,1,null,0,3,93
+1767579930137,94959,EPR,200,OK,APIs 1-1,text,true,,182490,2003,1,1,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=47F27B89-D422-4737-A146-3DED8525CDB9,94909,0,93
+1767580025098,920,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,5003,2122,1,1,null,0,5,71
+1767580025100,920,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,5003,2122,1,1,https://api2.stg.handshakes.ai/api/entity/search,920,0,71
+1767580026023,69126,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3006053,2197,1,1,null,0,2,0
+1767580026023,69126,Radial Map,200,OK,APIs 1-1,text,true,,3006053,2197,1,1,https://api2.stg.handshakes.ai/api/graph/render,68955,0,0
+1767580095152,17728,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,9680,2248,1,1,null,0,2,53
+1767580095152,17728,Interconnection Map,200,OK,APIs 1-1,text,true,,9680,2248,1,1,https://api2.stg.handshakes.ai/api/graph/render,17728,0,53
+1767580112882,86161,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,182490,2003,1,1,null,0,3,0
+1767580112882,86161,EPR,200,OK,APIs 1-1,text,true,,182490,2003,1,1,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=47F27B89-D422-4737-A146-3DED8525CDB9,86107,0,0

@@ -1,0 +1,66 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1767343411579,833,Token,200,OK,Token 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,824,0,724
+1767343408405,833,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,259,1,1,null,824,3227,724
+1767343412547,1395,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1851,1995,1,1,null,0,1271,50
+1767343412548,1395,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,1851,1995,1,1,https://api2.stg.handshakes.ai/api/entity/search,1395,0,50
+1767343415214,62524,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,6038347,2073,1,1,null,0,16,0
+1767343415215,62524,Radial Map,200,OK,APIs 1-1,text,true,,6038347,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,62190,0,0
+1767343477754,12068,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,133601,2320,1,1,null,0,13,85
+1767343477754,12068,Interconnection Map,200,OK,APIs 1-1,text,true,,133601,2320,1,1,https://api2.stg.handshakes.ai/api/graph/render,12040,0,85
+1767343489835,7210,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1510868,2073,1,1,null,0,12,0
+1767343489836,7210,LBO Map,200,OK,APIs 1-1,text,true,,1510868,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,7078,0,0
+1767343497056,19596,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,11215,1962,1,1,null,0,21,0
+1767343497056,19596,EPR,200,OK,APIs 1-1,text,true,,11215,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&entityguid=A1B019B8-AE66-422F-9D29-9CF5961A69AA,19596,0,0
+1767343516675,306,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,697,1914,1,1,null,0,27,0
+1767343516675,306,Basic Entity Search,200,OK,APIs 1-1,text,true,,697,1914,1,1,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,305,0,0
+1767343517010,19563,Investee Companies Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,781484,2073,1,1,null,0,26,0
+1767343517010,19563,Investee Companies Map,200,OK,APIs 1-1,text,true,,781484,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,19498,0,0
+1767343536599,77506344,RED List Report,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,1223,0
+1767343536599,77506344,RED List Report,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api2.stg.handshakes.ai/api/report/redlist,0,0,0
+1767421045010,59,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2271,259,1,1,null,59,3194,0
+1767421044167,2736,FPR - 1 Year,401,"Number of samples in transaction : 3, number of failing samples : 1",APIs 1-1,,false,,7327,4357,1,1,null,0,3357,473
+1767421044169,690,FPR - 1 Year,401,Unauthorized,APIs 1-1,text,false,Test failed: code expected to contain /200/,737,2049,1,1,https://api2.stg.handshakes.ai/api/record/financials,690,0,473
+1767421048058,59,Token,200,OK,APIs 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,59,0,0
+1767421048264,1987,FPR - 1 Year,200,OK,APIs 1-1,text,true,,4319,2049,1,1,https://api2.stg.handshakes.ai/api/record/financials,1987,0,0
+1767421050261,13879,FPR - 5 Year,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,16835,2038,1,1,null,0,20,0
+1767421050262,13879,FPR - 5 Year,200,OK,APIs 1-1,text,true,,16835,2038,1,1,https://api2.stg.handshakes.ai/api/report/financialprofile,13878,0,0
+1767421064162,2350,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1851,1995,1,1,null,0,4,48
+1767421064165,2350,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,1851,1995,1,1,https://api2.stg.handshakes.ai/api/entity/search,2350,0,48
+1767421066518,83020,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,6038347,2073,1,1,null,0,1,0
+1767421066518,83020,Radial Map,200,OK,APIs 1-1,text,true,,6038347,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,82765,0,0
+1767421149540,30566,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,133601,2320,1,1,null,0,3,55
+1767421149540,30566,Interconnection Map,200,OK,APIs 1-1,text,true,,133601,2320,1,1,https://api2.stg.handshakes.ai/api/graph/render,30543,0,55
+1767421180110,10555,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1510868,2073,1,1,null,0,1,0
+1767421180110,10555,LBO Map,200,OK,APIs 1-1,text,true,,1510868,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,10496,0,0
+1767421190666,22018,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,11215,1962,1,1,null,0,2,0
+1767421190666,22018,EPR,200,OK,APIs 1-1,text,true,,11215,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&entityguid=A1B019B8-AE66-422F-9D29-9CF5961A69AA,22018,0,0
+1767421212687,246,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,697,1914,1,1,null,0,2,55
+1767421212687,246,Basic Entity Search,200,OK,APIs 1-1,text,true,,697,1914,1,1,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,246,0,55
+1767421212935,14482,Investee Companies Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,781484,2073,1,1,null,0,2,0
+1767421212935,14482,Investee Companies Map,200,OK,APIs 1-1,text,true,,781484,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,14347,0,0
+1767421227419,21202,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,15369,2018,1,1,null,0,2,0
+1767421227419,21202,RED List Report,200,OK,APIs 1-1,text,true,,15369,2018,1,1,https://api2.stg.handshakes.ai/api/report/redlist,21202,0,0
+1767421248623,312,FPR - 1 Year,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,4319,2049,1,1,null,0,3,0
+1767421248624,312,FPR - 1 Year,200,OK,APIs 1-1,text,true,,4319,2049,1,1,https://api2.stg.handshakes.ai/api/record/financials,312,0,0
+1767421248939,5359,FPR - 5 Year,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,16835,2038,1,1,null,0,3,0
+1767421248939,5359,FPR - 5 Year,200,OK,APIs 1-1,text,true,,16835,2038,1,1,https://api2.stg.handshakes.ai/api/report/financialprofile,5359,0,0
+1767421254303,269,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1851,1995,1,1,null,0,5,49
+1767421254305,269,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,1851,1995,1,1,https://api2.stg.handshakes.ai/api/entity/search,269,0,49
+1767421254578,26770,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,6038347,2073,1,1,null,0,3,0
+1767421254579,26770,Radial Map,200,OK,APIs 1-1,text,true,,6038347,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,26477,0,0
+1767421281351,7059,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,133601,2320,1,1,null,0,2,0
+1767421281351,7059,Interconnection Map,200,OK,APIs 1-1,text,true,,133601,2320,1,1,https://api2.stg.handshakes.ai/api/graph/render,7057,0,0
+1767421288412,5913,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1510868,2073,1,1,null,0,3,0
+1767421288413,5913,LBO Map,200,OK,APIs 1-1,text,true,,1510868,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,5822,0,0
+1767421294328,17631,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,11215,1962,1,1,null,0,2,0
+1767421294329,17631,EPR,200,OK,APIs 1-1,text,true,,11215,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&entityguid=A1B019B8-AE66-422F-9D29-9CF5961A69AA,17631,0,0
+1767421311964,172,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,697,1914,1,1,null,0,4,0
+1767421311965,172,Basic Entity Search,200,OK,APIs 1-1,text,true,,697,1914,1,1,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,172,0,0
+1767421312140,7499,Investee Companies Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,781484,2073,1,1,null,0,5,0
+1767421312142,7499,Investee Companies Map,200,OK,APIs 1-1,text,true,,781484,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,7436,0,0
+1767421319645,8295,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,15369,2018,1,1,null,0,2,190
+1767421319645,8295,RED List Report,200,OK,APIs 1-1,text,true,,15369,2018,1,1,https://api2.stg.handshakes.ai/api/report/redlist,8295,0,190
+1767421327941,301,FPR - 1 Year,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,4319,2049,1,1,null,0,1,0
+1767421327941,301,FPR - 1 Year,200,OK,APIs 1-1,text,true,,4319,2049,1,1,https://api2.stg.handshakes.ai/api/record/financials,300,0,0
+1767421328244,4768230,FPR - 5 Year,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,16835,2038,1,1,null,0,50,0
+1767421328244,4768230,FPR - 5 Year,200,OK,APIs 1-1,text,true,,16835,2038,1,1,https://api2.stg.handshakes.ai/api/report/financialprofile,4768230,0,0

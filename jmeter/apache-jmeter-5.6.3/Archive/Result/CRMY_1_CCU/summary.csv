@@ -1,0 +1,37 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1759843280756,1952,Token,200,OK,Token 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,1949,0,292
+1759843280756,1952,Token,200,OK,Token 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,1949,0,292
+1759843280175,1952,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,266,1,1,null,1949,608,292
+1759843280175,1952,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,266,1,1,null,1949,608,292
+1759843282756,956,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,764,1927,1,1,null,0,1,58
+1759843282756,956,Basic Entity Search,200,OK,APIs 1-1,text,true,,764,1927,1,1,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,956,0,58
+1759843282756,956,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,764,1927,1,1,null,0,1,58
+1759843282756,956,Basic Entity Search,200,OK,APIs 1-1,text,true,,764,1927,1,1,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,956,0,58
+1759843283713,388,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2352,2008,1,1,null,0,0,0
+1759843283713,388,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2352,2008,1,1,https://api-preprod.stg.handshakes.ai/api/entity/search,388,0,0
+1759843283713,388,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2352,2008,1,1,null,0,0,0
+1759843283713,388,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2352,2008,1,1,https://api-preprod.stg.handshakes.ai/api/entity/search,388,0,0
+1759843284101,34781,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2158453,2080,1,1,null,0,0,0
+1759843284101,34781,Radial Map,200,OK,APIs 1-1,text,true,,2158453,2080,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,34512,0,0
+1759843284101,34781,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2158453,2080,1,1,null,0,0,0
+1759843284101,34781,Radial Map,200,OK,APIs 1-1,text,true,,2158453,2080,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,34512,0,0
+1759843318883,19228,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3454,2131,1,1,null,0,1,0
+1759843318883,19228,Interconnection Map,200,OK,APIs 1-1,text,true,,3454,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,19227,0,0
+1759843318883,19228,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3454,2131,1,1,null,0,1,0
+1759843318883,19228,Interconnection Map,200,OK,APIs 1-1,text,true,,3454,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,19227,0,0
+1759843338113,44089,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2689278,2080,1,1,null,0,0,0
+1759843338113,44089,LBO Map,200,OK,APIs 1-1,text,true,,2689278,2080,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,43894,0,0
+1759843338113,44089,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2689278,2080,1,1,null,0,0,0
+1759843338113,44089,LBO Map,200,OK,APIs 1-1,text,true,,2689278,2080,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,43894,0,0
+1759843382203,180102,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,2,63
+1759843382203,180102,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,63
+1759843382203,180102,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,2,63
+1759843382203,180102,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,63
+1759843562308,80965,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,591408,1969,1,1,null,0,1,72
+1759843562308,80965,EPR,200,OK,APIs 1-1,text,true,,591408,1969,1,1,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,80810,0,72
+1759843562308,80965,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,591408,1969,1,1,null,0,1,72
+1759843562308,80965,EPR,200,OK,APIs 1-1,text,true,,591408,1969,1,1,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,80810,0,72
+1759843643275,59846,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,39902,2025,1,1,null,0,1,84
+1759843643275,59846,RED List Report,200,OK,APIs 1-1,text,true,,39902,2025,1,1,https://api-preprod.stg.handshakes.ai/api/report/redlist,59844,0,84
+1759843643275,59846,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,39902,2025,1,1,null,0,1,84
+1759843643275,59846,RED List Report,200,OK,APIs 1-1,text,true,,39902,2025,1,1,https://api-preprod.stg.handshakes.ai/api/report/redlist,59844,0,84

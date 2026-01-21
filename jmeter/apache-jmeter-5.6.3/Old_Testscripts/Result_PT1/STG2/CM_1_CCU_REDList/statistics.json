@@ -1,0 +1,50 @@
+{
+  "RED List Report" : {
+    "transaction" : "RED List Report",
+    "sampleCount" : 12,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 49698.0,
+    "medianResTime" : 45626.0,
+    "minResTime" : 41044.0,
+    "maxResTime" : 62424.0,
+    "pct1ResTime" : 62424.0,
+    "pct2ResTime" : 62424.0,
+    "pct3ResTime" : 62424.0,
+    "throughput" : 0.08002080540940644,
+    "receivedKBytesPerSec" : 309.06817022425827,
+    "sentKBytesPerSec" : 0.1575409606497689
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 8,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 37401.25,
+    "medianResTime" : 43335.0,
+    "minResTime" : 511.0,
+    "maxResTime" : 62424.0,
+    "pct1ResTime" : 62424.0,
+    "pct2ResTime" : 62424.0,
+    "pct3ResTime" : 62424.0,
+    "throughput" : 0.05313955110364205,
+    "receivedKBytesPerSec" : 153.96202836572633,
+    "sentKBytesPerSec" : 0.08182401094010508
+  },
+  "Token" : {
+    "transaction" : "Token",
+    "sampleCount" : 4,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 511.0,
+    "medianResTime" : 511.0,
+    "minResTime" : 511.0,
+    "maxResTime" : 511.0,
+    "pct1ResTime" : 511.0,
+    "pct2ResTime" : 511.0,
+    "pct3ResTime" : 511.0,
+    "throughput" : 1.0998075336816058,
+    "receivedKBytesPerSec" : 2.4391239345614517,
+    "sentKBytesPerSec" : 0.27817397580423425
+  }
+}

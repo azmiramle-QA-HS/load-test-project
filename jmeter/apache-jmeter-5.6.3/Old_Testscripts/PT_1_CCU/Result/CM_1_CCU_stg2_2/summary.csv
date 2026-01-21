@@ -1,0 +1,39 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1767678989916,923,Token,200,OK,Token 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,920,0,688
+1767678986820,923,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,259,1,1,null,920,3133,688
+1767678990909,3570,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,726,1948,1,1,null,0,798,46
+1767678990909,3570,Basic Entity Search,200,OK,APIs 1-1,text,true,,726,1948,1,1,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,3569,0,46
+1767678995276,298,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2893,2025,1,1,null,0,30,0
+1767678995277,298,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2893,2025,1,1,https://api2.stg.handshakes.ai/api/entity/search,298,0,0
+1767678995605,38606,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,7736118,2073,1,1,null,0,14,0
+1767678995605,38606,Radial Map,200,OK,APIs 1-1,text,true,,7736118,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,34175,0,0
+1767679034226,13923,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2728470,2124,1,1,null,0,11,0
+1767679034227,13923,Interconnection Map,200,OK,APIs 1-1,text,true,,2728470,2124,1,1,https://api2.stg.handshakes.ai/api/graph/render,12486,0,0
+1767679048160,20841,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,516317,1962,1,1,null,0,10,0
+1767679048160,20841,EPR,200,OK,APIs 1-1,text,true,,516317,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,20710,0,0
+1767679069012,127339,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3975516,2016,1,1,null,0,24,87
+1767679069013,127339,RED List Report,200,OK,APIs 1-1,text,true,,3975516,2016,1,1,https://api2.stg.handshakes.ai/api/report/redlist,125127,0,87
+1767679196375,362,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,726,1948,1,1,null,0,8,116
+1767679196379,362,Basic Entity Search,200,OK,APIs 1-1,text,true,,726,1948,1,1,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,362,0,116
+1767679196746,305,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2893,2025,1,1,null,0,3,0
+1767679196746,305,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2893,2025,1,1,https://api2.stg.handshakes.ai/api/entity/search,305,0,0
+1767679197055,22316,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,7736118,2073,1,1,null,0,3,0
+1767679197055,22316,Radial Map,200,OK,APIs 1-1,text,true,,7736118,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,17786,0,0
+1767679219375,9809,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2728470,2124,1,1,null,0,3,0
+1767679219375,9809,Interconnection Map,200,OK,APIs 1-1,text,true,,2728470,2124,1,1,https://api2.stg.handshakes.ai/api/graph/render,8383,0,0
+1767679229187,22924,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,516317,1962,1,1,null,0,4,0
+1767679229187,22924,EPR,200,OK,APIs 1-1,text,true,,516317,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,22812,0,0
+1767679252116,53104,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3975516,2016,1,1,null,0,3,0
+1767679252116,53104,RED List Report,200,OK,APIs 1-1,text,true,,3975516,2016,1,1,https://api2.stg.handshakes.ai/api/report/redlist,50948,0,0
+1767679305224,346,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,726,1948,1,1,null,0,6,96
+1767679305226,346,Basic Entity Search,200,OK,APIs 1-1,text,true,,726,1948,1,1,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,346,0,96
+1767679305577,281,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2893,2025,1,1,null,0,3,0
+1767679305577,281,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2893,2025,1,1,https://api2.stg.handshakes.ai/api/entity/search,281,0,0
+1767679305863,19189,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,7736118,2073,1,1,null,0,2,0
+1767679305863,19189,Radial Map,200,OK,APIs 1-1,text,true,,7736118,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,14805,0,0
+1767679325054,12322,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2728470,2124,1,1,null,0,3,0
+1767679325055,12322,Interconnection Map,200,OK,APIs 1-1,text,true,,2728470,2124,1,1,https://api2.stg.handshakes.ai/api/graph/render,10891,0,0
+1767679337379,21702,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,516317,1962,1,1,null,0,2,0
+1767679337379,21702,EPR,200,OK,APIs 1-1,text,true,,516317,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,21568,0,0
+1767679359083,180021,RED List Report,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,8,0
+1767679359083,180021,RED List Report,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api2.stg.handshakes.ai/api/report/redlist,0,0,0

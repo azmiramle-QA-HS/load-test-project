@@ -1,0 +1,86 @@
+2026-01-21 17:03:46,654 INFO o.a.j.u.JMeterUtils: Setting Locale to en_MY
+2026-01-21 17:03:46,671 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2026-01-21 17:03:46,671 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2026-01-21 17:03:46,677 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2026-01-21 17:03:46,677 INFO o.a.j.JMeter: Version 5.6.3
+2026-01-21 17:03:46,677 INFO o.a.j.JMeter: java.version=19.0.2
+2026-01-21 17:03:46,677 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2026-01-21 17:03:46,677 INFO o.a.j.JMeter: os.name=Windows 11
+2026-01-21 17:03:46,677 INFO o.a.j.JMeter: os.arch=amd64
+2026-01-21 17:03:46,677 INFO o.a.j.JMeter: os.version=10.0
+2026-01-21 17:03:46,677 INFO o.a.j.JMeter: file.encoding=UTF-8
+2026-01-21 17:03:46,677 INFO o.a.j.JMeter: java.awt.headless=null
+2026-01-21 17:03:46,679 INFO o.a.j.JMeter: Max memory     =8443133952
+2026-01-21 17:03:46,679 INFO o.a.j.JMeter: Available Processors =12
+2026-01-21 17:03:46,687 INFO o.a.j.JMeter: Default Locale=English (Malaysia)
+2026-01-21 17:03:46,687 INFO o.a.j.JMeter: JMeter  Locale=English (Malaysia)
+2026-01-21 17:03:46,687 INFO o.a.j.JMeter: JMeterHome=C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3
+2026-01-21 17:03:46,687 INFO o.a.j.JMeter: user.dir  =C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\bin
+2026-01-21 17:03:46,688 INFO o.a.j.JMeter: PWD       =C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\bin
+2026-01-21 17:03:46,692 INFO o.a.j.JMeter: IP: 192.168.100.13 Name: HS-MY-LTP-038 FullName: HS-MY-LTP-038
+2026-01-21 17:03:46,701 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2026-01-21 17:03:46,847 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.IntelliJTheme
+2026-01-21 17:04:02,998 INFO o.a.j.s.FileServer: Default base='C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\bin'
+2026-01-21 17:04:03,000 INFO o.a.j.g.a.Load: Loading file: C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\OneWorld\CM_1_CCU.jmx
+2026-01-21 17:04:03,000 INFO o.a.j.s.FileServer: Set new base='C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\OneWorld'
+2026-01-21 17:04:03,196 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2026-01-21 17:04:03,217 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2026-01-21 17:04:03,219 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2026-01-21 17:04:03,220 INFO o.a.j.s.SaveService: Loading file: C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\OneWorld\CM_1_CCU.jmx
+2026-01-21 17:04:03,247 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-01-21 17:04:03,248 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-01-21 17:04:03,248 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-01-21 17:04:03,248 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-01-21 17:04:03,248 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2026-01-21 17:04:03,248 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2026-01-21 17:04:03,935 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2026-01-21 17:04:03,935 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2026-01-21 17:04:03,935 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2026-01-21 17:04:03,935 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2026-01-21 17:04:04,081 INFO o.a.j.s.FileServer: Set new base='C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\OneWorld'
+2026-01-21 17:04:14,246 INFO o.a.j.g.a.Load: Loading file: C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\OneWorld\CRMY_1_CCU.jmx
+2026-01-21 17:04:14,247 INFO o.a.j.s.FileServer: Set new base='C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\OneWorld'
+2026-01-21 17:04:14,247 INFO o.a.j.s.SaveService: Loading file: C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\OneWorld\CRMY_1_CCU.jmx
+2026-01-21 17:04:14,572 INFO o.a.j.s.FileServer: Set new base='C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\OneWorld'
+2026-01-21 17:30:01,560 INFO o.a.j.g.a.Load: Loading file: C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\OneWorld\OW_CRSG_CRMY_1_CCU.jmx
+2026-01-21 17:30:01,560 INFO o.a.j.s.FileServer: Set new base='C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\OneWorld'
+2026-01-21 17:30:01,560 INFO o.a.j.s.SaveService: Loading file: C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\OneWorld\OW_CRSG_CRMY_1_CCU.jmx
+2026-01-21 17:30:01,859 INFO o.a.j.s.FileServer: Set new base='C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\OneWorld'
+2026-01-21 17:31:58,265 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2026-01-21 17:31:58,265 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-01-21 17:31:58,266 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-01-21 17:31:58,266 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2026-01-21 17:31:58,266 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2026-01-21 17:31:58,314 INFO o.a.j.r.ResultCollector: Folder at C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\OneWorld\Result\OW_CRSG_CRMY_1_CCU was created
+2026-01-21 17:31:58,320 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2026-01-21 17:31:58,321 INFO o.a.j.e.StandardJMeterEngine: Starting setUp thread groups
+2026-01-21 17:31:58,321 INFO o.a.j.e.StandardJMeterEngine: Starting setUp ThreadGroup: 1 : Token 
+2026-01-21 17:31:58,321 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Token.
+2026-01-21 17:31:58,321 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-01-21 17:31:58,321 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=5 delayedStart=false
+2026-01-21 17:31:58,325 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2026-01-21 17:31:58,325 INFO o.a.j.e.StandardJMeterEngine: Waiting for all setup thread groups to exit
+2026-01-21 17:31:58,326 INFO o.a.j.t.JMeterThread: Thread started: Token 1-1
+2026-01-21 17:32:01,348 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = HS-MY-LTP-038
+2026-01-21 17:32:01,353 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2026-01-21 17:32:01,430 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2026-01-21 17:32:01,433 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2026-01-21 17:32:01,433 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2026-01-21 17:32:01,512 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2026-01-21 17:32:01,515 INFO o.a.j.u.SSLManager: KeyStore created OK
+2026-01-21 17:32:01,515 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2026-01-21 17:32:02,382 INFO o.a.j.u.BeanShellTestElement: global_token from login: eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIyWDk1R19jQmVhMV9sTUpFTFpNXzRuTnkxUVd2dXZZdDRIdVFsVFVpMTVrIn0.eyJleHAiOjE3Njg5OTE1MjMsImlhdCI6MTc2ODk4NzkyMywianRpIjoiOTdhMDFjNzYtZGY1NS00N2IzLTlhNTgtY2FlNjkyMGQ0ZDA3IiwiaXNzIjoiaHR0cHM6Ly9pZGVudGl0eS5zdGcuaGFuZHNoYWtlcy5haS9yZWFsbXMvaGFuZHNoYWtlcyIsImF1ZCI6ImhhbmRzaGFrZXMtYXBpLWNsaWVudCIsInN1YiI6ImY6Y2U1OTM5MTAtOTY2YS00YWFlLWExMmMtNTc1ZDI1NWNmMzU2OjdGNTY2MDY1LUY3MkItNDQ1MC04MDM3LUMyQzYwQURDRjY3MCIsInR5cCI6IkJlYXJlciIsImF6cCI6ImhhbmRzaGFrZXMtYXBpLWNsaWVudCIsInNpZCI6ImJkOTE1NmJlLTczOGUtNGYzMC04NTY2LTllYWUxODA0MTJhNCIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cHM6Ly9hcGkyLnN0Zy5oYW5kc2hha2VzLmFpIiwiaHR0cHM6Ly9sb2NhbGhvc3Q6NTI0NzAiLCJodHRwczovL2FwaTMuc3RnLmhhbmRzaGFrZXMuYWkiLCJodHRwczovL2FwaTEuc3RnLmhhbmRzaGFrZXMuYWkiLCJodHRwczovL2FwaS1wcmVwcm9kLnN0Zy5oYW5kc2hha2VzLmFpIl0sInNjb3BlIjoiaGFuZHNoYWtlcy1jdXN0b20gZW1haWwgcHJvZmlsZSIsInVpZCI6IjdmNTY2MDY1LWY3MmItNDQ1MC04MDM3LWMyYzYwYWRjZjY3MCIsImZlYXR1cmVzIjoiMSwyLDMsNCw1LDYsNyw4LDksMTMsMTQsMTUsMTgsMTksMjAsMjEsMjIsMjQsMjYsMjcsMjgsMjksMzAsMzEsMzMsMzYsMzcsMzgsMzksNDAsNDEsNDIsNDMsNDUsNDYsNDcsNDgsNTEsNTYsNTcsNTgiLCJ1bmlxdWVfbmFtZSI6ImF6bWlwYXkiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsInJvbGVJZCI6IjciLCJuYW1lIjoiQXptaSBwYXkiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJhem1pcGF5IiwiZW1haWwiOiJhem1pdGVzdDEwMDFAZ21haWwuY29tIiwiZXhwYW5kX2xpbWl0IjoiMyJ9.S0Mv2ZGXPfGudhbgWsWu0TzKQK6iFtnWmiZ3aHPgM-sumyRbztEx3_3OxGJSxwYNurcKVF2AsKZ-Ra7838FrANrXlJxfLq-nBJAMzRmLhahMnYdO8ReGrag6B67Oc1ZwD1SZHBaYkB8pWnPTqRKPOrWefAXfb3eNhp_oL5fZgMpyjX7jL5iqNGNumFzekEKO-eJKtct0tsiXntd93d79EBghFrRfcjVmRwEpEAntovo-rwnjCqcXr03WTLkQmCWGaSgbl6Zt1D-VkiI9t39zhOT5PH0_vC979kWymtUJ59ymgr2Uxc5TzsO6o9cJn-4U434D8Al74DzkFm7CeywFlg
+2026-01-21 17:32:02,384 INFO o.a.j.t.JMeterThread: Thread is done: Token 1-1
+2026-01-21 17:32:02,385 INFO o.a.j.t.JMeterThread: Thread finished: Token 1-1
+2026-01-21 17:32:02,386 INFO o.a.j.e.StandardJMeterEngine: All Setup Threads have ended
+2026-01-21 17:32:02,424 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : APIs
+2026-01-21 17:32:02,424 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group APIs.
+2026-01-21 17:32:02,424 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-01-21 17:32:02,424 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=5 delayedStart=false
+2026-01-21 17:32:02,426 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2026-01-21 17:32:02,427 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2026-01-21 17:32:02,427 INFO o.a.j.t.JMeterThread: Thread started: APIs 1-1
+2026-01-21 17:32:10,495 INFO o.a.j.t.JMeterThread: Thread is done: APIs 1-1
+2026-01-21 17:32:10,496 INFO o.a.j.t.JMeterThread: Thread finished: APIs 1-1
+2026-01-21 17:32:10,498 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2026-01-21 17:32:10,506 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)

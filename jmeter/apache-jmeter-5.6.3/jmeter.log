@@ -1,0 +1,94 @@
+2025-12-02 21:43:28,115 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-12-02 21:43:28,131 INFO o.a.j.JMeter: Loading user properties from: C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\bin\user.properties
+2025-12-02 21:43:28,133 INFO o.a.j.JMeter: Loading system properties from: C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\bin\system.properties
+2025-12-02 21:43:28,139 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-12-02 21:43:28,139 INFO o.a.j.JMeter: Version 5.6.3
+2025-12-02 21:43:28,139 INFO o.a.j.JMeter: java.version=19.0.2
+2025-12-02 21:43:28,139 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-12-02 21:43:28,139 INFO o.a.j.JMeter: os.name=Windows 11
+2025-12-02 21:43:28,139 INFO o.a.j.JMeter: os.arch=amd64
+2025-12-02 21:43:28,139 INFO o.a.j.JMeter: os.version=10.0
+2025-12-02 21:43:28,139 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-12-02 21:43:28,140 INFO o.a.j.JMeter: java.awt.headless=true
+2025-12-02 21:43:28,140 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-12-02 21:43:28,140 INFO o.a.j.JMeter: Available Processors =12
+2025-12-02 21:43:28,148 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-12-02 21:43:28,148 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-12-02 21:43:28,148 INFO o.a.j.JMeter: JMeterHome=C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3
+2025-12-02 21:43:28,148 INFO o.a.j.JMeter: user.dir  =C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3
+2025-12-02 21:43:28,148 INFO o.a.j.JMeter: PWD       =C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3
+2025-12-02 21:43:33,128 INFO o.a.j.JMeter: IP: 192.168.100.13 Name: HS-MY-LTP-038 FullName: HS-MY-LTP-038
+2025-12-02 21:43:33,138 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\Old_Testscripts\Result\SPG_1_CCU'
+2025-12-02 21:43:33,140 INFO o.a.j.s.FileServer: Default base='C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3'
+2025-12-02 21:43:33,141 INFO o.a.j.s.FileServer: Set new base='C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\Old_Testscripts'
+2025-12-02 21:43:33,292 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-12-02 21:43:33,310 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-12-02 21:43:33,313 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-12-02 21:43:33,315 INFO o.a.j.s.SaveService: Loading file: Old_Testscripts\SPG_1_CCU_Design2.jmx
+2025-12-02 21:43:33,359 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-12-02 21:43:33,359 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-12-02 21:43:33,359 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-12-02 21:43:33,359 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-12-02 21:43:33,359 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-12-02 21:43:33,359 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-12-02 21:43:33,442 INFO o.a.j.JMeter: Creating summariser <summary>
+2025-12-02 21:43:33,446 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2025-12-02 21:43:33,446 INFO o.a.j.r.d.ReportGenerator: Will generate report at end of test from  results file: Old_Testscripts/Result/SPG_1_CCU/summary.csv
+2025-12-02 21:43:33,446 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\bin\reportgenerator.properties
+2025-12-02 21:43:33,447 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2025-12-02 21:43:33,451 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2025-12-02 21:43:33,452 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2025-12-02 21:43:33,453 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction is empty, not APDEX per transaction customization
+2025-12-02 21:43:33,453 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2025-12-02 21:43:33,453 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2025-12-02 21:43:33,453 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2025-12-02 21:43:33,453 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2025-12-02 21:43:33,453 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2025-12-02 21:43:33,453 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2025-12-02 21:43:33,456 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.totalTPS.exclude_controllers' not found, using default value 'false' instead.
+2025-12-02 21:43:33,457 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2025-12-02 21:43:33,457 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2025-12-02 21:43:33,457 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2025-12-02 21:43:33,457 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2025-12-02 21:43:33,457 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2025-12-02 21:43:33,457 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2025-12-02 21:43:33,457 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2025-12-02 21:43:33,457 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2025-12-02 21:43:33,458 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2025-12-02 21:43:33,458 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.filters_only_sample_series' not found, using default value 'true' instead.
+2025-12-02 21:43:33,458 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.series_filter' not found, using default value '' instead.
+2025-12-02 21:43:33,458 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.show_controllers_only' not found, using default value 'false' instead.
+2025-12-02 21:43:33,458 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2025-12-02 21:43:33,460 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2025-12-02 21:43:33,460 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2025-12-02 21:43:33,474 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-12-02 21:43:33,475 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-12-02 21:43:33,475 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-12-02 21:43:33,480 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2025-12-02 21:43:33,480 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2025-12-02 21:43:33,527 INFO o.a.j.r.ResultCollector: Folder at C:\Users\Muhammad Azmi\Documents\apache-jmeter-5.6.3\Old_Testscripts\Result\SPG_1_CCU was created
+2025-12-02 21:43:33,537 INFO o.a.j.JMeter: Running test (1764683013537)
+2025-12-02 21:43:33,554 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : APIs
+2025-12-02 21:43:33,554 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group APIs.
+2025-12-02 21:43:33,554 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-12-02 21:43:33,554 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=5 delayedStart=false
+2025-12-02 21:43:33,564 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-12-02 21:43:33,566 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-12-02 21:43:33,568 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-12-02 21:43:33,568 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-12-02 21:43:33,568 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-12-02 21:43:33,568 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-12-02 21:43:33,569 INFO o.a.j.t.JMeterThread: Thread started: APIs 1-1
+2025-12-02 21:43:36,594 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = HS-MY-LTP-038
+2025-12-02 21:43:36,600 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2025-12-02 21:43:36,678 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2025-12-02 21:43:36,682 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2025-12-02 21:43:36,682 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2025-12-02 21:43:36,736 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2025-12-02 21:43:36,739 INFO o.a.j.u.SSLManager: KeyStore created OK
+2025-12-02 21:43:36,739 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2025-12-02 21:43:37,225 INFO o.a.j.u.BeanShellTestElement: global_token from login: eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIyWDk1R19jQmVhMV9sTUpFTFpNXzRuTnkxUVd2dXZZdDRIdVFsVFVpMTVrIn0.eyJleHAiOjE3NjQ2ODY2MjAsImlhdCI6MTc2NDY4MzAyMCwianRpIjoiNDYwZDEyNTItZmIzNS00MWE1LTk3NTItNjg0YTc3MzFjNTZjIiwiaXNzIjoiaHR0cHM6Ly9pZGVudGl0eS5zdGcuaGFuZHNoYWtlcy5haS9yZWFsbXMvaGFuZHNoYWtlcyIsImF1ZCI6ImhhbmRzaGFrZXMtYXBpLWNsaWVudCIsInN1YiI6ImY6Y2U1OTM5MTAtOTY2YS00YWFlLWExMmMtNTc1ZDI1NWNmMzU2OjdGNTY2MDY1LUY3MkItNDQ1MC04MDM3LUMyQzYwQURDRjY3MCIsInR5cCI6IkJlYXJlciIsImF6cCI6ImhhbmRzaGFrZXMtYXBpLWNsaWVudCIsInNpZCI6IjdiNDU4NDY4LThlMWYtNDUwZi05MjZkLTAzOTdhNTk2ZTA1MCIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cHM6Ly9hcGkyLnN0Zy5oYW5kc2hha2VzLmFpIiwiaHR0cHM6Ly9sb2NhbGhvc3Q6NTI0NzAiLCJodHRwczovL2FwaTMuc3RnLmhhbmRzaGFrZXMuYWkiLCJodHRwczovL2FwaTEuc3RnLmhhbmRzaGFrZXMuYWkiLCJodHRwczovL2FwaS1wcmVwcm9kLnN0Zy5oYW5kc2hha2VzLmFpIl0sInNjb3BlIjoiaGFuZHNoYWtlcy1jdXN0b20gZW1haWwgcHJvZmlsZSIsInVpZCI6IjdmNTY2MDY1LWY3MmItNDQ1MC04MDM3LWMyYzYwYWRjZjY3MCIsImZlYXR1cmVzIjoiMSwyLDMsNCw1LDYsNyw4LDksMTMsMTQsMTUsMTgsMTksMjAsMjEsMjIsMjQsMjYsMjcsMjgsMjksMzAsMzEsMzMsMzYsMzcsMzgsMzksNDAsNDEsNDIsNDMsNDUsNDYsNDcsNDgsNTEsNTYsNTcsNTgiLCJ1bmlxdWVfbmFtZSI6ImF6bWlwYXkiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsInJvbGVJZCI6IjciLCJuYW1lIjoiQXptaSBwYXkiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJhem1pcGF5IiwiZW1haWwiOiJhem1pdGVzdDEwMDFAZ21haWwuY29tIiwiZXhwYW5kX2xpbWl0IjoiMyJ9.cJbeGKX-Ym-wmWaM_nEPwD1FlUW0paX5aiwsgKR0FI4bK3ycmsaz31Owv63Hr5wN1_JWyjr1XwsL5JXgFgtETXEJyctUDX9SyQyLeSFLynv7rIU4V09lQTPgS9nP8uAePyyvCyXKQVlJ_7EQfQYxvSzp7-Bo0Kfdzm-BAn4Kr8V3oEO0GoJ8rNkij4yOYULHM2Sz9x1cWRf3Cxnwn07SBQbCXy2lE04WQy8a_wYQUs72aEUuIYYbtG2r-8xebkt56SWkQNF7TDhWTl9E4HiO9di3oyN7MDVbaN5RuJT6ZTPcmyMJlmLUuX4m-8NWBwQABcDzjehkcY6eaGyv2FW6-g
+2025-12-02 21:43:43,306 INFO o.a.j.u.BeanShellTestElement: global_token from login: eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIyWDk1R19jQmVhMV9sTUpFTFpNXzRuTnkxUVd2dXZZdDRIdVFsVFVpMTVrIn0.eyJleHAiOjE3NjQ2ODY2MjYsImlhdCI6MTc2NDY4MzAyNiwianRpIjoiMDIwMjIyNDItNmE2Mi00NzliLWFhMmQtNmE1MDk5ODAwNjI4IiwiaXNzIjoiaHR0cHM6Ly9pZGVudGl0eS5zdGcuaGFuZHNoYWtlcy5haS9yZWFsbXMvaGFuZHNoYWtlcyIsImF1ZCI6ImhhbmRzaGFrZXMtYXBpLWNsaWVudCIsInN1YiI6ImY6Y2U1OTM5MTAtOTY2YS00YWFlLWExMmMtNTc1ZDI1NWNmMzU2OjdGNTY2MDY1LUY3MkItNDQ1MC04MDM3LUMyQzYwQURDRjY3MCIsInR5cCI6IkJlYXJlciIsImF6cCI6ImhhbmRzaGFrZXMtYXBpLWNsaWVudCIsInNpZCI6ImRlZjFmMWQ5LTBiZmItNDU3OC05NTg0LTcwZjRiNTk1OTkwMiIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cHM6Ly9hcGkyLnN0Zy5oYW5kc2hha2VzLmFpIiwiaHR0cHM6Ly9sb2NhbGhvc3Q6NTI0NzAiLCJodHRwczovL2FwaTMuc3RnLmhhbmRzaGFrZXMuYWkiLCJodHRwczovL2FwaTEuc3RnLmhhbmRzaGFrZXMuYWkiLCJodHRwczovL2FwaS1wcmVwcm9kLnN0Zy5oYW5kc2hha2VzLmFpIl0sInNjb3BlIjoiaGFuZHNoYWtlcy1jdXN0b20gZW1haWwgcHJvZmlsZSIsInVpZCI6IjdmNTY2MDY1LWY3MmItNDQ1MC04MDM3LWMyYzYwYWRjZjY3MCIsImZlYXR1cmVzIjoiMSwyLDMsNCw1LDYsNyw4LDksMTMsMTQsMTUsMTgsMTksMjAsMjEsMjIsMjQsMjYsMjcsMjgsMjksMzAsMzEsMzMsMzYsMzcsMzgsMzksNDAsNDEsNDIsNDMsNDUsNDYsNDcsNDgsNTEsNTYsNTcsNTgiLCJ1bmlxdWVfbmFtZSI6ImF6bWlwYXkiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsInJvbGVJZCI6IjciLCJuYW1lIjoiQXptaSBwYXkiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJhem1pcGF5IiwiZW1haWwiOiJhem1pdGVzdDEwMDFAZ21haWwuY29tIiwiZXhwYW5kX2xpbWl0IjoiMyJ9.Qr-aMpugLd2oRLglusffA1rzAyNAo2woEfUX-efXXnD5yZihl-N10WxrpUDDZooPXaixM3CCYjcJiAyeKTNpycTi2LCJu0xwxMEXES0w-chGUQ2E2gi9KAi1oa6iQdiJVMIAl8MEWknJxejBHEl2vNaO8aJA8rSZAhvf6-nvUWCKw6RivhyrOygE4TxBwUf9dRNg8pdl9f_iy3AfZr1WzcP_n0lePPxDk9vlHD0hAS17lAIZgEswHhDQCdnfaXZpmx8V40ucgF6_lHLXcSoXGXAQdoHf5czXBALOWgkT_LNV1Qurr62ifnZaE4K1PEdwNvAnwyVKHcphuwIj8q60FA
+2025-12-02 21:43:47,374 INFO o.a.j.u.BeanShellTestElement: global_token from login: eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIyWDk1R19jQmVhMV9sTUpFTFpNXzRuTnkxUVd2dXZZdDRIdVFsVFVpMTVrIn0.eyJleHAiOjE3NjQ2ODY2MzAsImlhdCI6MTc2NDY4MzAzMCwianRpIjoiNzcwZmFiODAtYWU3NS00M2JkLWFiMmMtMjgyM2NlZTgxZDYxIiwiaXNzIjoiaHR0cHM6Ly9pZGVudGl0eS5zdGcuaGFuZHNoYWtlcy5haS9yZWFsbXMvaGFuZHNoYWtlcyIsImF1ZCI6ImhhbmRzaGFrZXMtYXBpLWNsaWVudCIsInN1YiI6ImY6Y2U1OTM5MTAtOTY2YS00YWFlLWExMmMtNTc1ZDI1NWNmMzU2OjdGNTY2MDY1LUY3MkItNDQ1MC04MDM3LUMyQzYwQURDRjY3MCIsInR5cCI6IkJlYXJlciIsImF6cCI6ImhhbmRzaGFrZXMtYXBpLWNsaWVudCIsInNpZCI6IjVhMWI1MTY3LTVjNWItNDdkMC1hMGI4LWVkNDlhMDlkMmUyNCIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cHM6Ly9hcGkyLnN0Zy5oYW5kc2hha2VzLmFpIiwiaHR0cHM6Ly9sb2NhbGhvc3Q6NTI0NzAiLCJodHRwczovL2FwaTMuc3RnLmhhbmRzaGFrZXMuYWkiLCJodHRwczovL2FwaTEuc3RnLmhhbmRzaGFrZXMuYWkiLCJodHRwczovL2FwaS1wcmVwcm9kLnN0Zy5oYW5kc2hha2VzLmFpIl0sInNjb3BlIjoiaGFuZHNoYWtlcy1jdXN0b20gZW1haWwgcHJvZmlsZSIsInVpZCI6IjdmNTY2MDY1LWY3MmItNDQ1MC04MDM3LWMyYzYwYWRjZjY3MCIsImZlYXR1cmVzIjoiMSwyLDMsNCw1LDYsNyw4LDksMTMsMTQsMTUsMTgsMTksMjAsMjEsMjIsMjQsMjYsMjcsMjgsMjksMzAsMzEsMzMsMzYsMzcsMzgsMzksNDAsNDEsNDIsNDMsNDUsNDYsNDcsNDgsNTEsNTYsNTcsNTgiLCJ1bmlxdWVfbmFtZSI6ImF6bWlwYXkiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsInJvbGVJZCI6IjciLCJuYW1lIjoiQXptaSBwYXkiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJhem1pcGF5IiwiZW1haWwiOiJhem1pdGVzdDEwMDFAZ21haWwuY29tIiwiZXhwYW5kX2xpbWl0IjoiMyJ9.JDTaoB2feL57tNh5taS103E7gXbiqFmEN_qn3tYWj2hfs4xPPhPQKf5O1X8Lpl_2gaa2Gcw4pIHSwDmEJkhdah5IBMO5SMEPsF6a2hjHMeievRb_fjqjTXZD-2h6gzqeM-sWy0MDchJ7-lLH2fHKoRojuoD3Sbep36kBsNADugb-HhrcpLG5zccPUqwtvmhEs9dOpJRVCbTjP6R5bTZYLPMoD3DwUQaTAFN57GWkws46j3QPJQO64LDxQXL_OkrfB9AJ32k51r_uMDmkryTBX7UqXSvbtpi9N-SbnYWbUAvsrbAOUN222d4F0QOaC_D6sWP8bCzIqiA5SGLWetB8pw
+2025-12-02 22:01:20,152 INFO o.a.j.r.ResultCollector: Shutdown hook started
+2025-12-02 22:01:20,157 INFO o.a.j.r.ResultCollector: Shutdown hook ended

@@ -1,0 +1,251 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1759763993252,947,Login,200,"Number of samples in transaction : 1, number of failing samples : 0",setUp Thread Group 1-1,,true,,2271,266,1,1,null,0,0,233
+1759763993857,341,Login,200,OK,setUp Thread Group 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,339,0,233
+1759763994263,121,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-1,,true,,720,1921,1,1,null,0,2,56
+1759763994265,121,Basic Entity Search,200,OK,CRSG 1-1,text,true,,720,1921,1,1,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,120,0,56
+1759763994263,121,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-1,,true,,720,1921,1,1,null,0,2,56
+1759763994265,121,Basic Entity Search,200,OK,CRSG 1-1,text,true,,720,1921,1,1,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,120,0,56
+1759763994386,36,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-1,,true,,536,2008,1,1,null,0,0,0
+1759763994386,36,Enhanced Entity Search,200,OK,CRSG 1-1,text,true,,536,2008,1,1,https://api-preprod.stg.handshakes.ai/api/entity/search,36,0,0
+1759763994386,36,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-1,,true,,536,2008,1,1,null,0,0,0
+1759763994386,36,Enhanced Entity Search,200,OK,CRSG 1-1,text,true,,536,2008,1,1,https://api-preprod.stg.handshakes.ai/api/entity/search,36,0,0
+1759763995263,176,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-2,,true,,720,1921,2,2,null,0,2,33
+1759763995264,176,Basic Entity Search,200,OK,CRSG 1-2,text,true,,720,1921,2,2,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,175,0,33
+1759763995263,176,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-2,,true,,720,1921,2,2,null,0,2,33
+1759763995264,176,Basic Entity Search,200,OK,CRSG 1-2,text,true,,720,1921,2,2,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,175,0,33
+1759763995441,69,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-2,,true,,536,2008,2,2,null,0,0,0
+1759763995441,69,Enhanced Entity Search,200,OK,CRSG 1-2,text,true,,536,2008,2,2,https://api-preprod.stg.handshakes.ai/api/entity/search,69,0,0
+1759763995441,69,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-2,,true,,536,2008,2,2,null,0,0,0
+1759763995441,69,Enhanced Entity Search,200,OK,CRSG 1-2,text,true,,536,2008,2,2,https://api-preprod.stg.handshakes.ai/api/entity/search,69,0,0
+1759763996261,887,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-3,,true,,720,1921,3,3,null,0,3,44
+1759763996263,887,Basic Entity Search,200,OK,CRSG 1-3,text,true,,720,1921,3,3,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,887,0,44
+1759763996261,887,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-3,,true,,720,1921,3,3,null,0,3,44
+1759763996263,887,Basic Entity Search,200,OK,CRSG 1-3,text,true,,720,1921,3,3,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,887,0,44
+1759763997152,51,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-3,,true,,536,2008,3,3,null,0,2,0
+1759763997153,51,Enhanced Entity Search,200,OK,CRSG 1-3,text,true,,536,2008,3,3,https://api-preprod.stg.handshakes.ai/api/entity/search,51,0,0
+1759763997152,51,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-3,,true,,536,2008,3,3,null,0,2,0
+1759763997153,51,Enhanced Entity Search,200,OK,CRSG 1-3,text,true,,536,2008,3,3,https://api-preprod.stg.handshakes.ai/api/entity/search,51,0,0
+1759763997261,898,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-4,,true,,720,1921,4,4,null,0,3,66
+1759763997263,898,Basic Entity Search,200,OK,CRSG 1-4,text,true,,720,1921,4,4,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,898,0,66
+1759763997261,898,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-4,,true,,720,1921,4,4,null,0,3,66
+1759763997263,898,Basic Entity Search,200,OK,CRSG 1-4,text,true,,720,1921,4,4,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,898,0,66
+1759763998163,74,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-4,,true,,536,2008,4,4,null,0,0,0
+1759763998163,74,Enhanced Entity Search,200,OK,CRSG 1-4,text,true,,536,2008,4,4,https://api-preprod.stg.handshakes.ai/api/entity/search,74,0,0
+1759763998163,74,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-4,,true,,536,2008,4,4,null,0,0,0
+1759763998163,74,Enhanced Entity Search,200,OK,CRSG 1-4,text,true,,536,2008,4,4,https://api-preprod.stg.handshakes.ai/api/entity/search,74,0,0
+1759763998262,1098,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-5,,true,,720,1921,6,6,null,0,3,56
+1759763998265,1098,Basic Entity Search,200,OK,CRSG 1-5,text,true,,720,1921,6,6,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,1097,0,56
+1759763998262,1098,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-5,,true,,720,1921,6,6,null,0,3,56
+1759763998265,1098,Basic Entity Search,200,OK,CRSG 1-5,text,true,,720,1921,6,6,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,1097,0,56
+1759763999269,347,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-6,,true,,720,1921,6,6,null,0,1,43
+1759763999270,347,Basic Entity Search,200,OK,CRSG 1-6,text,true,,720,1921,6,6,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,346,0,43
+1759763999269,347,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-6,,true,,720,1921,6,6,null,0,1,43
+1759763999270,347,Basic Entity Search,200,OK,CRSG 1-6,text,true,,720,1921,6,6,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,346,0,43
+1759763999365,261,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-5,,true,,536,2008,6,6,null,0,0,0
+1759763999365,261,Enhanced Entity Search,200,OK,CRSG 1-5,text,true,,536,2008,6,6,https://api-preprod.stg.handshakes.ai/api/entity/search,261,0,0
+1759763999365,261,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-5,,true,,536,2008,6,6,null,0,0,0
+1759763999365,261,Enhanced Entity Search,200,OK,CRSG 1-5,text,true,,536,2008,6,6,https://api-preprod.stg.handshakes.ai/api/entity/search,261,0,0
+1759763999618,45,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-6,,true,,536,2008,6,6,null,0,1,0
+1759763999618,45,Enhanced Entity Search,200,OK,CRSG 1-6,text,true,,536,2008,6,6,https://api-preprod.stg.handshakes.ai/api/entity/search,45,0,0
+1759763999618,45,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-6,,true,,536,2008,6,6,null,0,1,0
+1759763999618,45,Enhanced Entity Search,200,OK,CRSG 1-6,text,true,,536,2008,6,6,https://api-preprod.stg.handshakes.ai/api/entity/search,45,0,0
+1759764000261,269,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-7,,true,,720,1921,7,7,null,0,2,74
+1759764000262,269,Basic Entity Search,200,OK,CRSG 1-7,text,true,,720,1921,7,7,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,269,0,74
+1759764000261,269,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-7,,true,,720,1921,7,7,null,0,2,74
+1759764000262,269,Basic Entity Search,200,OK,CRSG 1-7,text,true,,720,1921,7,7,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,269,0,74
+1759764000534,103,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-7,,true,,536,2008,7,7,null,0,1,0
+1759764000534,103,Enhanced Entity Search,200,OK,CRSG 1-7,text,true,,536,2008,7,7,https://api-preprod.stg.handshakes.ai/api/entity/search,103,0,0
+1759764000534,103,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-7,,true,,536,2008,7,7,null,0,1,0
+1759764000534,103,Enhanced Entity Search,200,OK,CRSG 1-7,text,true,,536,2008,7,7,https://api-preprod.stg.handshakes.ai/api/entity/search,103,0,0
+1759764001261,593,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,720,1921,8,8,null,0,1,89
+1759764001262,593,Basic Entity Search,200,OK,CRSG 1-8,text,true,,720,1921,8,8,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,592,0,89
+1759764001261,593,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,720,1921,8,8,null,0,1,89
+1759764001262,593,Basic Entity Search,200,OK,CRSG 1-8,text,true,,720,1921,8,8,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,592,0,89
+1759764001855,83,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,536,2008,8,8,null,0,2,0
+1759764001856,83,Enhanced Entity Search,200,OK,CRSG 1-8,text,true,,536,2008,8,8,https://api-preprod.stg.handshakes.ai/api/entity/search,83,0,0
+1759764001855,83,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,536,2008,8,8,null,0,2,0
+1759764001856,83,Enhanced Entity Search,200,OK,CRSG 1-8,text,true,,536,2008,8,8,https://api-preprod.stg.handshakes.ai/api/entity/search,83,0,0
+1759764002261,279,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-9,,true,,720,1921,9,9,null,0,2,72
+1759764002262,279,Basic Entity Search,200,OK,CRSG 1-9,text,true,,720,1921,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,278,0,72
+1759764002261,279,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-9,,true,,720,1921,9,9,null,0,2,72
+1759764002262,279,Basic Entity Search,200,OK,CRSG 1-9,text,true,,720,1921,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,278,0,72
+1759764002542,93,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-9,,true,,536,2008,9,9,null,0,1,0
+1759764002543,93,Enhanced Entity Search,200,OK,CRSG 1-9,text,true,,536,2008,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,92,0,0
+1759764002542,93,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-9,,true,,536,2008,9,9,null,0,1,0
+1759764002543,93,Enhanced Entity Search,200,OK,CRSG 1-9,text,true,,536,2008,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,92,0,0
+1759764003261,157,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-10,,true,,720,1921,10,10,null,0,2,51
+1759764003262,157,Basic Entity Search,200,OK,CRSG 1-10,text,true,,720,1921,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,157,0,51
+1759764003261,157,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-10,,true,,720,1921,10,10,null,0,2,51
+1759764003262,157,Basic Entity Search,200,OK,CRSG 1-10,text,true,,720,1921,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=RPHCXRU%20BGLAN%20XKCMT%20XMA&sourceshortname=CRSG,157,0,51
+1759764003419,37,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-10,,true,,536,2008,10,10,null,0,1,0
+1759764003419,37,Enhanced Entity Search,200,OK,CRSG 1-10,text,true,,536,2008,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,37,0,0
+1759764003419,37,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-10,,true,,536,2008,10,10,null,0,1,0
+1759764003419,37,Enhanced Entity Search,200,OK,CRSG 1-10,text,true,,536,2008,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,37,0,0
+1759764003457,100740,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-10,,true,,5430070,2080,10,10,null,0,2,0
+1759764003458,100740,Radial Map,200,OK,CRSG 1-10,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,99908,0,0
+1759764003457,100740,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-10,,true,,5430070,2080,10,10,null,0,2,0
+1759764003458,100740,Radial Map,200,OK,CRSG 1-10,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,99908,0,0
+1759764001940,102295,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,5430070,2080,10,10,null,0,2,0
+1759764001941,102295,Radial Map,200,OK,CRSG 1-8,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,100100,0,0
+1759764001940,102295,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,5430070,2080,10,10,null,0,2,0
+1759764001941,102295,Radial Map,200,OK,CRSG 1-8,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,100100,0,0
+1759763999664,104600,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-6,,true,,5430070,2080,10,10,null,0,0,0
+1759763999664,104600,Radial Map,200,OK,CRSG 1-6,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,104079,0,0
+1759763999664,104600,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-6,,true,,5430070,2080,10,10,null,0,0,0
+1759763999664,104600,Radial Map,200,OK,CRSG 1-6,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,104079,0,0
+1759764000638,107402,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-7,,true,,5430070,2080,10,10,null,0,1,0
+1759764000639,107402,Radial Map,200,OK,CRSG 1-7,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,104207,0,0
+1759764000638,107402,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-7,,true,,5430070,2080,10,10,null,0,1,0
+1759764000639,107402,Radial Map,200,OK,CRSG 1-7,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,104207,0,0
+1759763995511,114742,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-2,,true,,5430070,2080,10,10,null,0,0,0
+1759763995511,114742,Radial Map,200,OK,CRSG 1-2,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,114102,0,0
+1759763995511,114742,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-2,,true,,5430070,2080,10,10,null,0,0,0
+1759763995511,114742,Radial Map,200,OK,CRSG 1-2,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,114102,0,0
+1759763999626,111644,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-5,,true,,5430070,2080,10,10,null,0,1,0
+1759763999627,111644,Radial Map,200,OK,CRSG 1-5,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,111304,0,0
+1759763999626,111644,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-5,,true,,5430070,2080,10,10,null,0,1,0
+1759763999627,111644,Radial Map,200,OK,CRSG 1-5,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,111304,0,0
+1759764002637,109337,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-9,,true,,5430070,2080,10,10,null,0,0,0
+1759764002637,109337,Radial Map,200,OK,CRSG 1-9,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,108777,0,0
+1759764002637,109337,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-9,,true,,5430070,2080,10,10,null,0,0,0
+1759764002637,109337,Radial Map,200,OK,CRSG 1-9,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,108777,0,0
+1759763998238,113768,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-4,,true,,5430070,2080,10,10,null,0,0,0
+1759763998238,113768,Radial Map,200,OK,CRSG 1-4,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,113219,0,0
+1759763998238,113768,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-4,,true,,5430070,2080,10,10,null,0,0,0
+1759763998238,113768,Radial Map,200,OK,CRSG 1-4,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,113219,0,0
+1759763997205,114974,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-3,,true,,5430070,2080,10,10,null,0,2,0
+1759763997206,114974,Radial Map,200,OK,CRSG 1-3,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,114638,0,0
+1759763997205,114974,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-3,,true,,5430070,2080,10,10,null,0,2,0
+1759763997206,114974,Radial Map,200,OK,CRSG 1-3,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,114638,0,0
+1759763994423,121256,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-1,,true,,5430070,2080,10,10,null,0,1,0
+1759763994423,121256,Radial Map,200,OK,CRSG 1-1,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,120807,0,0
+1759763994423,121256,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-1,,true,,5430070,2080,10,10,null,0,1,0
+1759763994423,121256,Radial Map,200,OK,CRSG 1-1,text,true,,5430070,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,120807,0,0
+1759764104237,26188,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,10113,2131,10,10,null,0,1,49
+1759764104237,26188,Interconnection Map,200,OK,CRSG 1-8,text,true,,10113,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,26188,0,49
+1759764104237,26188,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,10113,2131,10,10,null,0,1,49
+1759764104237,26188,Interconnection Map,200,OK,CRSG 1-8,text,true,,10113,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,26188,0,49
+1759764130426,72983,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,3212480,2080,10,10,null,0,1,0
+1759764130426,72983,LBO Map,200,OK,CRSG 1-8,text,true,,3212480,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,70298,0,0
+1759764130426,72983,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,3212480,2080,10,10,null,0,1,0
+1759764130426,72983,LBO Map,200,OK,CRSG 1-8,text,true,,3212480,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,70298,0,0
+1759764203410,302,IC Map,405,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-8,,false,,511,2079,10,10,null,0,2,69
+1759764203411,302,IC Map,405,Method Not Allowed,CRSG 1-8,,false,Test failed: code expected to contain /200/,511,2079,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,302,0,69
+1759764203410,302,IC Map,405,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-8,,false,,511,2079,10,10,null,0,2,69
+1759764203411,302,IC Map,405,Method Not Allowed,CRSG 1-8,,false,Test failed: code expected to contain /200/,511,2079,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,302,0,69
+1759764111271,101841,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-5,,true,,10113,2131,10,10,null,0,0,45
+1759764111271,101841,Interconnection Map,200,OK,CRSG 1-5,text,true,,10113,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,101841,0,45
+1759764111271,101841,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-5,,true,,10113,2131,10,10,null,0,0,45
+1759764111271,101841,Interconnection Map,200,OK,CRSG 1-5,text,true,,10113,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,101841,0,45
+1759764111974,105146,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-9,,true,,10113,2131,10,10,null,0,2,56
+1759764111975,105146,Interconnection Map,200,OK,CRSG 1-9,text,true,,10113,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,105146,0,56
+1759764111974,105146,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-9,,true,,10113,2131,10,10,null,0,2,56
+1759764111975,105146,Interconnection Map,200,OK,CRSG 1-9,text,true,,10113,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,105146,0,56
+1759764203714,17332,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,11149,1969,10,10,null,0,0,33
+1759764203714,17332,EPR,200,OK,CRSG 1-8,text,true,,11149,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&entityguid=A1B019B8-AE66-422F-9D29-9CF5961A69AA,17332,0,33
+1759764203714,17332,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,11149,1969,10,10,null,0,0,33
+1759764203714,17332,EPR,200,OK,CRSG 1-8,text,true,,11149,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&entityguid=A1B019B8-AE66-422F-9D29-9CF5961A69AA,17332,0,33
+1759764221048,268,RPR,400,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-8,,false,,568,2021,10,10,null,0,0,0
+1759764221048,268,RPR,400,Bad Request,CRSG 1-8,text,false,Test failed: code expected to contain /200/,568,2021,10,10,https://api-preprod.stg.handshakes.ai/api/report/registryprofile,268,0,0
+1759764221048,268,RPR,400,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-8,,false,,568,2021,10,10,null,0,0,0
+1759764221048,268,RPR,400,Bad Request,CRSG 1-8,text,false,Test failed: code expected to contain /200/,568,2021,10,10,https://api-preprod.stg.handshakes.ai/api/report/registryprofile,268,0,0
+1759764221317,1915,RED List,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,15814,2025,10,10,null,0,1,0
+1759764221317,1915,RED List,200,OK,CRSG 1-8,text,true,,15814,2025,10,10,https://api-preprod.stg.handshakes.ai/api/report/redlist,1915,0,0
+1759764221317,1915,RED List,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,15814,2025,10,10,null,0,1,0
+1759764221317,1915,RED List,200,OK,CRSG 1-8,text,true,,15814,2025,10,10,https://api-preprod.stg.handshakes.ai/api/report/redlist,1915,0,0
+1759764223233,491,FPR - 1 Year,400,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-8,,false,,548,2088,10,10,null,0,1,0
+1759764223233,491,FPR - 1 Year,400,Bad Request,CRSG 1-8,text,false,Test failed: code expected to contain /200/,548,2088,10,10,https://api-preprod.stg.handshakes.ai/api/record/financials,491,0,0
+1759764223233,491,FPR - 1 Year,400,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-8,,false,,548,2088,10,10,null,0,1,0
+1759764223233,491,FPR - 1 Year,400,Bad Request,CRSG 1-8,text,false,Test failed: code expected to contain /200/,548,2088,10,10,https://api-preprod.stg.handshakes.ai/api/record/financials,491,0,0
+1759764223725,4188,FPR - 5 Year,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,17040,2045,10,10,null,0,1,0
+1759764223725,4188,FPR - 5 Year,200,OK,CRSG 1-8,text,true,,17040,2045,10,10,https://api-preprod.stg.handshakes.ai/api/report/financialprofile,4188,0,0
+1759764223725,4188,FPR - 5 Year,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-8,,true,,17040,2045,10,10,null,0,1,0
+1759764223725,4188,FPR - 5 Year,200,OK,CRSG 1-8,text,true,,17040,2045,10,10,https://api-preprod.stg.handshakes.ai/api/report/financialprofile,4188,0,0
+1759764110254,128298,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-2,,true,,10113,2131,9,9,null,0,2,43
+1759764110255,128298,Interconnection Map,200,OK,CRSG 1-2,text,true,,10113,2131,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,128298,0,43
+1759764110254,128298,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",CRSG 1-2,,true,,10113,2131,9,9,null,0,2,43
+1759764110255,128298,Interconnection Map,200,OK,CRSG 1-2,text,true,,10113,2131,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,128298,0,43
+1759764217122,181813,LBO Map,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,688,2080,9,9,null,0,1,48
+1759764217122,181813,LBO Map,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,688,2080,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,181813,0,48
+1759764238555,160380,LBO Map,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,688,2080,9,9,null,0,1,45
+1759764213114,185822,LBO Map,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,688,2080,9,9,null,0,1,44
+1759764238555,160380,LBO Map,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,688,2080,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,160380,0,45
+1759764213114,185822,LBO Map,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,688,2080,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,185822,0,44
+1759764238555,160380,LBO Map,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,688,2080,9,9,null,0,1,45
+1759764217122,181813,LBO Map,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,688,2080,9,9,null,0,1,48
+1759764238555,160380,LBO Map,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,688,2080,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,160380,0,45
+1759764217122,181813,LBO Map,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,688,2080,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,181813,0,48
+1759764213114,185822,LBO Map,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,688,2080,9,9,null,0,1,44
+1759764213114,185822,LBO Map,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,688,2080,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,185822,0,44
+1759764398937,88,IC Map,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,683,2079,9,9,null,0,2,69
+1759764398938,88,IC Map,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,683,2079,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,88,0,69
+1759764398937,88,IC Map,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,683,2079,9,9,null,0,2,69
+1759764398937,88,IC Map,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,683,2079,9,9,null,0,2,69
+1759764398938,88,IC Map,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,683,2079,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,88,0,69
+1759764398937,88,IC Map,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,683,2079,9,9,null,0,2,69
+1759764398938,88,IC Map,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,683,2079,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,88,0,69
+1759764398937,88,IC Map,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,683,2079,9,9,null,0,2,69
+1759764398938,88,IC Map,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,683,2079,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,88,0,69
+1759764398938,88,IC Map,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,683,2079,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,88,0,69
+1759764398937,88,IC Map,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,683,2079,9,9,null,0,2,69
+1759764398938,88,IC Map,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,683,2079,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,88,0,69
+1759764399027,66,EPR,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,688,1969,9,9,null,0,1,50
+1759764399027,65,EPR,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,688,1969,9,9,null,0,2,51
+1759764399027,65,EPR,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,688,1969,9,9,null,0,2,51
+1759764399027,66,EPR,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,688,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&entityguid=A1B019B8-AE66-422F-9D29-9CF5961A69AA,66,0,50
+1759764399028,65,EPR,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,688,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&entityguid=A1B019B8-AE66-422F-9D29-9CF5961A69AA,65,0,51
+1759764399028,65,EPR,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,688,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&entityguid=A1B019B8-AE66-422F-9D29-9CF5961A69AA,65,0,51
+1759764399027,65,EPR,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,688,1969,9,9,null,0,2,51
+1759764399027,65,EPR,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,688,1969,9,9,null,0,2,51
+1759764399028,65,EPR,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,688,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&entityguid=A1B019B8-AE66-422F-9D29-9CF5961A69AA,65,0,51
+1759764399028,65,EPR,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,688,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&entityguid=A1B019B8-AE66-422F-9D29-9CF5961A69AA,65,0,51
+1759764399027,66,EPR,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,688,1969,9,9,null,0,1,50
+1759764399027,66,EPR,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,688,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&entityguid=A1B019B8-AE66-422F-9D29-9CF5961A69AA,66,0,50
+1759764399094,35,RPR,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,688,2021,9,9,null,0,1,0
+1759764399095,35,RPR,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,688,2021,9,9,null,0,0,0
+1759764399095,35,RPR,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,688,2021,9,9,https://api-preprod.stg.handshakes.ai/api/report/registryprofile,35,0,0
+1759764399095,35,RPR,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,688,2021,9,9,https://api-preprod.stg.handshakes.ai/api/report/registryprofile,35,0,0
+1759764399094,35,RPR,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,688,2021,9,9,null,0,1,0
+1759764399095,35,RPR,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,688,2021,9,9,null,0,0,0
+1759764399095,35,RPR,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,688,2021,9,9,https://api-preprod.stg.handshakes.ai/api/report/registryprofile,35,0,0
+1759764399095,35,RPR,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,688,2021,9,9,https://api-preprod.stg.handshakes.ai/api/report/registryprofile,35,0,0
+1759764399094,36,RPR,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,688,2021,9,9,null,0,2,0
+1759764399095,36,RPR,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,688,2021,9,9,https://api-preprod.stg.handshakes.ai/api/report/registryprofile,36,0,0
+1759764399094,36,RPR,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,688,2021,9,9,null,0,2,0
+1759764399095,36,RPR,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,688,2021,9,9,https://api-preprod.stg.handshakes.ai/api/report/registryprofile,36,0,0
+1759764399131,26,RED List,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,688,2025,9,9,null,0,0,0
+1759764399131,26,RED List,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,688,2025,9,9,null,0,0,0
+1759764399132,25,RED List,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,688,2025,9,9,null,0,0,0
+1759764399131,26,RED List,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,688,2025,9,9,https://api-preprod.stg.handshakes.ai/api/report/redlist,26,0,0
+1759764399131,26,RED List,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,688,2025,9,9,https://api-preprod.stg.handshakes.ai/api/report/redlist,26,0,0
+1759764399132,25,RED List,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,688,2025,9,9,https://api-preprod.stg.handshakes.ai/api/report/redlist,25,0,0
+1759764399131,26,RED List,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,688,2025,9,9,null,0,0,0
+1759764399131,26,RED List,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,688,2025,9,9,null,0,0,0
+1759764399131,26,RED List,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,688,2025,9,9,https://api-preprod.stg.handshakes.ai/api/report/redlist,26,0,0
+1759764399132,25,RED List,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,688,2025,9,9,null,0,0,0
+1759764399131,26,RED List,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,688,2025,9,9,https://api-preprod.stg.handshakes.ai/api/report/redlist,26,0,0
+1759764399132,25,RED List,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,688,2025,9,9,https://api-preprod.stg.handshakes.ai/api/report/redlist,25,0,0
+1759764399158,17,FPR - 1 Year,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,688,2088,9,9,null,0,0,0
+1759764399158,17,FPR - 1 Year,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,688,2088,9,9,null,0,0,0
+1759764399158,17,FPR - 1 Year,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,688,2088,9,9,https://api-preprod.stg.handshakes.ai/api/record/financials,16,0,0
+1759764399158,17,FPR - 1 Year,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,688,2088,9,9,https://api-preprod.stg.handshakes.ai/api/record/financials,16,0,0
+1759764399158,17,FPR - 1 Year,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,688,2088,9,9,null,0,0,0
+1759764399158,17,FPR - 1 Year,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,688,2088,9,9,null,0,0,0
+1759764399158,17,FPR - 1 Year,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,688,2088,9,9,https://api-preprod.stg.handshakes.ai/api/record/financials,16,0,0
+1759764399158,17,FPR - 1 Year,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,688,2088,9,9,https://api-preprod.stg.handshakes.ai/api/record/financials,16,0,0
+1759764399158,17,FPR - 1 Year,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,688,2088,9,9,null,0,0,0
+1759764399158,17,FPR - 1 Year,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,688,2088,9,9,https://api-preprod.stg.handshakes.ai/api/record/financials,16,0,0
+1759764399158,17,FPR - 1 Year,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,688,2088,9,9,null,0,0,0
+1759764399158,17,FPR - 1 Year,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,688,2088,9,9,https://api-preprod.stg.handshakes.ai/api/record/financials,16,0,0
+1759764399176,15,FPR - 5 Year,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,688,2045,9,9,null,0,1,0
+1759764399175,15,FPR - 5 Year,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,688,2045,9,9,null,0,2,0
+1759764399175,15,FPR - 5 Year,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,688,2045,9,9,null,0,2,0
+1759764399176,15,FPR - 5 Year,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,688,2045,9,9,https://api-preprod.stg.handshakes.ai/api/report/financialprofile,15,0,0
+1759764399176,15,FPR - 5 Year,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,688,2045,9,9,https://api-preprod.stg.handshakes.ai/api/report/financialprofile,15,0,0
+1759764399176,15,FPR - 5 Year,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,688,2045,9,9,https://api-preprod.stg.handshakes.ai/api/report/financialprofile,15,0,0
+1759764399176,15,FPR - 5 Year,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-9,,false,,688,2045,9,9,null,0,1,0
+1759764399175,15,FPR - 5 Year,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-2,,false,,688,2045,9,9,null,0,2,0
+1759764399176,15,FPR - 5 Year,502,Bad Gateway,CRSG 1-9,text,false,Test failed: code expected to contain /200/,688,2045,9,9,https://api-preprod.stg.handshakes.ai/api/report/financialprofile,15,0,0
+1759764399176,15,FPR - 5 Year,502,Bad Gateway,CRSG 1-2,text,false,Test failed: code expected to contain /200/,688,2045,9,9,https://api-preprod.stg.handshakes.ai/api/report/financialprofile,15,0,0
+1759764399175,15,FPR - 5 Year,502,"Number of samples in transaction : 1, number of failing samples : 1",CRSG 1-5,,false,,688,2045,9,9,null,0,2,0
+1759764399176,15,FPR - 5 Year,502,Bad Gateway,CRSG 1-5,text,false,Test failed: code expected to contain /200/,688,2045,9,9,https://api-preprod.stg.handshakes.ai/api/report/financialprofile,15,0,0

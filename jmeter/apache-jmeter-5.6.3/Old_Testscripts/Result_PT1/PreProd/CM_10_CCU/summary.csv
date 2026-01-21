@@ -1,0 +1,605 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1764698065125,812,Token,200,OK,Token 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,806,0,473
+1764698065125,812,Token,200,OK,Token 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,806,0,473
+1764698061900,812,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,266,1,1,null,806,3323,473
+1764698061900,812,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,266,1,1,null,806,3323,473
+1764698066096,495,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1703,1955,3,3,null,0,951,70
+1764698066097,495,Basic Entity Search,200,OK,APIs 1-1,text,true,,1703,1955,1,1,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,493,0,70
+1764698066096,495,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1703,1955,3,3,null,0,951,70
+1764698067128,247,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,1703,1955,3,3,null,0,168,43
+1764698066097,495,Basic Entity Search,200,OK,APIs 1-1,text,true,,1703,1955,1,1,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,493,0,70
+1764698067129,247,Basic Entity Search,200,OK,APIs 1-3,text,true,,1703,1955,3,3,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,247,0,43
+1764698067128,247,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,1703,1955,3,3,null,0,168,43
+1764698067129,247,Basic Entity Search,200,OK,APIs 1-3,text,true,,1703,1955,3,3,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,247,0,43
+1764698066602,271,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,1703,1955,3,3,null,0,670,62
+1764698066603,271,Basic Entity Search,200,OK,APIs 1-2,text,true,,1703,1955,2,2,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,271,0,62
+1764698066602,271,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,1703,1955,3,3,null,0,670,62
+1764698066603,271,Basic Entity Search,200,OK,APIs 1-2,text,true,,1703,1955,2,2,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,271,0,62
+1764698067543,888,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2840,2032,5,5,null,0,22,0
+1764698067544,888,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2840,2032,5,5,https://api-preprod.stg.handshakes.ai/api/entity/search,887,0,0
+1764698067543,888,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2840,2032,5,5,null,0,22,0
+1764698067544,888,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2840,2032,5,5,https://api-preprod.stg.handshakes.ai/api/entity/search,887,0,0
+1764698067544,888,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2840,2032,5,5,null,0,22,0
+1764698067544,888,Enhanced Entity Search,200,OK,APIs 1-2,text,true,,2840,2032,5,5,https://api-preprod.stg.handshakes.ai/api/entity/search,887,0,0
+1764698067544,888,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2840,2032,5,5,null,0,22,0
+1764698067544,888,Enhanced Entity Search,200,OK,APIs 1-2,text,true,,2840,2032,5,5,https://api-preprod.stg.handshakes.ai/api/entity/search,887,0,0
+1764698068098,424,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,1703,1955,5,5,null,0,4,60
+1764698068101,424,Basic Entity Search,200,OK,APIs 1-5,text,true,,1703,1955,5,5,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,423,0,60
+1764698068098,424,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,1703,1955,5,5,null,0,4,60
+1764698068101,424,Basic Entity Search,200,OK,APIs 1-5,text,true,,1703,1955,5,5,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,423,0,60
+1764698067615,1032,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,1703,1955,6,6,null,0,3,34
+1764698067616,1032,Basic Entity Search,200,OK,APIs 1-4,text,true,,1703,1955,6,6,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,1032,0,34
+1764698067615,1032,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,1703,1955,6,6,null,0,3,34
+1764698067616,1032,Basic Entity Search,200,OK,APIs 1-4,text,true,,1703,1955,6,6,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,1032,0,34
+1764698068591,224,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,1703,1955,6,6,null,0,2,52
+1764698068592,224,Basic Entity Search,200,OK,APIs 1-6,text,true,,1703,1955,6,6,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,223,0,52
+1764698068591,224,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,1703,1955,6,6,null,0,2,52
+1764698068592,224,Basic Entity Search,200,OK,APIs 1-6,text,true,,1703,1955,6,6,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,223,0,52
+1764698068651,565,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2840,2032,7,7,null,0,0,0
+1764698068651,565,Enhanced Entity Search,200,OK,APIs 1-4,text,true,,2840,2032,7,7,https://api-preprod.stg.handshakes.ai/api/entity/search,565,0,0
+1764698068651,565,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2840,2032,7,7,null,0,0,0
+1764698068651,565,Enhanced Entity Search,200,OK,APIs 1-4,text,true,,2840,2032,7,7,https://api-preprod.stg.handshakes.ai/api/entity/search,565,0,0
+1764698067543,2025,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2840,2032,7,7,null,0,2,0
+1764698069091,477,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,1703,1955,7,7,null,0,2,43
+1764698067544,2025,Enhanced Entity Search,200,OK,APIs 1-3,text,true,,2840,2032,7,7,https://api-preprod.stg.handshakes.ai/api/entity/search,2025,0,0
+1764698069092,477,Basic Entity Search,200,OK,APIs 1-7,text,true,,1703,1955,7,7,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,477,0,43
+1764698067543,2025,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2840,2032,7,7,null,0,2,0
+1764698069091,477,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,1703,1955,7,7,null,0,2,43
+1764698067544,2025,Enhanced Entity Search,200,OK,APIs 1-3,text,true,,2840,2032,7,7,https://api-preprod.stg.handshakes.ai/api/entity/search,2025,0,0
+1764698069092,477,Basic Entity Search,200,OK,APIs 1-7,text,true,,1703,1955,7,7,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,477,0,43
+1764698068527,1098,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2840,2032,8,8,null,0,1,0
+1764698068527,1098,Enhanced Entity Search,200,OK,APIs 1-5,text,true,,2840,2032,8,8,https://api-preprod.stg.handshakes.ai/api/entity/search,1098,0,0
+1764698068527,1098,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2840,2032,8,8,null,0,1,0
+1764698068527,1098,Enhanced Entity Search,200,OK,APIs 1-5,text,true,,2840,2032,8,8,https://api-preprod.stg.handshakes.ai/api/entity/search,1098,0,0
+1764698068817,1799,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2840,2032,10,10,null,0,1,0
+1764698068818,1799,Enhanced Entity Search,200,OK,APIs 1-6,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1799,0,0
+1764698068817,1799,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2840,2032,10,10,null,0,1,0
+1764698068818,1799,Enhanced Entity Search,200,OK,APIs 1-6,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1799,0,0
+1764698069571,3045,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2840,2032,10,10,null,0,2,0
+1764698069572,3045,Enhanced Entity Search,200,OK,APIs 1-7,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,3045,0,0
+1764698069589,3027,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,1703,1955,10,10,null,0,2,44
+1764698069571,3045,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2840,2032,10,10,null,0,2,0
+1764698069572,3045,Enhanced Entity Search,200,OK,APIs 1-7,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,3045,0,0
+1764698069590,3027,Basic Entity Search,200,OK,APIs 1-8,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,3027,0,44
+1764698069589,3027,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,1703,1955,10,10,null,0,2,44
+1764698070088,2527,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,1703,1955,10,10,null,0,4,34
+1764698069590,3027,Basic Entity Search,200,OK,APIs 1-8,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,3027,0,44
+1764698070090,2527,Basic Entity Search,200,OK,APIs 1-9,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,2527,0,34
+1764698070088,2527,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,1703,1955,10,10,null,0,4,34
+1764698070090,2527,Basic Entity Search,200,OK,APIs 1-9,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,2527,0,34
+1764698070585,3034,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,1703,1955,10,10,null,0,1,34
+1764698070585,3034,Basic Entity Search,200,OK,APIs 1-10,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,3034,0,34
+1764698070585,3034,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,1703,1955,10,10,null,0,1,34
+1764698070585,3034,Basic Entity Search,200,OK,APIs 1-10,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,3034,0,34
+1764698072618,4001,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2840,2032,10,10,null,0,2,0
+1764698072619,4001,Enhanced Entity Search,200,OK,APIs 1-9,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,4001,0,0
+1764698072618,4001,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2840,2032,10,10,null,0,2,0
+1764698072619,4001,Enhanced Entity Search,200,OK,APIs 1-9,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,4001,0,0
+1764698072618,4635,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2840,2032,10,10,null,0,1,0
+1764698072619,4635,Enhanced Entity Search,200,OK,APIs 1-8,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,4635,0,0
+1764698072618,4635,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2840,2032,10,10,null,0,1,0
+1764698072619,4635,Enhanced Entity Search,200,OK,APIs 1-8,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,4635,0,0
+1764698073619,4719,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2840,2032,10,10,null,0,1,0
+1764698073619,4719,Enhanced Entity Search,200,OK,APIs 1-10,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,4719,0,0
+1764698073619,4719,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2840,2032,10,10,null,0,1,0
+1764698073619,4719,Enhanced Entity Search,200,OK,APIs 1-10,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,4719,0,0
+1764698078340,52037,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,6125802,2080,10,10,null,0,10,0
+1764698078341,52037,Radial Map,200,OK,APIs 1-10,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,34698,0,0
+1764698078340,52037,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,6125802,2080,10,10,null,0,10,0
+1764698078341,52037,Radial Map,200,OK,APIs 1-10,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,34698,0,0
+1764698076621,53877,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,6125802,2080,10,10,null,0,1,0
+1764698076621,53877,Radial Map,200,OK,APIs 1-9,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,35099,0,0
+1764698076621,53877,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,6125802,2080,10,10,null,0,1,0
+1764698076621,53877,Radial Map,200,OK,APIs 1-9,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,35099,0,0
+1764698069571,62687,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,6125802,2080,10,10,null,0,1,0
+1764698069572,62687,Radial Map,200,OK,APIs 1-3,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,41651,0,0
+1764698069571,62687,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,6125802,2080,10,10,null,0,1,0
+1764698069572,62687,Radial Map,200,OK,APIs 1-3,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,41651,0,0
+1764698068453,71801,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,6125802,2080,10,10,null,0,1,0
+1764698068454,71801,Radial Map,200,OK,APIs 1-1,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,42912,0,0
+1764698068453,71801,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,6125802,2080,10,10,null,0,1,0
+1764698068454,71801,Radial Map,200,OK,APIs 1-1,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,42912,0,0
+1764698070618,70993,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,6125802,2080,10,10,null,0,0,0
+1764698070618,70993,Radial Map,200,OK,APIs 1-6,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,42063,0,0
+1764698070618,70993,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,6125802,2080,10,10,null,0,0,0
+1764698070618,70993,Radial Map,200,OK,APIs 1-6,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,42063,0,0
+1764698068455,73939,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,6125802,2080,10,10,null,0,1,0
+1764698068455,73939,Radial Map,200,OK,APIs 1-2,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,43965,0,0
+1764698068455,73939,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,6125802,2080,10,10,null,0,1,0
+1764698068455,73939,Radial Map,200,OK,APIs 1-2,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,43965,0,0
+1764698072618,70288,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,6125802,2080,10,10,null,0,0,0
+1764698072618,70288,Radial Map,200,OK,APIs 1-7,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,39304,0,0
+1764698072618,70288,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,6125802,2080,10,10,null,0,0,0
+1764698072618,70288,Radial Map,200,OK,APIs 1-7,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,39304,0,0
+1764698069217,73798,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,6125802,2080,10,10,null,0,0,0
+1764698069217,73798,Radial Map,200,OK,APIs 1-4,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,43514,0,0
+1764698069217,73798,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,6125802,2080,10,10,null,0,0,0
+1764698069217,73798,Radial Map,200,OK,APIs 1-4,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,43514,0,0
+1764698077255,67324,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,6125802,2080,10,10,null,0,1,0
+1764698077255,67324,Radial Map,200,OK,APIs 1-8,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,34295,0,0
+1764698077255,67324,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,6125802,2080,10,10,null,0,1,0
+1764698077255,67324,Radial Map,200,OK,APIs 1-8,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,34295,0,0
+1764698130499,16058,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2191647,2131,10,10,null,0,6,183
+1764698130499,16058,Interconnection Map,200,OK,APIs 1-9,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,13079,0,183
+1764698130499,16058,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2191647,2131,10,10,null,0,6,183
+1764698130499,16058,Interconnection Map,200,OK,APIs 1-9,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,13079,0,183
+1764698069627,79152,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,6125802,2080,10,10,null,0,1,0
+1764698069628,79152,Radial Map,200,OK,APIs 1-5,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,73684,0,0
+1764698069627,79152,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,6125802,2080,10,10,null,0,1,0
+1764698069628,79152,Radial Map,200,OK,APIs 1-5,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,73684,0,0
+1764698132259,25016,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2191647,2131,10,10,null,0,0,156
+1764698132259,25016,Interconnection Map,200,OK,APIs 1-3,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,23854,0,156
+1764698132259,25016,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2191647,2131,10,10,null,0,0,156
+1764698132259,25016,Interconnection Map,200,OK,APIs 1-3,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,23854,0,156
+1764698140254,19543,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2191647,2131,10,10,null,0,0,250
+1764698140254,19543,Interconnection Map,200,OK,APIs 1-1,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,18426,0,250
+1764698140254,19543,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2191647,2131,10,10,null,0,0,250
+1764698140254,19543,Interconnection Map,200,OK,APIs 1-1,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,18426,0,250
+1764698141611,22548,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2191647,2131,10,10,null,0,0,187
+1764698141611,22548,Interconnection Map,200,OK,APIs 1-6,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,20678,0,187
+1764698141611,22548,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2191647,2131,10,10,null,0,0,187
+1764698141611,22548,Interconnection Map,200,OK,APIs 1-6,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,20678,0,187
+1764698130388,35210,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2191647,2131,10,10,null,0,0,0
+1764698130388,35210,Interconnection Map,200,OK,APIs 1-10,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,32192,0,0
+1764698130388,35210,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2191647,2131,10,10,null,0,0,0
+1764698130388,35210,Interconnection Map,200,OK,APIs 1-10,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,32192,0,0
+1764698159797,6156,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,23340,1969,10,10,null,0,7,0
+1764698159797,6156,EPR,200,OK,APIs 1-1,text,true,,23340,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,6156,0,0
+1764698159797,6156,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,23340,1969,10,10,null,0,7,0
+1764698159797,6156,EPR,200,OK,APIs 1-1,text,true,,23340,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,6156,0,0
+1764698143015,23201,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2191647,2131,10,10,null,0,1,47
+1764698143015,23201,Interconnection Map,200,OK,APIs 1-4,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,19835,0,47
+1764698143015,23201,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2191647,2131,10,10,null,0,1,47
+1764698143015,23201,Interconnection Map,200,OK,APIs 1-4,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,19835,0,47
+1764698165960,332,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1703,1955,10,10,null,0,2,166
+1764698165961,332,Basic Entity Search,200,OK,APIs 1-1,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,332,0,166
+1764698165960,332,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1703,1955,10,10,null,0,2,166
+1764698165961,332,Basic Entity Search,200,OK,APIs 1-1,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,332,0,166
+1764698157275,9609,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,23329,1969,10,10,null,0,0,0
+1764698157275,9609,EPR,200,OK,APIs 1-3,text,true,,23329,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,9609,0,0
+1764698157275,9609,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,23329,1969,10,10,null,0,0,0
+1764698157275,9609,EPR,200,OK,APIs 1-3,text,true,,23329,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,9609,0,0
+1764698166294,698,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2840,2032,10,10,null,0,1,0
+1764698166294,698,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,698,0,0
+1764698166294,698,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2840,2032,10,10,null,0,1,0
+1764698166294,698,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,698,0,0
+1764698146563,20773,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,23346,1969,10,10,null,0,1,0
+1764698146563,20773,EPR,200,OK,APIs 1-9,text,true,,23346,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,20773,0,0
+1764698146563,20773,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,23346,1969,10,10,null,0,1,0
+1764698146563,20773,EPR,200,OK,APIs 1-9,text,true,,23346,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,20773,0,0
+1764698144579,22758,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2191647,2131,10,10,null,0,0,109
+1764698144579,22758,Interconnection Map,200,OK,APIs 1-8,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,21038,0,109
+1764698144579,22758,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2191647,2131,10,10,null,0,0,109
+1764698144579,22758,Interconnection Map,200,OK,APIs 1-8,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,21038,0,109
+1764698166884,590,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,1703,1955,10,10,null,0,1,139
+1764698166885,590,Basic Entity Search,200,OK,APIs 1-3,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,589,0,139
+1764698166884,590,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,1703,1955,10,10,null,0,1,139
+1764698166885,590,Basic Entity Search,200,OK,APIs 1-3,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,589,0,139
+1764698167337,379,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,1703,1955,10,10,null,0,2,35
+1764698167338,379,Basic Entity Search,200,OK,APIs 1-9,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,379,0,35
+1764698167337,379,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,1703,1955,10,10,null,0,2,35
+1764698167338,379,Basic Entity Search,200,OK,APIs 1-9,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,379,0,35
+1764698167719,1006,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2840,2032,10,10,null,0,0,0
+1764698167719,1006,Enhanced Entity Search,200,OK,APIs 1-9,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1006,0,0
+1764698167719,1006,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2840,2032,10,10,null,0,0,0
+1764698167719,1006,Enhanced Entity Search,200,OK,APIs 1-9,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1006,0,0
+1764698167476,1419,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2840,2032,10,10,null,0,0,0
+1764698167476,1419,Enhanced Entity Search,200,OK,APIs 1-3,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1419,0,0
+1764698167476,1419,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2840,2032,10,10,null,0,0,0
+1764698167476,1419,Enhanced Entity Search,200,OK,APIs 1-3,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1419,0,0
+1764698148779,20156,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2191647,2131,10,10,null,0,1,36
+1764698148780,20156,Interconnection Map,200,OK,APIs 1-5,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,19032,0,36
+1764698148779,20156,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2191647,2131,10,10,null,0,1,36
+1764698148780,20156,Interconnection Map,200,OK,APIs 1-5,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,19032,0,36
+1764698165598,4931,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,23329,1969,10,10,null,0,0,156
+1764698165598,4931,EPR,200,OK,APIs 1-10,text,true,,23329,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4915,0,156
+1764698165598,4931,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,23329,1969,10,10,null,0,0,156
+1764698165598,4931,EPR,200,OK,APIs 1-10,text,true,,23329,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4915,0,156
+1764698170530,385,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,1703,1955,10,10,null,0,0,117
+1764698170530,385,Basic Entity Search,200,OK,APIs 1-10,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,385,0,117
+1764698170530,385,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,1703,1955,10,10,null,0,0,117
+1764698170530,385,Basic Entity Search,200,OK,APIs 1-10,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,385,0,117
+1764698142394,28686,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2191647,2131,10,10,null,0,0,157
+1764698142394,28686,Interconnection Map,200,OK,APIs 1-2,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,27553,0,157
+1764698142394,28686,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2191647,2131,10,10,null,0,0,157
+1764698142394,28686,Interconnection Map,200,OK,APIs 1-2,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,27553,0,157
+1764698170915,499,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2840,2032,10,10,null,0,1,0
+1764698170915,499,Enhanced Entity Search,200,OK,APIs 1-10,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,499,0,0
+1764698170915,499,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2840,2032,10,10,null,0,1,0
+1764698170915,499,Enhanced Entity Search,200,OK,APIs 1-10,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,499,0,0
+1764698166217,6996,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,23318,1969,10,10,null,0,1,0
+1764698166217,6996,EPR,200,OK,APIs 1-4,text,true,,23318,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,6996,0,0
+1764698166217,6996,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,23318,1969,10,10,null,0,1,0
+1764698166217,6996,EPR,200,OK,APIs 1-4,text,true,,23318,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,6996,0,0
+1764698173215,417,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,1703,1955,10,10,null,0,2,34
+1764698173216,417,Basic Entity Search,200,OK,APIs 1-4,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,417,0,34
+1764698173215,417,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,1703,1955,10,10,null,0,2,34
+1764698173216,417,Basic Entity Search,200,OK,APIs 1-4,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,417,0,34
+1764698173634,1243,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2840,2032,10,10,null,0,1,0
+1764698173634,1243,Enhanced Entity Search,200,OK,APIs 1-4,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1243,0,0
+1764698173634,1243,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2840,2032,10,10,null,0,1,0
+1764698173634,1243,Enhanced Entity Search,200,OK,APIs 1-4,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1243,0,0
+1764698164159,13795,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,23330,1969,10,10,null,0,1,0
+1764698164160,13795,EPR,200,OK,APIs 1-6,text,true,,23330,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,13794,0,0
+1764698164159,13795,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,23330,1969,10,10,null,0,1,0
+1764698164160,13795,EPR,200,OK,APIs 1-6,text,true,,23330,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,13794,0,0
+1764698177956,519,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,1703,1955,10,10,null,0,1,34
+1764698177957,519,Basic Entity Search,200,OK,APIs 1-6,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,518,0,34
+1764698177956,519,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,1703,1955,10,10,null,0,1,34
+1764698177957,519,Basic Entity Search,200,OK,APIs 1-6,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,518,0,34
+1764698168936,9894,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,23321,1969,10,10,null,0,2,0
+1764698168937,9894,EPR,200,OK,APIs 1-5,text,true,,23321,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,9892,0,0
+1764698168936,9894,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,23321,1969,10,10,null,0,2,0
+1764698168937,9894,EPR,200,OK,APIs 1-5,text,true,,23321,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,9892,0,0
+1764698178832,529,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,1703,1955,10,10,null,0,2,33
+1764698178834,529,Basic Entity Search,200,OK,APIs 1-5,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,528,0,33
+1764698178832,529,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,1703,1955,10,10,null,0,2,33
+1764698178834,529,Basic Entity Search,200,OK,APIs 1-5,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,528,0,33
+1764698179364,514,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2840,2032,10,10,null,0,0,0
+1764698179364,514,Enhanced Entity Search,200,OK,APIs 1-5,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,514,0,0
+1764698179364,514,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2840,2032,10,10,null,0,0,0
+1764698179364,514,Enhanced Entity Search,200,OK,APIs 1-5,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,514,0,0
+1764698178477,1480,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2840,2032,10,10,null,0,0,0
+1764698178477,1480,Enhanced Entity Search,200,OK,APIs 1-6,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1479,0,0
+1764698178477,1480,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2840,2032,10,10,null,0,0,0
+1764698178477,1480,Enhanced Entity Search,200,OK,APIs 1-6,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1479,0,0
+1764698171080,11524,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,23341,1969,10,10,null,0,1,0
+1764698171080,11524,EPR,200,OK,APIs 1-2,text,true,,23341,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,11524,0,0
+1764698171080,11524,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,23341,1969,10,10,null,0,1,0
+1764698171080,11524,EPR,200,OK,APIs 1-2,text,true,,23341,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,11524,0,0
+1764698182605,614,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,1703,1955,10,10,null,0,2,27
+1764698182606,614,Basic Entity Search,200,OK,APIs 1-2,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,614,0,27
+1764698182605,614,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,1703,1955,10,10,null,0,2,27
+1764698182606,614,Basic Entity Search,200,OK,APIs 1-2,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,614,0,27
+1764698167338,16543,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,23314,1969,10,10,null,0,2,0
+1764698167339,16543,EPR,200,OK,APIs 1-8,text,true,,23314,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,16539,0,0
+1764698167338,16543,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,23314,1969,10,10,null,0,2,0
+1764698167339,16543,EPR,200,OK,APIs 1-8,text,true,,23314,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,16539,0,0
+1764698183221,1633,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2840,2032,10,10,null,0,2,0
+1764698183222,1633,Enhanced Entity Search,200,OK,APIs 1-2,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1633,0,0
+1764698183221,1633,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2840,2032,10,10,null,0,2,0
+1764698183222,1633,Enhanced Entity Search,200,OK,APIs 1-2,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1633,0,0
+1764698183883,1106,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,1703,1955,10,10,null,0,1,40
+1764698183884,1106,Basic Entity Search,200,OK,APIs 1-8,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,1105,0,40
+1764698183883,1106,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,1703,1955,10,10,null,0,1,40
+1764698183884,1106,Basic Entity Search,200,OK,APIs 1-8,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,1105,0,40
+1764698184990,1508,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2840,2032,10,10,null,0,2,0
+1764698184991,1508,Enhanced Entity Search,200,OK,APIs 1-8,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1508,0,0
+1764698184990,1508,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2840,2032,10,10,null,0,2,0
+1764698184991,1508,Enhanced Entity Search,200,OK,APIs 1-8,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1508,0,0
+1764698142907,45496,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2191647,2131,10,10,null,0,0,107
+1764698142907,45496,Interconnection Map,200,OK,APIs 1-7,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,44364,0,107
+1764698142907,45496,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2191647,2131,10,10,null,0,0,107
+1764698142907,45496,Interconnection Map,200,OK,APIs 1-7,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,44364,0,107
+1764698171415,23126,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,6125802,2080,10,10,null,0,0,0
+1764698171415,23126,Radial Map,200,OK,APIs 1-10,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,18983,0,0
+1764698171415,23126,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,6125802,2080,10,10,null,0,0,0
+1764698171415,23126,Radial Map,200,OK,APIs 1-10,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,18983,0,0
+1764698188404,10158,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,23344,1969,10,10,null,0,0,0
+1764698188404,10158,EPR,200,OK,APIs 1-7,text,true,,23344,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,10158,0,0
+1764698188404,10158,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,23344,1969,10,10,null,0,0,0
+1764698188404,10158,EPR,200,OK,APIs 1-7,text,true,,23344,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,10158,0,0
+1764698198562,762,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,1703,1955,10,10,null,0,0,236
+1764698198562,762,Basic Entity Search,200,OK,APIs 1-7,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,762,0,236
+1764698198562,762,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,1703,1955,10,10,null,0,0,236
+1764698198562,762,Basic Entity Search,200,OK,APIs 1-7,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,762,0,236
+1764698199324,1310,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2840,2032,10,10,null,0,0,0
+1764698199324,1310,Enhanced Entity Search,200,OK,APIs 1-7,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1310,0,0
+1764698199324,1310,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2840,2032,10,10,null,0,0,0
+1764698199324,1310,Enhanced Entity Search,200,OK,APIs 1-7,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1310,0,0
+1764698166993,39023,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,6125802,2080,10,10,null,0,0,0
+1764698166993,39023,Radial Map,200,OK,APIs 1-1,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,26042,0,0
+1764698166993,39023,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,6125802,2080,10,10,null,0,0,0
+1764698166993,39023,Radial Map,200,OK,APIs 1-1,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,26042,0,0
+1764698194542,14990,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2191647,2131,10,10,null,0,0,0
+1764698194542,14990,Interconnection Map,200,OK,APIs 1-10,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,10431,0,0
+1764698194542,14990,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2191647,2131,10,10,null,0,0,0
+1764698194542,14990,Interconnection Map,200,OK,APIs 1-10,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,10431,0,0
+1764698209532,3083,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,23324,1969,10,10,null,0,1,0
+1764698209533,3083,EPR,200,OK,APIs 1-10,text,true,,23324,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,2661,0,0
+1764698209532,3083,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,23324,1969,10,10,null,0,1,0
+1764698209533,3083,EPR,200,OK,APIs 1-10,text,true,,23324,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,2661,0,0
+1764698212616,514,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,1703,1955,10,10,null,0,1,236
+1764698212617,514,Basic Entity Search,200,OK,APIs 1-10,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,514,0,236
+1764698212616,514,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,1703,1955,10,10,null,0,1,236
+1764698212617,514,Basic Entity Search,200,OK,APIs 1-10,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,514,0,236
+1764698213131,523,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2840,2032,10,10,null,0,1,0
+1764698213132,523,Enhanced Entity Search,200,OK,APIs 1-10,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,523,0,0
+1764698213131,523,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2840,2032,10,10,null,0,1,0
+1764698213132,523,Enhanced Entity Search,200,OK,APIs 1-10,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,523,0,0
+1764698179958,35047,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,6125802,2080,10,10,null,0,0,0
+1764698179958,35047,Radial Map,200,OK,APIs 1-6,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,15817,0,0
+1764698179958,35047,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,6125802,2080,10,10,null,0,0,0
+1764698179958,35047,Radial Map,200,OK,APIs 1-6,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,15817,0,0
+1764698168896,49133,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,6125802,2080,10,10,null,0,0,0
+1764698168896,49133,Radial Map,200,OK,APIs 1-3,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,23557,0,0
+1764698168896,49133,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,6125802,2080,10,10,null,0,0,0
+1764698168896,49133,Radial Map,200,OK,APIs 1-3,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,23557,0,0
+1764698184856,34217,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,6125802,2080,10,10,null,0,0,0
+1764698184856,34217,Radial Map,200,OK,APIs 1-2,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,17754,0,0
+1764698184856,34217,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,6125802,2080,10,10,null,0,0,0
+1764698184856,34217,Radial Map,200,OK,APIs 1-2,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,17754,0,0
+1764698168726,52065,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,6125802,2080,10,10,null,0,1,0
+1764698168726,52065,Radial Map,200,OK,APIs 1-9,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,25131,0,0
+1764698168726,52065,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,6125802,2080,10,10,null,0,1,0
+1764698168726,52065,Radial Map,200,OK,APIs 1-9,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,25131,0,0
+1764698179879,43814,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,6125802,2080,10,10,null,0,1,0
+1764698179879,43814,Radial Map,200,OK,APIs 1-5,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,20989,0,0
+1764698179879,43814,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,6125802,2080,10,10,null,0,1,0
+1764698179879,43814,Radial Map,200,OK,APIs 1-5,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,20989,0,0
+1764698186501,41390,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,6125802,2080,10,10,null,0,0,0
+1764698186501,41390,Radial Map,200,OK,APIs 1-8,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,20570,0,0
+1764698186501,41390,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,6125802,2080,10,10,null,0,0,0
+1764698186501,41390,Radial Map,200,OK,APIs 1-8,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,20570,0,0
+1764698200634,29368,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,6125802,2080,10,10,null,0,1,0
+1764698200635,29368,Radial Map,200,OK,APIs 1-7,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,16888,0,0
+1764698200634,29368,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,6125802,2080,10,10,null,0,1,0
+1764698200635,29368,Radial Map,200,OK,APIs 1-7,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,16888,0,0
+1764698174878,55497,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,6125802,2080,10,10,null,0,0,0
+1764698174878,55497,Radial Map,200,OK,APIs 1-4,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,23386,0,0
+1764698174878,55497,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,6125802,2080,10,10,null,0,0,0
+1764698174878,55497,Radial Map,200,OK,APIs 1-4,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,23386,0,0
+1764698215005,16842,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2191647,2131,10,10,null,0,2,0
+1764698215006,16842,Interconnection Map,200,OK,APIs 1-6,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,11762,0,0
+1764698215005,16842,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2191647,2131,10,10,null,0,2,0
+1764698215006,16842,Interconnection Map,200,OK,APIs 1-6,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,11762,0,0
+1764698206016,26938,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2191647,2131,10,10,null,0,1,0
+1764698206016,26938,Interconnection Map,200,OK,APIs 1-1,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,18815,0,0
+1764698206016,26938,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2191647,2131,10,10,null,0,1,0
+1764698206016,26938,Interconnection Map,200,OK,APIs 1-1,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,18815,0,0
+1764698213655,20558,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,6125802,2080,10,10,null,0,0,0
+1764698213655,20558,Radial Map,200,OK,APIs 1-10,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,10863,0,0
+1764698213655,20558,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,6125802,2080,10,10,null,0,0,0
+1764698213655,20558,Radial Map,200,OK,APIs 1-10,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,10863,0,0
+1764698231849,6555,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,23336,1969,10,10,null,0,1,0
+1764698231849,6555,EPR,200,OK,APIs 1-6,text,true,,23336,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,6555,0,0
+1764698231849,6555,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,23336,1969,10,10,null,0,1,0
+1764698231849,6555,EPR,200,OK,APIs 1-6,text,true,,23336,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,6555,0,0
+1764698238405,365,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,1703,1955,10,10,null,0,2,34
+1764698238406,365,Basic Entity Search,200,OK,APIs 1-6,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,365,0,34
+1764698238405,365,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,1703,1955,10,10,null,0,2,34
+1764698238406,365,Basic Entity Search,200,OK,APIs 1-6,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,365,0,34
+1764698238772,1321,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2840,2032,10,10,null,0,1,0
+1764698238772,1321,Enhanced Entity Search,200,OK,APIs 1-6,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1321,0,0
+1764698238772,1321,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2840,2032,10,10,null,0,1,0
+1764698238772,1321,Enhanced Entity Search,200,OK,APIs 1-6,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1321,0,0
+1764698232955,17122,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,23344,1969,10,10,null,0,1,123
+1764698232955,17122,EPR,200,OK,APIs 1-1,text,true,,23344,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,17086,0,123
+1764698232955,17122,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,23344,1969,10,10,null,0,1,123
+1764698232955,17122,EPR,200,OK,APIs 1-1,text,true,,23344,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,17086,0,123
+1764698250078,949,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1703,1955,10,10,null,0,2,632
+1764698250079,949,Basic Entity Search,200,OK,APIs 1-1,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,949,0,632
+1764698250078,949,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1703,1955,10,10,null,0,2,632
+1764698250079,949,Basic Entity Search,200,OK,APIs 1-1,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,949,0,632
+1764698251029,653,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2840,2032,10,10,null,0,0,0
+1764698251029,653,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,653,0,0
+1764698251029,653,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2840,2032,10,10,null,0,0,0
+1764698251029,653,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,653,0,0
+1764698227892,26602,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2191647,2131,10,10,null,0,1,0
+1764698227892,26602,Interconnection Map,200,OK,APIs 1-8,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,22132,0,0
+1764698227892,26602,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2191647,2131,10,10,null,0,1,0
+1764698227892,26602,Interconnection Map,200,OK,APIs 1-8,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,22132,0,0
+1764698223694,31189,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2191647,2131,10,10,null,0,1,0
+1764698223694,31189,Interconnection Map,200,OK,APIs 1-5,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,16703,0,0
+1764698223694,31189,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2191647,2131,10,10,null,0,1,0
+1764698223694,31189,Interconnection Map,200,OK,APIs 1-5,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,16703,0,0
+1764698219074,37654,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2191647,2131,10,10,null,0,0,0
+1764698219074,37654,Interconnection Map,200,OK,APIs 1-2,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,30950,0,0
+1764698219074,37654,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2191647,2131,10,10,null,0,0,0
+1764698219074,37654,Interconnection Map,200,OK,APIs 1-2,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,30950,0,0
+1764698254495,4349,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,23319,1969,10,10,null,0,1,219
+1764698254495,4349,EPR,200,OK,APIs 1-8,text,true,,23319,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4100,0,219
+1764698254495,4349,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,23319,1969,10,10,null,0,1,219
+1764698254495,4349,EPR,200,OK,APIs 1-8,text,true,,23319,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4100,0,219
+1764698234213,24631,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2191647,2131,10,10,null,0,3,0
+1764698234214,24631,Interconnection Map,200,OK,APIs 1-10,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,17714,0,0
+1764698234213,24631,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2191647,2131,10,10,null,0,3,0
+1764698234214,24631,Interconnection Map,200,OK,APIs 1-10,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,17714,0,0
+1764698254884,4174,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,23330,1969,10,10,null,0,0,215
+1764698254884,4174,EPR,200,OK,APIs 1-5,text,true,,23330,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4174,0,215
+1764698254884,4174,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,23330,1969,10,10,null,0,0,215
+1764698254884,4174,EPR,200,OK,APIs 1-5,text,true,,23330,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4174,0,215
+1764698230004,29384,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2191647,2131,10,10,null,0,0,0
+1764698258846,540,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,1709,1955,10,10,null,0,2,211
+1764698230004,29384,Interconnection Map,200,OK,APIs 1-7,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,20466,0,0
+1764698258848,540,Basic Entity Search,200,OK,APIs 1-8,text,true,,1709,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,540,0,211
+1764698230004,29384,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2191647,2131,10,10,null,0,0,0
+1764698230004,29384,Interconnection Map,200,OK,APIs 1-7,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,20466,0,0
+1764698258846,540,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,1709,1955,10,10,null,0,2,211
+1764698258848,540,Basic Entity Search,200,OK,APIs 1-8,text,true,,1709,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,540,0,211
+1764698259059,496,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,1703,1955,10,10,null,0,0,236
+1764698259059,496,Basic Entity Search,200,OK,APIs 1-5,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,496,0,236
+1764698259059,496,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,1703,1955,10,10,null,0,0,236
+1764698259059,496,Basic Entity Search,200,OK,APIs 1-5,text,true,,1703,1955,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,496,0,236
+1764698259389,762,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2840,2032,10,10,null,0,0,0
+1764698259389,762,Enhanced Entity Search,200,OK,APIs 1-8,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,761,0,0
+1764698259389,762,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2840,2032,10,10,null,0,0,0
+1764698259389,762,Enhanced Entity Search,200,OK,APIs 1-8,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,761,0,0
+1764698259556,1837,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2840,2032,10,10,null,0,1,0
+1764698259556,1837,Enhanced Entity Search,200,OK,APIs 1-5,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1837,0,0
+1764698259556,1837,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2840,2032,10,10,null,0,1,0
+1764698259556,1837,Enhanced Entity Search,200,OK,APIs 1-5,text,true,,2840,2032,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,1837,0,0
+1764698220792,40814,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2191647,2131,10,10,null,0,0,0
+1764698220792,40814,Interconnection Map,200,OK,APIs 1-9,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,29241,0,0
+1764698220792,40814,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2191647,2131,10,10,null,0,0,0
+1764698220792,40814,Interconnection Map,200,OK,APIs 1-9,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,29241,0,0
+1764698218030,43970,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2191647,2131,10,10,null,0,1,0
+1764698218030,43970,Interconnection Map,200,OK,APIs 1-3,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,32006,0,0
+1764698218030,43970,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2191647,2131,10,10,null,0,1,0
+1764698218030,43970,Interconnection Map,200,OK,APIs 1-3,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,32006,0,0
+1764698230375,33344,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2191647,2131,10,10,null,0,0,0
+1764698230375,33344,Interconnection Map,200,OK,APIs 1-4,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,19650,0,0
+1764698230375,33344,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2191647,2131,10,10,null,0,0,0
+1764698230375,33344,Interconnection Map,200,OK,APIs 1-4,text,true,,2191647,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,19650,0,0
+1764698240095,23624,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,6125802,2080,10,10,null,0,1,0
+1764698240095,23624,Radial Map,200,OK,APIs 1-6,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,13265,0,0
+1764698240095,23624,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,6125802,2080,10,10,null,0,1,0
+1764698240095,23624,Radial Map,200,OK,APIs 1-6,text,true,,6125802,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,13265,0,0
+1764698258847,5388,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,23318,1969,10,10,null,0,1,0
+1764698258847,5388,EPR,200,OK,APIs 1-10,text,true,,23318,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,5388,0,0
+1764698258847,5388,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,23318,1969,10,10,null,0,1,0
+1764698258847,5388,EPR,200,OK,APIs 1-10,text,true,,23318,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,5388,0,0
+1764698251682,15428,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,6125802,2080,9,9,null,0,1,0
+1764698251682,15428,Radial Map,200,OK,APIs 1-1,text,true,,6125802,2080,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,8996,0,0
+1764698251682,15428,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,6125802,2080,9,9,null,0,1,0
+1764698251682,15428,Radial Map,200,OK,APIs 1-1,text,true,,6125802,2080,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,8996,0,0
+1764698256729,10999,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,23311,1969,9,9,null,0,1,216
+1764698256729,10999,EPR,200,OK,APIs 1-2,text,true,,23311,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,10999,0,216
+1764698256729,10999,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,23311,1969,9,9,null,0,1,216
+1764698256729,10999,EPR,200,OK,APIs 1-2,text,true,,23311,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,10999,0,216
+1764698267729,1249,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,1703,1955,9,9,null,0,3,36
+1764698267731,1249,Basic Entity Search,200,OK,APIs 1-2,text,true,,1703,1955,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,1249,0,36
+1764698267729,1249,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,1703,1955,9,9,null,0,3,36
+1764698267731,1249,Basic Entity Search,200,OK,APIs 1-2,text,true,,1703,1955,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,1249,0,36
+1764698259389,9873,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,23313,1969,9,9,null,0,1,156
+1764698259389,9873,EPR,200,OK,APIs 1-7,text,true,,23313,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,9873,0,156
+1764698259389,9873,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,23313,1969,9,9,null,0,1,156
+1764698259389,9873,EPR,200,OK,APIs 1-7,text,true,,23313,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,9873,0,156
+1764698269263,2911,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,1703,1955,9,9,null,0,2,33
+1764698269264,2911,Basic Entity Search,200,OK,APIs 1-7,text,true,,1703,1955,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,2911,0,33
+1764698269263,2911,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,1703,1955,9,9,null,0,2,33
+1764698269264,2911,Basic Entity Search,200,OK,APIs 1-7,text,true,,1703,1955,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,2911,0,33
+1764698268981,3195,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2840,2032,9,9,null,0,0,0
+1764698268981,3195,Enhanced Entity Search,200,OK,APIs 1-2,text,true,,2840,2032,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,3195,0,0
+1764698268981,3195,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2840,2032,9,9,null,0,0,0
+1764698268981,3195,Enhanced Entity Search,200,OK,APIs 1-2,text,true,,2840,2032,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,3195,0,0
+1764698261606,10578,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,23330,1969,9,9,null,0,2,238
+1764698261607,10578,EPR,200,OK,APIs 1-9,text,true,,23330,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,10578,0,238
+1764698261606,10578,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,23330,1969,9,9,null,0,2,238
+1764698261607,10578,EPR,200,OK,APIs 1-9,text,true,,23330,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,10578,0,238
+1764698262001,10945,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,23315,1969,9,9,null,0,0,248
+1764698262001,10945,EPR,200,OK,APIs 1-3,text,true,,23315,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,10945,0,248
+1764698262001,10945,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,23315,1969,9,9,null,0,0,248
+1764698262001,10945,EPR,200,OK,APIs 1-3,text,true,,23315,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,10945,0,248
+1764698263720,9226,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,23332,1969,9,9,null,0,0,70
+1764698263720,9226,EPR,200,OK,APIs 1-4,text,true,,23332,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,9226,0,70
+1764698263720,9226,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,23332,1969,9,9,null,0,0,70
+1764698263720,9226,EPR,200,OK,APIs 1-4,text,true,,23332,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,9226,0,70
+1764698272186,3224,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,1703,1955,9,9,null,0,3,30
+1764698272188,3224,Basic Entity Search,200,OK,APIs 1-9,text,true,,1703,1955,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,3224,0,30
+1764698272186,3224,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,1703,1955,9,9,null,0,3,30
+1764698272188,3224,Basic Entity Search,200,OK,APIs 1-9,text,true,,1703,1955,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,3224,0,30
+1764698272176,3236,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2840,2032,9,9,null,0,1,0
+1764698272177,3236,Enhanced Entity Search,200,OK,APIs 1-7,text,true,,2840,2032,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,3236,0,0
+1764698272176,3236,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2840,2032,9,9,null,0,1,0
+1764698272177,3236,Enhanced Entity Search,200,OK,APIs 1-7,text,true,,2840,2032,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,3236,0,0
+1764698272947,3510,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,1703,1955,9,9,null,0,2,40
+1764698272948,3510,Basic Entity Search,200,OK,APIs 1-3,text,true,,1703,1955,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,3510,0,40
+1764698272947,3510,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,1703,1955,9,9,null,0,2,40
+1764698272948,3510,Basic Entity Search,200,OK,APIs 1-3,text,true,,1703,1955,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,3510,0,40
+1764698272947,3511,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,1703,1955,9,9,null,0,2,38
+1764698272948,3511,Basic Entity Search,200,OK,APIs 1-4,text,true,,1703,1955,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,3511,0,38
+1764698272947,3511,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,1703,1955,9,9,null,0,2,38
+1764698272948,3511,Basic Entity Search,200,OK,APIs 1-4,text,true,,1703,1955,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Hong%20Kong%20Institute%20of%20Certificate%20Public%20Accountants&sourceshortname=CM,3511,0,38
+1764698275413,2221,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2840,2032,9,9,null,0,1,0
+1764698275413,2221,Enhanced Entity Search,200,OK,APIs 1-9,text,true,,2840,2032,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,2221,0,0
+1764698275413,2221,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2840,2032,9,9,null,0,1,0
+1764698275413,2221,Enhanced Entity Search,200,OK,APIs 1-9,text,true,,2840,2032,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,2221,0,0
+1764698276459,2629,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2840,2032,9,9,null,0,1,0
+1764698276459,2629,Enhanced Entity Search,200,OK,APIs 1-3,text,true,,2840,2032,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,2629,0,0
+1764698276459,2629,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2840,2032,9,9,null,0,1,0
+1764698276459,2629,Enhanced Entity Search,200,OK,APIs 1-3,text,true,,2840,2032,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,2629,0,0
+1764698276460,2725,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2840,2032,9,9,null,0,1,0
+1764698276460,2725,Enhanced Entity Search,200,OK,APIs 1-4,text,true,,2840,2032,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,2725,0,0
+1764698276460,2725,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2840,2032,9,9,null,0,1,0
+1764698276460,2725,Enhanced Entity Search,200,OK,APIs 1-4,text,true,,2840,2032,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,2725,0,0
+1764698263720,17647,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2191647,2131,9,9,null,0,0,0
+1764698263720,17647,Interconnection Map,200,OK,APIs 1-6,text,true,,2191647,2131,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,15466,0,0
+1764698263720,17647,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2191647,2131,9,9,null,0,0,0
+1764698263720,17647,Interconnection Map,200,OK,APIs 1-6,text,true,,2191647,2131,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,15466,0,0
+1764698260151,24530,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,6125802,2080,9,9,null,0,0,0
+1764698260151,24530,Radial Map,200,OK,APIs 1-8,text,true,,6125802,2080,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,16316,0,0
+1764698260151,24530,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,6125802,2080,9,9,null,0,0,0
+1764698260151,24530,Radial Map,200,OK,APIs 1-8,text,true,,6125802,2080,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,16316,0,0
+1764698272177,16845,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,6125802,2080,9,9,null,0,1,0
+1764698272177,16845,Radial Map,200,OK,APIs 1-2,text,true,,6125802,2080,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,13388,0,0
+1764698272177,16845,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,6125802,2080,9,9,null,0,1,0
+1764698272177,16845,Radial Map,200,OK,APIs 1-2,text,true,,6125802,2080,9,9,https://api-preprod.stg.handshakes.ai/api/graph/render,13388,0,0
+1764698281367,10347,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,23313,1969,9,9,null,0,0,0
+1764698281367,10347,EPR,200,OK,APIs 1-6,text,true,,23313,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,10345,0,0
+1764698281367,10347,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,23313,1969,9,9,null,0,0,0
+1764698281367,10347,EPR,200,OK,APIs 1-6,text,true,,23313,1969,9,9,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,10345,0,0
+1764698267111,29804,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2191647,2131,8,8,null,0,1,0
+1764698267112,29804,Interconnection Map,200,OK,APIs 1-1,text,true,,2191647,2131,8,8,https://api-preprod.stg.handshakes.ai/api/graph/render,28695,0,0
+1764698267111,29804,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2191647,2131,8,8,null,0,1,0
+1764698267112,29804,Interconnection Map,200,OK,APIs 1-1,text,true,,2191647,2131,8,8,https://api-preprod.stg.handshakes.ai/api/graph/render,28695,0,0
+1764698296916,4627,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,23318,1969,8,8,null,0,0,0
+1764698296916,4627,EPR,200,OK,APIs 1-1,text,true,,23318,1969,8,8,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4347,0,0
+1764698296916,4627,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,23318,1969,8,8,null,0,0,0
+1764698296916,4627,EPR,200,OK,APIs 1-1,text,true,,23318,1969,8,8,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4347,0,0
+1764698279186,22700,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,6125802,2080,7,7,null,0,1,0
+1764698279186,22700,Radial Map,200,OK,APIs 1-4,text,true,,6125802,2080,7,7,https://api-preprod.stg.handshakes.ai/api/graph/render,18723,0,0
+1764698279186,22700,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,6125802,2080,7,7,null,0,1,0
+1764698279186,22700,Radial Map,200,OK,APIs 1-4,text,true,,6125802,2080,7,7,https://api-preprod.stg.handshakes.ai/api/graph/render,18723,0,0
+1764698284682,19979,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2191647,2131,7,7,null,0,1,0
+1764698284682,19979,Interconnection Map,200,OK,APIs 1-8,text,true,,2191647,2131,7,7,https://api-preprod.stg.handshakes.ai/api/graph/render,17249,0,0
+1764698284682,19979,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2191647,2131,7,7,null,0,1,0
+1764698284682,19979,Interconnection Map,200,OK,APIs 1-8,text,true,,2191647,2131,7,7,https://api-preprod.stg.handshakes.ai/api/graph/render,17249,0,0
+1764698304662,4167,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,23327,1969,7,7,null,0,0,0
+1764698304662,4167,EPR,200,OK,APIs 1-8,text,true,,23327,1969,7,7,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4167,0,0
+1764698304662,4167,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,23327,1969,7,7,null,0,0,0
+1764698304662,4167,EPR,200,OK,APIs 1-8,text,true,,23327,1969,7,7,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4167,0,0
+1764698275413,33556,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,6125802,2080,6,6,null,0,0,0
+1764698275413,33556,Radial Map,200,OK,APIs 1-7,text,true,,6125802,2080,6,6,https://api-preprod.stg.handshakes.ai/api/graph/render,23838,0,0
+1764698275413,33556,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,6125802,2080,6,6,null,0,0,0
+1764698275413,33556,Radial Map,200,OK,APIs 1-7,text,true,,6125802,2080,6,6,https://api-preprod.stg.handshakes.ai/api/graph/render,23838,0,0
+1764698289023,21794,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2191647,2131,6,6,null,0,1,0
+1764698289023,21794,Interconnection Map,200,OK,APIs 1-2,text,true,,2191647,2131,6,6,https://api-preprod.stg.handshakes.ai/api/graph/render,19035,0,0
+1764698289023,21794,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2191647,2131,6,6,null,0,1,0
+1764698289023,21794,Interconnection Map,200,OK,APIs 1-2,text,true,,2191647,2131,6,6,https://api-preprod.stg.handshakes.ai/api/graph/render,19035,0,0
+1764698277635,35367,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,6125802,2080,6,6,null,0,1,0
+1764698277636,35367,Radial Map,200,OK,APIs 1-9,text,true,,6125802,2080,6,6,https://api-preprod.stg.handshakes.ai/api/graph/render,22557,0,0
+1764698277635,35367,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,6125802,2080,6,6,null,0,1,0
+1764698277636,35367,Radial Map,200,OK,APIs 1-9,text,true,,6125802,2080,6,6,https://api-preprod.stg.handshakes.ai/api/graph/render,22557,0,0
+1764698301887,11210,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2191647,2131,6,6,null,0,1,0
+1764698301887,11210,Interconnection Map,200,OK,APIs 1-4,text,true,,2191647,2131,6,6,https://api-preprod.stg.handshakes.ai/api/graph/render,9105,0,0
+1764698301887,11210,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2191647,2131,6,6,null,0,1,0
+1764698301887,11210,Interconnection Map,200,OK,APIs 1-4,text,true,,2191647,2131,6,6,https://api-preprod.stg.handshakes.ai/api/graph/render,9105,0,0
+1764698310818,3330,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,23324,1969,6,6,null,0,0,0
+1764698310818,3330,EPR,200,OK,APIs 1-2,text,true,,23324,1969,6,6,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,3330,0,0
+1764698310818,3330,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,23324,1969,6,6,null,0,0,0
+1764698310818,3330,EPR,200,OK,APIs 1-2,text,true,,23324,1969,6,6,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,3330,0,0
+1764698279090,37099,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,6125802,2080,5,5,null,0,1,0
+1764698279090,37099,Radial Map,200,OK,APIs 1-3,text,true,,6125802,2080,5,5,https://api-preprod.stg.handshakes.ai/api/graph/render,27585,0,0
+1764698279090,37099,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,6125802,2080,5,5,null,0,1,0
+1764698279090,37099,Radial Map,200,OK,APIs 1-3,text,true,,6125802,2080,5,5,https://api-preprod.stg.handshakes.ai/api/graph/render,27585,0,0
+1764698313099,4791,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,23335,1969,5,5,null,0,0,0
+1764698313099,4791,EPR,200,OK,APIs 1-4,text,true,,23335,1969,5,5,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4790,0,0
+1764698313099,4791,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,23335,1969,5,5,null,0,0,0
+1764698313099,4791,EPR,200,OK,APIs 1-4,text,true,,23335,1969,5,5,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4790,0,0
+1764698308969,11750,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2191647,2131,4,4,null,0,0,0
+1764698308969,11750,Interconnection Map,200,OK,APIs 1-7,text,true,,2191647,2131,4,4,https://api-preprod.stg.handshakes.ai/api/graph/render,10634,0,0
+1764698308969,11750,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2191647,2131,4,4,null,0,0,0
+1764698308969,11750,Interconnection Map,200,OK,APIs 1-7,text,true,,2191647,2131,4,4,https://api-preprod.stg.handshakes.ai/api/graph/render,10634,0,0
+1764698320719,3496,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,23335,1969,4,4,null,0,2,0
+1764698320720,3496,EPR,200,OK,APIs 1-7,text,true,,23335,1969,4,4,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,3496,0,0
+1764698320719,3496,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,23335,1969,4,4,null,0,2,0
+1764698320720,3496,EPR,200,OK,APIs 1-7,text,true,,23335,1969,4,4,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,3496,0,0
+1764698313005,12540,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2191647,2131,3,3,null,0,1,0
+1764698313005,12540,Interconnection Map,200,OK,APIs 1-9,text,true,,2191647,2131,3,3,https://api-preprod.stg.handshakes.ai/api/graph/render,11429,0,0
+1764698313005,12540,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2191647,2131,3,3,null,0,1,0
+1764698313005,12540,Interconnection Map,200,OK,APIs 1-9,text,true,,2191647,2131,3,3,https://api-preprod.stg.handshakes.ai/api/graph/render,11429,0,0
+1764698325545,3090,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,23335,1969,3,3,null,0,1,0
+1764698325545,3090,EPR,200,OK,APIs 1-9,text,true,,23335,1969,3,3,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,3090,0,0
+1764698325545,3090,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,23335,1969,3,3,null,0,1,0
+1764698325545,3090,EPR,200,OK,APIs 1-9,text,true,,23335,1969,3,3,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,3090,0,0
+1764698316191,14021,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2191647,2131,2,2,null,0,1,0
+1764698316191,14021,Interconnection Map,200,OK,APIs 1-3,text,true,,2191647,2131,2,2,https://api-preprod.stg.handshakes.ai/api/graph/render,12905,0,0
+1764698316191,14021,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2191647,2131,2,2,null,0,1,0
+1764698316191,14021,Interconnection Map,200,OK,APIs 1-3,text,true,,2191647,2131,2,2,https://api-preprod.stg.handshakes.ai/api/graph/render,12905,0,0
+1764698330212,3433,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,23324,1969,2,2,null,0,1,0
+1764698330212,3433,EPR,200,OK,APIs 1-3,text,true,,23324,1969,2,2,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,3433,0,0
+1764698330212,3433,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,23324,1969,2,2,null,0,1,0
+1764698330212,3433,EPR,200,OK,APIs 1-3,text,true,,23324,1969,2,2,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,3433,0,0
+1764698261394,211872,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,6125802,2080,1,1,null,0,0,0
+1764698261394,211872,Radial Map,200,OK,APIs 1-5,text,true,,6125802,2080,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,208279,0,0
+1764698261394,211872,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,6125802,2080,1,1,null,0,0,0
+1764698261394,211872,Radial Map,200,OK,APIs 1-5,text,true,,6125802,2080,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,208279,0,0
+1764698473267,13661,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2191647,2131,1,1,null,0,1,38
+1764698473268,13661,Interconnection Map,200,OK,APIs 1-5,text,true,,2191647,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,12546,0,38
+1764698473267,13661,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2191647,2131,1,1,null,0,1,38
+1764698473268,13661,Interconnection Map,200,OK,APIs 1-5,text,true,,2191647,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,12546,0,38
+1764698486928,4977,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,23335,1969,1,1,null,0,0,0
+1764698486928,4977,EPR,200,OK,APIs 1-5,text,true,,23335,1969,1,1,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4977,0,0
+1764698486928,4977,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,23335,1969,1,1,null,0,0,0
+1764698486928,4977,EPR,200,OK,APIs 1-5,text,true,,23335,1969,1,1,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=079B7C01-6FDF-4A72-B4DA-A84935C5C0E0,4977,0,0

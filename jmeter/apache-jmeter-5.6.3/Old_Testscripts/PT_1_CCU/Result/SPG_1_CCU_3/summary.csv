@@ -1,0 +1,15 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1767589511241,794,Token,200,OK,Token 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,779,0,684
+1767589507899,794,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,259,1,1,null,779,3471,684
+1767589512263,100962,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,13899447,2173,1,1,null,0,1633,62
+1767589512265,100962,Interconnection Map,200,OK,APIs 1-1,text,true,,13899447,2173,1,1,https://api2.stg.handshakes.ai/api/graph/render,92794,0,62
+1767589614860,135028,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3535,1962,1,1,null,0,34,66
+1767589614860,135028,EPR,200,OK,APIs 1-1,text,true,,3535,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=BDF67157-F728-596A-8A51-38335B9335BC,135028,0,66
+1767589749922,88504,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,13899447,2173,1,1,null,0,2,93
+1767589749923,88504,Interconnection Map,200,OK,APIs 1-1,text,true,,13899447,2173,1,1,https://api2.stg.handshakes.ai/api/graph/render,80354,0,93
+1767589838428,101470,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3535,1962,1,1,null,0,2,93
+1767589838428,101470,EPR,200,OK,APIs 1-1,text,true,,3535,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=BDF67157-F728-596A-8A51-38335B9335BC,101469,0,93
+1767589939902,57601,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,13899447,2173,1,1,null,0,3,88
+1767589939904,57601,Interconnection Map,200,OK,APIs 1-1,text,true,,13899447,2173,1,1,https://api2.stg.handshakes.ai/api/graph/render,49558,0,88
+1767589997506,110757,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3535,1962,1,1,null,0,5,0
+1767589997507,110757,EPR,200,OK,APIs 1-1,text,true,,3535,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=BDF67157-F728-596A-8A51-38335B9335BC,110757,0,0

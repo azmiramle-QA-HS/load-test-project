@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1767589101982,570,Token,200,OK,Token 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,560,0,315
+1767589098868,570,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,259,1,1,null,560,3160,315
+1767589102631,8489,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2203,1929,1,1,null,0,1060,59
+1767589102632,8489,Basic Entity Search,200,OK,APIs 1-1,text,true,,2203,1929,1,1,"https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=Bank%20of%20America,%20National%20Association&sourceshortname=SPG",8487,0,59
+1767589112181,1881,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,22424,2009,1,1,null,0,29,0
+1767589112181,1881,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,22424,2009,1,1,https://api2.stg.handshakes.ai/api/entity/search,1879,0,0
+1767589114092,124420,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1868041,2073,1,1,null,0,12,0
+1767589114093,124420,Radial Map,200,OK,APIs 1-1,text,true,,1868041,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,123481,0,0
+1767589238524,1656,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2203,1929,1,1,null,0,5,82
+1767589238526,1656,Basic Entity Search,200,OK,APIs 1-1,text,true,,2203,1929,1,1,"https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=Bank%20of%20America,%20National%20Association&sourceshortname=SPG",1655,0,82
+1767589240186,965,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,22424,2009,1,1,null,0,3,0
+1767589240186,965,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,22424,2009,1,1,https://api2.stg.handshakes.ai/api/entity/search,962,0,0
+1767589241154,89449,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1868041,2073,1,1,null,0,2,0
+1767589241154,89449,Radial Map,200,OK,APIs 1-1,text,true,,1868041,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,88530,0,0
+1767589330607,633,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2203,1929,1,1,null,0,5,108
+1767589330608,633,Basic Entity Search,200,OK,APIs 1-1,text,true,,2203,1929,1,1,"https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=Bank%20of%20America,%20National%20Association&sourceshortname=SPG",633,0,108
+1767589331246,570,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,22424,2009,1,1,null,0,3,0
+1767589331246,570,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,22424,2009,1,1,https://api2.stg.handshakes.ai/api/entity/search,570,0,0
+1767589331820,85037,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,1868041,2073,1,1,null,0,2,0
+1767589331820,85037,Radial Map,200,OK,APIs 1-1,text,true,,1868041,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,84078,0,0

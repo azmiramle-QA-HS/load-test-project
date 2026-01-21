@@ -1,0 +1,53 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1764595062748,969,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,259,1,1,null,0,3303,688
+1764595065993,969,Token,200,OK,Token 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,964,0,688
+1764595062748,969,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,259,1,1,null,0,3303,688
+1764595065993,969,Token,200,OK,Token 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,964,0,688
+1764595067059,17009,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,5003,2122,1,1,null,0,3,61
+1764595067060,17009,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,5003,2122,1,1,https://api2.stg.handshakes.ai/api/entity/search,17009,0,61
+1764595067059,17009,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,5003,2122,1,1,null,0,3,61
+1764595067060,17009,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,5003,2122,1,1,https://api2.stg.handshakes.ai/api/entity/search,17009,0,61
+1764595084070,48538,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2775098,2197,1,1,null,0,2,0
+1764595084071,48538,Radial Map,200,OK,APIs 1-1,text,true,,2775098,2197,1,1,https://api2.stg.handshakes.ai/api/graph/render,48214,0,0
+1764595084070,48538,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2775098,2197,1,1,null,0,2,0
+1764595084071,48538,Radial Map,200,OK,APIs 1-1,text,true,,2775098,2197,1,1,https://api2.stg.handshakes.ai/api/graph/render,48214,0,0
+1764595132612,136,Interconnection Map,500,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,642,2248,1,1,null,0,2,88
+1764595132612,136,Interconnection Map,500,Internal Server Error,APIs 1-1,,false,Test failed: code expected to contain /200/,642,2248,1,1,https://api2.stg.handshakes.ai/api/graph/render,135,0,88
+1764595132612,136,Interconnection Map,500,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,642,2248,1,1,null,0,2,88
+1764595132612,136,Interconnection Map,500,Internal Server Error,APIs 1-1,,false,Test failed: code expected to contain /200/,642,2248,1,1,https://api2.stg.handshakes.ai/api/graph/render,135,0,88
+1764595132750,128410,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,196120,2003,1,1,null,0,3,0
+1764595132751,128410,EPR,200,OK,APIs 1-1,text,true,,196120,2003,1,1,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=47F27B89-D422-4737-A146-3DED8525CDB9,128344,0,0
+1764595132750,128410,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,196120,2003,1,1,null,0,3,0
+1764595132751,128410,EPR,200,OK,APIs 1-1,text,true,,196120,2003,1,1,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=47F27B89-D422-4737-A146-3DED8525CDB9,128344,0,0
+1764595261163,16545,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,5003,2122,1,1,null,0,0,75
+1764595261163,16545,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,5003,2122,1,1,https://api2.stg.handshakes.ai/api/entity/search,16545,0,75
+1764595261163,16545,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,5003,2122,1,1,null,0,0,75
+1764595261163,16545,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,5003,2122,1,1,https://api2.stg.handshakes.ai/api/entity/search,16545,0,75
+1764595277708,32155,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2775098,2197,1,1,null,0,1,0
+1764595277708,32155,Radial Map,200,OK,APIs 1-1,text,true,,2775098,2197,1,1,https://api2.stg.handshakes.ai/api/graph/render,31927,0,0
+1764595277708,32155,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2775098,2197,1,1,null,0,1,0
+1764595277708,32155,Radial Map,200,OK,APIs 1-1,text,true,,2775098,2197,1,1,https://api2.stg.handshakes.ai/api/graph/render,31927,0,0
+1764595309864,52,Interconnection Map,500,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,642,2248,1,1,null,0,1,0
+1764595309865,52,Interconnection Map,500,Internal Server Error,APIs 1-1,,false,Test failed: code expected to contain /200/,642,2248,1,1,https://api2.stg.handshakes.ai/api/graph/render,51,0,0
+1764595309864,52,Interconnection Map,500,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,642,2248,1,1,null,0,1,0
+1764595309865,52,Interconnection Map,500,Internal Server Error,APIs 1-1,,false,Test failed: code expected to contain /200/,642,2248,1,1,https://api2.stg.handshakes.ai/api/graph/render,51,0,0
+1764595309918,103817,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,196120,2003,1,1,null,0,1,0
+1764595309918,103817,EPR,200,OK,APIs 1-1,text,true,,196120,2003,1,1,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=47F27B89-D422-4737-A146-3DED8525CDB9,103807,0,0
+1764595309918,103817,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,196120,2003,1,1,null,0,1,0
+1764595309918,103817,EPR,200,OK,APIs 1-1,text,true,,196120,2003,1,1,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=47F27B89-D422-4737-A146-3DED8525CDB9,103807,0,0
+1764595413737,16562,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,5003,2122,1,1,null,0,1,70
+1764595413737,16562,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,5003,2122,1,1,https://api2.stg.handshakes.ai/api/entity/search,16562,0,70
+1764595413737,16562,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,5003,2122,1,1,null,0,1,70
+1764595413737,16562,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,5003,2122,1,1,https://api2.stg.handshakes.ai/api/entity/search,16562,0,70
+1764595430301,24204,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2775098,2197,1,1,null,0,0,0
+1764595430301,24204,Radial Map,200,OK,APIs 1-1,text,true,,2775098,2197,1,1,https://api2.stg.handshakes.ai/api/graph/render,23905,0,0
+1764595430301,24204,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2775098,2197,1,1,null,0,0,0
+1764595430301,24204,Radial Map,200,OK,APIs 1-1,text,true,,2775098,2197,1,1,https://api2.stg.handshakes.ai/api/graph/render,23905,0,0
+1764595454506,43,Interconnection Map,500,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,642,2248,1,1,null,0,0,0
+1764595454506,43,Interconnection Map,500,Internal Server Error,APIs 1-1,,false,Test failed: code expected to contain /200/,642,2248,1,1,https://api2.stg.handshakes.ai/api/graph/render,42,0,0
+1764595454506,43,Interconnection Map,500,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,642,2248,1,1,null,0,0,0
+1764595454506,43,Interconnection Map,500,Internal Server Error,APIs 1-1,,false,Test failed: code expected to contain /200/,642,2248,1,1,https://api2.stg.handshakes.ai/api/graph/render,42,0,0
+1764595454550,2036911,EPR,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,7,0
+1764595454551,2036911,EPR,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=47F27B89-D422-4737-A146-3DED8525CDB9,0,0,0
+1764595454550,2036911,EPR,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,7,0
+1764595454551,2036911,EPR,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=47F27B89-D422-4737-A146-3DED8525CDB9,0,0,0

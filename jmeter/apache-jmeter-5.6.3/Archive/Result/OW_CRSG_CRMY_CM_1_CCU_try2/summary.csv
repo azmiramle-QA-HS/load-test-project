@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1764162592743,4043,Enhanced Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",APIs 1-1,,true,,8174,2437,1,1,null,0,506,40
+1764162593247,103,Token,200,OK,APIs 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,103,0,40
+1764162593352,3940,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,5903,2178,1,1,https://api2.stg.handshakes.ai/api/entity/search,3939,0,0
+1764162597292,45865,Radial Map,Non HTTP response code: java.net.SocketException,,APIs 1-1,,false,,3174,0,1,1,null,0,0,0
+1764162597293,45864,Radial Map,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,APIs 1-1,text,false,Test failed: code expected to contain /200/,3174,0,1,1,https://api2.stg.handshakes.ai/api/graph/render,0,0,0

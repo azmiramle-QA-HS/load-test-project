@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1767592239653,583,Token,200,OK,Token 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,575,0,332
+1767592236544,583,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,266,1,1,null,575,3147,332
+1767592240295,2090,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,300565,2131,1,1,null,0,536,67
+1767592240296,2090,Interconnection Map,200,OK,APIs 1-1,text,true,,300565,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,1984,0,67
+1767592242921,1575,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,300565,2131,1,1,null,0,5,39
+1767592242923,1575,Interconnection Map,200,OK,APIs 1-1,text,true,,300565,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,1497,0,39
+1767592244502,1157,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,300565,2131,1,1,null,0,3,53
+1767592244503,1157,Interconnection Map,200,OK,APIs 1-1,text,true,,300565,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,1096,0,53

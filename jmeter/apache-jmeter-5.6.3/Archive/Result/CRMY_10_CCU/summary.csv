@@ -1,0 +1,325 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1759843773293,627,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,266,1,1,null,0,615,262
+1759843773880,627,Token,200,OK,Token 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,623,0,262
+1759843773293,627,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,266,1,1,null,0,615,262
+1759843773880,627,Token,200,OK,Token 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,623,0,262
+1759843775559,1438,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,764,1927,3,3,null,0,3,48
+1759843775561,1438,Basic Entity Search,200,OK,APIs 1-2,text,true,,764,1927,3,3,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,1437,0,48
+1759843775559,1438,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,764,1927,3,3,null,0,3,48
+1759843775561,1438,Basic Entity Search,200,OK,APIs 1-2,text,true,,764,1927,3,3,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,1437,0,48
+1759843774557,2449,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,764,1927,3,3,null,0,1,42
+1759843774558,2449,Basic Entity Search,200,OK,APIs 1-1,text,true,,764,1927,3,3,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,2449,0,42
+1759843774557,2449,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,764,1927,3,3,null,0,1,42
+1759843774558,2449,Basic Entity Search,200,OK,APIs 1-1,text,true,,764,1927,3,3,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,2449,0,42
+1759843776559,502,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,764,1927,3,3,null,0,3,69
+1759843776561,502,Basic Entity Search,200,OK,APIs 1-3,text,true,,764,1927,3,3,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,502,0,69
+1759843776559,502,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,764,1927,3,3,null,0,3,69
+1759843776561,502,Basic Entity Search,200,OK,APIs 1-3,text,true,,764,1927,3,3,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,502,0,69
+1759843777001,401,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2352,2008,3,3,null,0,1,0
+1759843777001,401,Enhanced Entity Search,200,OK,APIs 1-2,text,true,,2352,2008,3,3,https://api-preprod.stg.handshakes.ai/api/entity/search,401,0,0
+1759843777001,401,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2352,2008,3,3,null,0,1,0
+1759843777001,401,Enhanced Entity Search,200,OK,APIs 1-2,text,true,,2352,2008,3,3,https://api-preprod.stg.handshakes.ai/api/entity/search,401,0,0
+1759843777065,693,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2352,2008,4,4,null,0,0,0
+1759843777065,693,Enhanced Entity Search,200,OK,APIs 1-3,text,true,,2352,2008,4,4,https://api-preprod.stg.handshakes.ai/api/entity/search,693,0,0
+1759843777065,693,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2352,2008,4,4,null,0,0,0
+1759843777065,693,Enhanced Entity Search,200,OK,APIs 1-3,text,true,,2352,2008,4,4,https://api-preprod.stg.handshakes.ai/api/entity/search,693,0,0
+1759843777007,988,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2352,2008,4,4,null,0,1,0
+1759843777008,988,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2352,2008,4,4,https://api-preprod.stg.handshakes.ai/api/entity/search,987,0,0
+1759843777007,988,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2352,2008,4,4,null,0,1,0
+1759843777008,988,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2352,2008,4,4,https://api-preprod.stg.handshakes.ai/api/entity/search,987,0,0
+1759843777560,932,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,764,1927,4,4,null,0,3,47
+1759843777562,932,Basic Entity Search,200,OK,APIs 1-4,text,true,,764,1927,4,4,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,932,0,47
+1759843777560,932,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,764,1927,4,4,null,0,3,47
+1759843777562,932,Basic Entity Search,200,OK,APIs 1-4,text,true,,764,1927,4,4,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,932,0,47
+1759843778495,740,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2352,2008,5,5,null,0,0,0
+1759843778495,740,Enhanced Entity Search,200,OK,APIs 1-4,text,true,,2352,2008,5,5,https://api-preprod.stg.handshakes.ai/api/entity/search,739,0,0
+1759843778495,740,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2352,2008,5,5,null,0,0,0
+1759843778495,740,Enhanced Entity Search,200,OK,APIs 1-4,text,true,,2352,2008,5,5,https://api-preprod.stg.handshakes.ai/api/entity/search,739,0,0
+1759843778559,1131,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,764,1927,6,6,null,0,3,45
+1759843778561,1131,Basic Entity Search,200,OK,APIs 1-5,text,true,,764,1927,6,6,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,1131,0,45
+1759843778559,1131,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,764,1927,6,6,null,0,3,45
+1759843778561,1131,Basic Entity Search,200,OK,APIs 1-5,text,true,,764,1927,6,6,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,1131,0,45
+1759843779693,1015,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2352,2008,7,7,null,0,1,0
+1759843779693,1015,Enhanced Entity Search,200,OK,APIs 1-5,text,true,,2352,2008,7,7,https://api-preprod.stg.handshakes.ai/api/entity/search,1015,0,0
+1759843779693,1015,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2352,2008,7,7,null,0,1,0
+1759843779693,1015,Enhanced Entity Search,200,OK,APIs 1-5,text,true,,2352,2008,7,7,https://api-preprod.stg.handshakes.ai/api/entity/search,1015,0,0
+1759843779559,1303,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,764,1927,7,7,null,0,2,36
+1759843779561,1303,Basic Entity Search,200,OK,APIs 1-6,text,true,,764,1927,7,7,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,1303,0,36
+1759843779559,1303,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,764,1927,7,7,null,0,2,36
+1759843779561,1303,Basic Entity Search,200,OK,APIs 1-6,text,true,,764,1927,7,7,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,1303,0,36
+1759843780559,314,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,764,1927,7,7,null,0,2,42
+1759843780560,314,Basic Entity Search,200,OK,APIs 1-7,text,true,,764,1927,7,7,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,314,0,42
+1759843780559,314,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,764,1927,7,7,null,0,2,42
+1759843780560,314,Basic Entity Search,200,OK,APIs 1-7,text,true,,764,1927,7,7,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,314,0,42
+1759843780865,289,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2352,2008,7,7,null,0,1,0
+1759843780865,289,Enhanced Entity Search,200,OK,APIs 1-6,text,true,,2352,2008,7,7,https://api-preprod.stg.handshakes.ai/api/entity/search,289,0,0
+1759843780865,289,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2352,2008,7,7,null,0,1,0
+1759843780865,289,Enhanced Entity Search,200,OK,APIs 1-6,text,true,,2352,2008,7,7,https://api-preprod.stg.handshakes.ai/api/entity/search,289,0,0
+1759843780875,1075,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2352,2008,8,8,null,0,1,0
+1759843780875,1075,Enhanced Entity Search,200,OK,APIs 1-7,text,true,,2352,2008,8,8,https://api-preprod.stg.handshakes.ai/api/entity/search,1075,0,0
+1759843780875,1075,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2352,2008,8,8,null,0,1,0
+1759843780875,1075,Enhanced Entity Search,200,OK,APIs 1-7,text,true,,2352,2008,8,8,https://api-preprod.stg.handshakes.ai/api/entity/search,1075,0,0
+1759843781557,393,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,764,1927,8,8,null,0,1,40
+1759843781558,393,Basic Entity Search,200,OK,APIs 1-8,text,true,,764,1927,8,8,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,392,0,40
+1759843781557,393,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,764,1927,8,8,null,0,1,40
+1759843781558,393,Basic Entity Search,200,OK,APIs 1-8,text,true,,764,1927,8,8,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,392,0,40
+1759843781951,1058,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2352,2008,9,9,null,0,0,0
+1759843781951,1058,Enhanced Entity Search,200,OK,APIs 1-8,text,true,,2352,2008,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,1058,0,0
+1759843781951,1058,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2352,2008,9,9,null,0,0,0
+1759843781951,1058,Enhanced Entity Search,200,OK,APIs 1-8,text,true,,2352,2008,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,1058,0,0
+1759843782572,720,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,764,1927,9,9,null,0,1,61
+1759843782573,720,Basic Entity Search,200,OK,APIs 1-9,text,true,,764,1927,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,719,0,61
+1759843782572,720,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,764,1927,9,9,null,0,1,61
+1759843782573,720,Basic Entity Search,200,OK,APIs 1-9,text,true,,764,1927,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,719,0,61
+1759843783559,402,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,764,1927,10,10,null,0,1,37
+1759843783560,402,Basic Entity Search,200,OK,APIs 1-10,text,true,,764,1927,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,402,0,37
+1759843783559,402,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,764,1927,10,10,null,0,1,37
+1759843783560,402,Basic Entity Search,200,OK,APIs 1-10,text,true,,764,1927,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,402,0,37
+1759843783293,681,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2352,2008,10,10,null,0,1,0
+1759843783294,681,Enhanced Entity Search,200,OK,APIs 1-9,text,true,,2352,2008,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,681,0,0
+1759843783293,681,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2352,2008,10,10,null,0,1,0
+1759843783294,681,Enhanced Entity Search,200,OK,APIs 1-9,text,true,,2352,2008,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,681,0,0
+1759843783962,667,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2352,2008,10,10,null,0,1,0
+1759843783963,667,Enhanced Entity Search,200,OK,APIs 1-10,text,true,,2352,2008,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,667,0,0
+1759843783962,667,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2352,2008,10,10,null,0,1,0
+1759843783963,667,Enhanced Entity Search,200,OK,APIs 1-10,text,true,,2352,2008,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,667,0,0
+1759843781155,34714,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2158453,2080,10,10,null,0,0,0
+1759843781155,34714,Radial Map,200,OK,APIs 1-6,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,34455,0,0
+1759843781155,34714,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,2158453,2080,10,10,null,0,0,0
+1759843781155,34714,Radial Map,200,OK,APIs 1-6,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,34455,0,0
+1759843783975,33937,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2158453,2080,10,10,null,0,1,0
+1759843783975,33937,Radial Map,200,OK,APIs 1-9,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,33547,0,0
+1759843783975,33937,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,2158453,2080,10,10,null,0,1,0
+1759843783975,33937,Radial Map,200,OK,APIs 1-9,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,33547,0,0
+1759843777403,40781,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2158453,2080,10,10,null,0,1,0
+1759843777404,40781,Radial Map,200,OK,APIs 1-2,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,40511,0,0
+1759843777403,40781,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,2158453,2080,10,10,null,0,1,0
+1759843777404,40781,Radial Map,200,OK,APIs 1-2,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,40511,0,0
+1759843781951,36423,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2158453,2080,10,10,null,0,0,0
+1759843781951,36423,Radial Map,200,OK,APIs 1-7,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,36162,0,0
+1759843781951,36423,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,2158453,2080,10,10,null,0,0,0
+1759843781951,36423,Radial Map,200,OK,APIs 1-7,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,36162,0,0
+1759843779235,61264,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2158453,2080,10,10,null,0,0,0
+1759843779235,61264,Radial Map,200,OK,APIs 1-4,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,60883,0,0
+1759843779235,61264,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,2158453,2080,10,10,null,0,0,0
+1759843779235,61264,Radial Map,200,OK,APIs 1-4,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,60883,0,0
+1759843777759,78334,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2158453,2080,10,10,null,0,1,0
+1759843777760,78334,Radial Map,200,OK,APIs 1-3,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,77860,0,0
+1759843777759,78334,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,2158453,2080,10,10,null,0,1,0
+1759843777760,78334,Radial Map,200,OK,APIs 1-3,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,77860,0,0
+1759843784631,75165,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2158453,2080,10,10,null,0,1,0
+1759843784631,75165,Radial Map,200,OK,APIs 1-10,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,74589,0,0
+1759843784631,75165,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,2158453,2080,10,10,null,0,1,0
+1759843784631,75165,Radial Map,200,OK,APIs 1-10,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,74589,0,0
+1759843818374,44409,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,3454,2131,10,10,null,0,0,0
+1759843818374,44409,Interconnection Map,200,OK,APIs 1-7,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,44409,0,0
+1759843818374,44409,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,3454,2131,10,10,null,0,0,0
+1759843818374,44409,Interconnection Map,200,OK,APIs 1-7,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,44409,0,0
+1759843815870,49109,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,3454,2131,10,10,null,0,0,0
+1759843815870,49109,Interconnection Map,200,OK,APIs 1-6,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,49109,0,0
+1759843815870,49109,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,3454,2131,10,10,null,0,0,0
+1759843815870,49109,Interconnection Map,200,OK,APIs 1-6,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,49109,0,0
+1759843817913,47680,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,3454,2131,10,10,null,0,0,0
+1759843817913,47680,Interconnection Map,200,OK,APIs 1-9,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,47680,0,0
+1759843817913,47680,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,3454,2131,10,10,null,0,0,0
+1759843817913,47680,Interconnection Map,200,OK,APIs 1-9,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,47680,0,0
+1759843818185,47772,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,3454,2131,10,10,null,0,0,0
+1759843818185,47772,Interconnection Map,200,OK,APIs 1-2,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,47772,0,0
+1759843818185,47772,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,3454,2131,10,10,null,0,0,0
+1759843818185,47772,Interconnection Map,200,OK,APIs 1-2,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,47772,0,0
+1759843777996,90647,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2158453,2080,10,10,null,0,1,0
+1759843777997,90647,Radial Map,200,OK,APIs 1-1,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,90402,0,0
+1759843777996,90647,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2158453,2080,10,10,null,0,1,0
+1759843777997,90647,Radial Map,200,OK,APIs 1-1,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,90402,0,0
+1759843780709,88246,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2158453,2080,10,10,null,0,2,0
+1759843780710,88246,Radial Map,200,OK,APIs 1-5,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,87987,0,0
+1759843780709,88246,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,2158453,2080,10,10,null,0,2,0
+1759843780710,88246,Radial Map,200,OK,APIs 1-5,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,87987,0,0
+1759843783009,86544,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2158453,2080,10,10,null,0,0,0
+1759843783009,86544,Radial Map,200,OK,APIs 1-8,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,86094,0,0
+1759843783009,86544,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2158453,2080,10,10,null,0,0,0
+1759843783009,86544,Radial Map,200,OK,APIs 1-8,text,true,,2158453,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,86094,0,0
+1759843840499,46785,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,3454,2131,10,10,null,0,0,69
+1759843840499,46785,Interconnection Map,200,OK,APIs 1-4,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,46785,0,69
+1759843840499,46785,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,3454,2131,10,10,null,0,0,69
+1759843840499,46785,Interconnection Map,200,OK,APIs 1-4,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,46785,0,69
+1759843859797,30098,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,3454,2131,10,10,null,0,1,33
+1759843859797,30098,Interconnection Map,200,OK,APIs 1-10,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,30098,0,33
+1759843859797,30098,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,3454,2131,10,10,null,0,1,33
+1759843859797,30098,Interconnection Map,200,OK,APIs 1-10,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,30098,0,33
+1759843856093,34006,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,3454,2131,10,10,null,0,0,46
+1759843856093,34006,Interconnection Map,200,OK,APIs 1-3,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,34006,0,46
+1759843856093,34006,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,3454,2131,10,10,null,0,0,46
+1759843856093,34006,Interconnection Map,200,OK,APIs 1-3,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,34006,0,46
+1759843868644,32527,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3454,2131,10,10,null,0,0,35
+1759843868644,32527,Interconnection Map,200,OK,APIs 1-1,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,32527,0,35
+1759843868644,32527,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3454,2131,10,10,null,0,0,35
+1759843868644,32527,Interconnection Map,200,OK,APIs 1-1,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,32527,0,35
+1759843868957,37637,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,3454,2131,10,10,null,0,0,32
+1759843868957,37637,Interconnection Map,200,OK,APIs 1-5,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,37637,0,32
+1759843868957,37637,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,3454,2131,10,10,null,0,0,32
+1759843868957,37637,Interconnection Map,200,OK,APIs 1-5,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,37637,0,32
+1759843869553,138379,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,3454,2131,10,10,null,0,2,30
+1759843869554,138379,Interconnection Map,200,OK,APIs 1-8,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,138379,0,30
+1759843869553,138379,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,3454,2131,10,10,null,0,2,30
+1759843869554,138379,Interconnection Map,200,OK,APIs 1-8,text,true,,3454,2131,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,138379,0,30
+1759843862783,180092,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-7,,false,,3184,0,10,10,null,0,3,38
+1759843862784,180092,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-7,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,38
+1759843862783,180092,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-7,,false,,3184,0,10,10,null,0,3,38
+1759843862784,180092,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-7,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,38
+1759843864980,180108,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-6,,false,,3184,0,10,10,null,0,1,48
+1759843864980,180108,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-6,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,48
+1759843864980,180108,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-6,,false,,3184,0,10,10,null,0,1,48
+1759843864980,180108,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-6,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,48
+1759843865593,180085,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-9,,false,,3184,0,10,10,null,0,1,42
+1759843865593,180085,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-9,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,42
+1759843865593,180085,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-9,,false,,3184,0,10,10,null,0,1,42
+1759843865593,180085,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-9,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,42
+1759843865957,180077,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-2,,false,,3184,0,10,10,null,0,1,36
+1759843865957,180077,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-2,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,36
+1759843865957,180077,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-2,,false,,3184,0,10,10,null,0,1,36
+1759843865957,180077,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-2,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,36
+1759843887284,180047,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-4,,false,,3184,0,10,10,null,0,1,0
+1759843887284,180047,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-4,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759843887284,180047,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-4,,false,,3184,0,10,10,null,0,1,0
+1759843887284,180047,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-4,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759843889896,180019,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-10,,false,,3184,0,10,10,null,0,1,0
+1759843889896,180019,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-10,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759843889896,180019,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-10,,false,,3184,0,10,10,null,0,1,0
+1759843889896,180019,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-10,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759843890100,180044,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-3,,false,,3184,0,10,10,null,0,2,0
+1759843890101,180044,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-3,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759843890100,180044,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-3,,false,,3184,0,10,10,null,0,2,0
+1759843890101,180044,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-3,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759843901172,180028,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,10,10,null,0,1,0
+1759843901172,180028,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759843901172,180028,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,10,10,null,0,1,0
+1759843901172,180028,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759843906594,180017,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-5,,false,,3184,0,10,10,null,0,1,0
+1759843906594,180017,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-5,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759843906594,180017,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-5,,false,,3184,0,10,10,null,0,1,0
+1759843906594,180017,LBO Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-5,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759844007934,85752,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2689278,2080,10,10,null,0,0,70
+1759844007934,85752,LBO Map,200,OK,APIs 1-8,text,true,,2689278,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,85304,0,70
+1759844007934,85752,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,2689278,2080,10,10,null,0,0,70
+1759844007934,85752,LBO Map,200,OK,APIs 1-8,text,true,,2689278,2080,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,85304,0,70
+1759844042879,180086,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-7,,false,,3184,0,10,10,null,0,1,52
+1759844042879,180086,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-7,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,52
+1759844042879,180086,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-7,,false,,3184,0,10,10,null,0,1,52
+1759844042879,180086,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-7,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,52
+1759844045089,180092,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-6,,false,,3184,0,10,10,null,0,2,35
+1759844045090,180092,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-6,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,35
+1759844045089,180092,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-6,,false,,3184,0,10,10,null,0,2,35
+1759844045090,180092,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-6,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,35
+1759844045679,180082,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-9,,false,,3184,0,10,10,null,0,3,36
+1759844045680,180082,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-9,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,36
+1759844045679,180082,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-9,,false,,3184,0,10,10,null,0,3,36
+1759844045680,180082,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-9,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,36
+1759844046035,180077,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-2,,false,,3184,0,10,10,null,0,8,36
+1759844046035,180077,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-2,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,36
+1759844046035,180077,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-2,,false,,3184,0,10,10,null,0,8,36
+1759844046035,180077,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-2,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,36
+1759844067332,180092,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-4,,false,,3184,0,10,10,null,0,1,49
+1759844067333,180092,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-4,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,49
+1759844067332,180092,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-4,,false,,3184,0,10,10,null,0,1,49
+1759844067333,180092,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-4,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,49
+1759844069916,180075,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-10,,false,,3184,0,10,10,null,0,3,41
+1759844069917,180075,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-10,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,41
+1759844069916,180075,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-10,,false,,3184,0,10,10,null,0,3,41
+1759844069917,180075,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-10,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,41
+1759844070147,180098,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-3,,false,,3184,0,10,10,null,0,1,41
+1759844070147,180098,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-3,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,41
+1759844070147,180098,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-3,,false,,3184,0,10,10,null,0,1,41
+1759844070147,180098,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-3,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,41
+1759844081202,180111,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,10,10,null,0,1,76
+1759844081202,180111,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,76
+1759844081202,180111,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,10,10,null,0,1,76
+1759844081202,180111,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,76
+1759844086612,180093,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-5,,false,,3184,0,10,10,null,0,1,45
+1759844086613,180093,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-5,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,45
+1759844086612,180093,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-5,,false,,3184,0,10,10,null,0,1,45
+1759844086613,180093,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-5,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,45
+1759844093687,180093,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-8,,false,,3184,0,10,10,null,0,2,38
+1759844093687,180093,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-8,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,38
+1759844093687,180093,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-8,,false,,3184,0,10,10,null,0,2,38
+1759844093687,180093,Investee Companies Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-8,text,false,Test failed: code expected to contain /200/,3184,0,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,38
+1759844249993,50385,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,591408,1969,10,10,null,0,1,37
+1759844249994,50385,EPR,200,OK,APIs 1-10,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,50237,0,37
+1759844249993,50385,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,591408,1969,10,10,null,0,1,37
+1759844249994,50385,EPR,200,OK,APIs 1-10,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,50237,0,37
+1759844261314,39962,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,591408,1969,10,10,null,0,0,39
+1759844261314,39962,EPR,200,OK,APIs 1-1,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,39837,0,39
+1759844261314,39962,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,591408,1969,10,10,null,0,0,39
+1759844261314,39962,EPR,200,OK,APIs 1-1,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,39837,0,39
+1759844222966,79119,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,591408,1969,10,10,null,0,1,68
+1759844222966,79119,EPR,200,OK,APIs 1-7,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,78992,0,68
+1759844222966,79119,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,591408,1969,10,10,null,0,1,68
+1759844222966,79119,EPR,200,OK,APIs 1-7,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,78992,0,68
+1759844226121,76910,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,591408,1969,10,10,null,0,0,48
+1759844226121,76910,EPR,200,OK,APIs 1-2,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,76796,0,48
+1759844226121,76910,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,591408,1969,10,10,null,0,0,48
+1759844226121,76910,EPR,200,OK,APIs 1-2,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,76796,0,48
+1759844250245,53628,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,591408,1969,10,10,null,0,1,41
+1759844250245,53628,EPR,200,OK,APIs 1-3,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,53492,0,41
+1759844250245,53628,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,591408,1969,10,10,null,0,1,41
+1759844250245,53628,EPR,200,OK,APIs 1-3,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,53492,0,41
+1759844247426,57498,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,591408,1969,10,10,null,0,0,47
+1759844247426,57498,EPR,200,OK,APIs 1-4,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,57384,0,47
+1759844247426,57498,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,591408,1969,10,10,null,0,0,47
+1759844247426,57498,EPR,200,OK,APIs 1-4,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,57384,0,47
+1759844225764,79973,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,591408,1969,10,10,null,0,1,36
+1759844225764,79973,EPR,200,OK,APIs 1-9,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,79860,0,36
+1759844225764,79973,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,591408,1969,10,10,null,0,1,36
+1759844225764,79973,EPR,200,OK,APIs 1-9,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,79860,0,36
+1759844225183,81565,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,591408,1969,10,10,null,0,1,49
+1759844225184,81565,EPR,200,OK,APIs 1-6,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,81445,0,49
+1759844225183,81565,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,591408,1969,10,10,null,0,1,49
+1759844225184,81565,EPR,200,OK,APIs 1-6,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,81445,0,49
+1759844266707,40835,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,591408,1969,10,10,null,0,0,45
+1759844266707,40835,EPR,200,OK,APIs 1-5,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,40722,0,45
+1759844266707,40835,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,591408,1969,10,10,null,0,0,45
+1759844266707,40835,EPR,200,OK,APIs 1-5,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,40722,0,45
+1759844273782,46585,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,591408,1969,10,10,null,0,1,71
+1759844273783,46585,EPR,200,OK,APIs 1-8,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,46421,0,71
+1759844273782,46585,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,591408,1969,10,10,null,0,1,71
+1759844273783,46585,EPR,200,OK,APIs 1-8,text,true,,591408,1969,10,10,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,46421,0,71
+1759844307542,44338,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,39902,2025,10,10,null,0,0,0
+1759844307542,44338,RED List Report,200,OK,APIs 1-5,text,true,,39902,2025,10,10,https://api-preprod.stg.handshakes.ai/api/report/redlist,44336,0,0
+1759844307542,44338,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-5,,true,,39902,2025,10,10,null,0,0,0
+1759844307542,44338,RED List Report,200,OK,APIs 1-5,text,true,,39902,2025,10,10,https://api-preprod.stg.handshakes.ai/api/report/redlist,44336,0,0
+1759844303032,49619,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,39902,2025,9,9,null,0,1,36
+1759844303032,49619,RED List Report,200,OK,APIs 1-2,text,true,,39902,2025,9,9,https://api-preprod.stg.handshakes.ai/api/report/redlist,49619,0,36
+1759844303032,49619,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-2,,true,,39902,2025,9,9,null,0,1,36
+1759844303032,49619,RED List Report,200,OK,APIs 1-2,text,true,,39902,2025,9,9,https://api-preprod.stg.handshakes.ai/api/report/redlist,49619,0,36
+1759844306749,46651,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,39902,2025,8,8,null,0,1,37
+1759844306750,46651,RED List Report,200,OK,APIs 1-6,text,true,,39902,2025,8,8,https://api-preprod.stg.handshakes.ai/api/report/redlist,46650,0,37
+1759844306749,46651,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-6,,true,,39902,2025,8,8,null,0,1,37
+1759844306750,46651,RED List Report,200,OK,APIs 1-6,text,true,,39902,2025,8,8,https://api-preprod.stg.handshakes.ai/api/report/redlist,46650,0,37
+1759844305738,48217,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,39902,2025,7,7,null,0,0,29
+1759844305738,48217,RED List Report,200,OK,APIs 1-9,text,true,,39902,2025,7,7,https://api-preprod.stg.handshakes.ai/api/report/redlist,48217,0,29
+1759844305738,48217,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-9,,true,,39902,2025,7,7,null,0,0,29
+1759844305738,48217,RED List Report,200,OK,APIs 1-9,text,true,,39902,2025,7,7,https://api-preprod.stg.handshakes.ai/api/report/redlist,48217,0,29
+1759844304924,49765,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,39902,2025,6,6,null,0,1,0
+1759844304924,49765,RED List Report,200,OK,APIs 1-4,text,true,,39902,2025,6,6,https://api-preprod.stg.handshakes.ai/api/report/redlist,49765,0,0
+1759844304924,49765,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-4,,true,,39902,2025,6,6,null,0,1,0
+1759844304924,49765,RED List Report,200,OK,APIs 1-4,text,true,,39902,2025,6,6,https://api-preprod.stg.handshakes.ai/api/report/redlist,49765,0,0
+1759844302086,53380,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,39902,2025,5,5,null,0,1,60
+1759844302087,53380,RED List Report,200,OK,APIs 1-7,text,true,,39902,2025,5,5,https://api-preprod.stg.handshakes.ai/api/report/redlist,53380,0,60
+1759844302086,53380,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-7,,true,,39902,2025,5,5,null,0,1,60
+1759844302087,53380,RED List Report,200,OK,APIs 1-7,text,true,,39902,2025,5,5,https://api-preprod.stg.handshakes.ai/api/report/redlist,53380,0,60
+1759844303875,52120,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,39902,2025,4,4,null,0,1,0
+1759844303875,52120,RED List Report,200,OK,APIs 1-3,text,true,,39902,2025,4,4,https://api-preprod.stg.handshakes.ai/api/report/redlist,52120,0,0
+1759844303875,52120,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-3,,true,,39902,2025,4,4,null,0,1,0
+1759844303875,52120,RED List Report,200,OK,APIs 1-3,text,true,,39902,2025,4,4,https://api-preprod.stg.handshakes.ai/api/report/redlist,52120,0,0
+1759844300381,56403,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,39902,2025,3,3,null,0,0,0
+1759844300381,56403,RED List Report,200,OK,APIs 1-10,text,true,,39902,2025,3,3,https://api-preprod.stg.handshakes.ai/api/report/redlist,56398,0,0
+1759844300381,56403,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-10,,true,,39902,2025,3,3,null,0,0,0
+1759844300381,56403,RED List Report,200,OK,APIs 1-10,text,true,,39902,2025,3,3,https://api-preprod.stg.handshakes.ai/api/report/redlist,56398,0,0
+1759844301276,56135,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,39902,2025,2,2,null,0,1,0
+1759844301277,56135,RED List Report,200,OK,APIs 1-1,text,true,,39902,2025,2,2,https://api-preprod.stg.handshakes.ai/api/report/redlist,56134,0,0
+1759844301276,56135,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,39902,2025,2,2,null,0,1,0
+1759844301277,56135,RED List Report,200,OK,APIs 1-1,text,true,,39902,2025,2,2,https://api-preprod.stg.handshakes.ai/api/report/redlist,56134,0,0
+1759844320369,38037,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,39902,2025,1,1,null,0,0,0
+1759844320369,38037,RED List Report,200,OK,APIs 1-8,text,true,,39902,2025,1,1,https://api-preprod.stg.handshakes.ai/api/report/redlist,38034,0,0
+1759844320369,38037,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-8,,true,,39902,2025,1,1,null,0,0,0
+1759844320369,38037,RED List Report,200,OK,APIs 1-8,text,true,,39902,2025,1,1,https://api-preprod.stg.handshakes.ai/api/report/redlist,38034,0,0

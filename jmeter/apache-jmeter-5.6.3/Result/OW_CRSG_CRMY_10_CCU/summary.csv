@@ -1,0 +1,181 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1764496127180,478,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-1,,false,,3004,812,4,8,null,0,502,57
+1764496127681,463,Token,200,OK,Radial Map 2-1,text,true,,2331,268,4,8,https://api-preprod.stg.handshakes.ai/Token,463,0,57
+1764496128144,15,Radial Map,401,Unauthorized,Radial Map 2-1,text,false,Test failed: code expected to contain /200/,673,544,4,8,https://api-preprod.stg.handshakes.ai/api/graph/render,15,0,0
+1764496127481,298,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-2,,false,,1280,812,4,8,null,0,501,30
+1764496127981,281,Token,200,OK,Radial Map 2-2,text,true,,607,268,4,8,https://api-preprod.stg.handshakes.ai/Token,281,0,30
+1764496128263,17,Radial Map,401,Unauthorized,Radial Map 2-2,text,false,Test failed: code expected to contain /200/,673,544,4,8,https://api-preprod.stg.handshakes.ai/api/graph/render,17,0,0
+1764496127781,227,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-3,,false,,3004,812,5,10,null,0,501,38
+1764496128281,202,Token,200,OK,Radial Map 2-3,text,true,,2331,268,5,10,https://api-preprod.stg.handshakes.ai/Token,202,0,38
+1764496128483,25,Radial Map,401,Unauthorized,Radial Map 2-3,text,false,Test failed: code expected to contain /200/,673,544,5,10,https://api-preprod.stg.handshakes.ai/api/graph/render,25,0,0
+1764496128080,392,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-4,,false,,3004,812,7,14,null,0,513,36
+1764496128591,374,Token,200,OK,Radial Map 2-4,text,true,,2331,268,6,13,https://api-preprod.stg.handshakes.ai/Token,374,0,36
+1764496128966,18,Radial Map,401,Unauthorized,Radial Map 2-4,text,false,Test failed: code expected to contain /200/,673,544,7,14,https://api-preprod.stg.handshakes.ai/api/graph/render,18,0,0
+1764496127163,871,Enhanced Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Enhanced Entity Search 1-1,,true,,7321,2447,7,14,null,0,1002,51
+1764496128165,233,Token,200,OK,Enhanced Entity Search 1-1,text,true,,2331,268,5,10,https://api-preprod.stg.handshakes.ai/Token,233,0,51
+1764496128398,638,Enhanced Entity Search,200,OK,Enhanced Entity Search 1-1,text,true,,4990,2179,7,14,https://api-preprod.stg.handshakes.ai/api/entity/search,638,0,0
+1764496128160,432,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-1,,false,,3004,812,7,14,null,0,512,46
+1764496128671,414,Token,200,OK,Radial Map 2-1,text,true,,2331,268,7,14,https://api-preprod.stg.handshakes.ai/Token,414,0,46
+1764496129086,18,Radial Map,401,Unauthorized,Radial Map 2-1,text,false,Test failed: code expected to contain /200/,673,544,7,14,https://api-preprod.stg.handshakes.ai/api/graph/render,18,0,0
+1764496128280,417,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-2,,false,,1280,812,7,14,null,0,502,36
+1764496128782,399,Token,200,OK,Radial Map 2-2,text,true,,607,268,7,14,https://api-preprod.stg.handshakes.ai/Token,399,0,36
+1764496129181,18,Radial Map,401,Unauthorized,Radial Map 2-2,text,false,Test failed: code expected to contain /200/,673,544,7,14,https://api-preprod.stg.handshakes.ai/api/graph/render,18,0,0
+1764496128381,369,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-5,,false,,1280,812,7,14,null,0,501,49
+1764496128882,351,Token,200,OK,Radial Map 2-5,text,true,,607,268,7,14,https://api-preprod.stg.handshakes.ai/Token,351,0,49
+1764496129233,18,Radial Map,401,Unauthorized,Radial Map 2-5,text,false,Test failed: code expected to contain /200/,673,544,7,14,https://api-preprod.stg.handshakes.ai/api/graph/render,17,0,0
+1764496128509,280,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-3,,false,,1280,812,8,16,null,0,500,47
+1764496129009,263,Token,200,OK,Radial Map 2-3,text,true,,607,268,7,15,https://api-preprod.stg.handshakes.ai/Token,263,0,47
+1764496129272,17,Radial Map,401,Unauthorized,Radial Map 2-3,text,false,Test failed: code expected to contain /200/,673,544,8,16,https://api-preprod.stg.handshakes.ai/api/graph/render,17,0,0
+1764496128063,341,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-4,,false,,1258,712,8,16,null,0,1003,41
+1764496129064,325,Token,200,OK,Enhanced Entity Search 1-4,text,true,,607,268,8,16,https://api-preprod.stg.handshakes.ai/Token,325,0,41
+1764496129390,16,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-4,text,false,Test failed: code expected to contain /200/,651,444,8,16,https://api-preprod.stg.handshakes.ai/api/entity/search,16,0,0
+1764496128680,275,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-6,,false,,1280,812,8,16,null,0,502,41
+1764496129181,257,Token,200,OK,Radial Map 2-6,text,true,,607,268,8,16,https://api-preprod.stg.handshakes.ai/Token,257,0,41
+1764496129439,18,Radial Map,401,Unauthorized,Radial Map 2-6,text,false,Test failed: code expected to contain /200/,673,544,8,16,https://api-preprod.stg.handshakes.ai/api/graph/render,18,0,0
+1764496127465,1161,Enhanced Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Enhanced Entity Search 1-2,,true,,7321,2447,9,18,null,0,1004,38
+1764496128468,610,Token,200,OK,Enhanced Entity Search 1-2,text,true,,2331,268,7,14,https://api-preprod.stg.handshakes.ai/Token,610,0,38
+1764496129079,551,Enhanced Entity Search,200,OK,Enhanced Entity Search 1-2,text,true,,4990,2179,9,18,https://api-preprod.stg.handshakes.ai/api/entity/search,551,0,0
+1764496128981,299,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-7,,false,,1280,812,9,18,null,0,503,31
+1764496129484,223,Token,200,OK,Radial Map 2-7,text,true,,607,268,9,18,https://api-preprod.stg.handshakes.ai/Token,223,0,31
+1764496129707,76,Radial Map,401,Unauthorized,Radial Map 2-7,text,false,Test failed: code expected to contain /200/,673,544,9,18,https://api-preprod.stg.handshakes.ai/api/graph/render,76,0,0
+1764496128985,289,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-4,,false,,1280,812,9,18,null,0,514,39
+1764496129499,242,Token,200,OK,Radial Map 2-4,text,true,,607,268,9,18,https://api-preprod.stg.handshakes.ai/Token,242,0,39
+1764496129741,47,Radial Map,401,Unauthorized,Radial Map 2-4,text,false,Test failed: code expected to contain /200/,673,544,9,18,https://api-preprod.stg.handshakes.ai/api/graph/render,47,0,0
+1764496129104,288,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-1,,false,,1280,812,10,20,null,0,503,42
+1764496129606,261,Token,200,OK,Radial Map 2-1,text,true,,607,268,9,19,https://api-preprod.stg.handshakes.ai/Token,261,0,42
+1764496129868,27,Radial Map,401,Unauthorized,Radial Map 2-1,text,false,Test failed: code expected to contain /200/,673,544,10,20,https://api-preprod.stg.handshakes.ai/api/graph/render,27,0,0
+1764496129289,215,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-3,,false,,1280,812,9,19,null,0,501,50
+1764496129790,182,Token,200,OK,Radial Map 2-3,text,true,,607,268,9,19,https://api-preprod.stg.handshakes.ai/Token,182,0,50
+1764496129972,33,Radial Map,401,Unauthorized,Radial Map 2-3,text,false,Test failed: code expected to contain /200/,673,544,9,19,https://api-preprod.stg.handshakes.ai/api/graph/render,33,0,0
+1764496128364,639,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-5,,false,,1258,712,10,19,null,0,1003,31
+1764496129366,606,Token,200,OK,Enhanced Entity Search 1-5,text,true,,607,268,10,19,https://api-preprod.stg.handshakes.ai/Token,606,0,31
+1764496129972,33,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-5,text,false,Test failed: code expected to contain /200/,651,444,10,19,https://api-preprod.stg.handshakes.ai/api/entity/search,33,0,0
+1764496129281,241,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-8,,false,,1280,812,8,18,null,0,504,56
+1764496129784,227,Token,200,OK,Radial Map 2-8,text,true,,607,268,8,18,https://api-preprod.stg.handshakes.ai/Token,227,0,56
+1764496130012,14,Radial Map,401,Unauthorized,Radial Map 2-8,text,false,Test failed: code expected to contain /200/,673,544,8,18,https://api-preprod.stg.handshakes.ai/api/graph/render,14,0,0
+1764496129251,339,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-5,,false,,1280,812,8,18,null,0,501,63
+1764496129751,308,Token,200,OK,Radial Map 2-5,text,true,,607,268,8,18,https://api-preprod.stg.handshakes.ai/Token,308,0,63
+1764496130060,31,Radial Map,401,Unauthorized,Radial Map 2-5,text,false,Test failed: code expected to contain /200/,673,544,8,18,https://api-preprod.stg.handshakes.ai/api/graph/render,31,0,0
+1764496128663,426,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-6,,false,,1258,712,10,18,null,0,1002,32
+1764496129664,395,Token,200,OK,Enhanced Entity Search 1-6,text,true,,607,268,10,18,https://api-preprod.stg.handshakes.ai/Token,395,0,32
+1764496130060,31,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-6,text,false,Test failed: code expected to contain /200/,651,444,10,18,https://api-preprod.stg.handshakes.ai/api/entity/search,31,0,0
+1764496128963,245,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-7,,false,,1258,712,10,18,null,0,1002,59
+1764496129965,223,Token,200,OK,Enhanced Entity Search 1-7,text,true,,607,268,10,18,https://api-preprod.stg.handshakes.ai/Token,223,0,59
+1764496130188,22,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-7,text,false,Test failed: code expected to contain /200/,651,444,10,18,https://api-preprod.stg.handshakes.ai/api/entity/search,22,0,0
+1764496129199,577,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-2,,false,,1280,812,8,18,null,0,502,95
+1764496129701,559,Token,200,OK,Radial Map 2-2,text,true,,607,268,8,18,https://api-preprod.stg.handshakes.ai/Token,559,0,95
+1764496130260,18,Radial Map,401,Unauthorized,Radial Map 2-2,text,false,Test failed: code expected to contain /200/,673,544,8,18,https://api-preprod.stg.handshakes.ai/api/graph/render,18,0,0
+1764496129457,351,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-6,,false,,1280,812,7,17,null,0,502,45
+1764496129958,329,Token,200,OK,Radial Map 2-6,text,true,,607,268,7,17,https://api-preprod.stg.handshakes.ai/Token,329,0,45
+1764496130288,22,Radial Map,401,Unauthorized,Radial Map 2-6,text,false,Test failed: code expected to contain /200/,673,544,7,17,https://api-preprod.stg.handshakes.ai/api/graph/render,22,0,0
+1764496127764,1584,Enhanced Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Enhanced Entity Search 1-3,,true,,7321,2447,10,17,null,0,1002,37
+1764496128765,356,Token,200,OK,Enhanced Entity Search 1-3,text,true,,2331,268,7,14,https://api-preprod.stg.handshakes.ai/Token,356,0,37
+1764496129121,1228,Enhanced Entity Search,200,OK,Enhanced Entity Search 1-3,text,true,,4990,2179,10,17,https://api-preprod.stg.handshakes.ai/api/entity/search,1228,0,0
+1764496129582,359,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-9,,false,,1280,812,7,17,null,0,505,43
+1764496130086,339,Token,200,OK,Radial Map 2-9,text,true,,607,268,7,17,https://api-preprod.stg.handshakes.ai/Token,339,0,43
+1764496130426,20,Radial Map,401,Unauthorized,Radial Map 2-9,text,false,Test failed: code expected to contain /200/,673,544,7,17,https://api-preprod.stg.handshakes.ai/api/graph/render,20,0,0
+1764496129036,428,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-1,,false,,1258,712,10,17,null,0,1012,46
+1764496130046,412,Token,200,OK,Enhanced Entity Search 1-1,text,true,,607,268,10,17,https://api-preprod.stg.handshakes.ai/Token,412,0,46
+1764496130459,16,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-1,text,false,Test failed: code expected to contain /200/,651,444,10,17,https://api-preprod.stg.handshakes.ai/api/entity/search,16,0,0
+1764496129783,219,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-7,,false,,1280,812,7,17,null,0,501,29
+1764496130284,202,Token,200,OK,Radial Map 2-7,text,true,,607,268,7,17,https://api-preprod.stg.handshakes.ai/Token,202,0,29
+1764496130486,17,Radial Map,401,Unauthorized,Radial Map 2-7,text,false,Test failed: code expected to contain /200/,673,544,7,17,https://api-preprod.stg.handshakes.ai/api/graph/render,17,0,0
+1764496129263,348,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-8,,false,,1258,712,10,17,null,0,1002,34
+1764496130264,330,Token,200,OK,Enhanced Entity Search 1-8,text,true,,607,268,10,17,https://api-preprod.stg.handshakes.ai/Token,330,0,34
+1764496130595,18,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-8,text,false,Test failed: code expected to contain /200/,651,444,10,17,https://api-preprod.stg.handshakes.ai/api/entity/search,17,0,0
+1764496129788,366,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-4,,false,,1280,812,7,17,null,0,502,33
+1764496130289,351,Token,200,OK,Radial Map 2-4,text,true,,607,268,7,17,https://api-preprod.stg.handshakes.ai/Token,351,0,33
+1764496130641,15,Radial Map,401,Unauthorized,Radial Map 2-4,text,false,Test failed: code expected to contain /200/,673,544,7,17,https://api-preprod.stg.handshakes.ai/api/graph/render,15,0,0
+1764496129880,271,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-10,,false,,1280,812,6,16,null,0,508,59
+1764496130388,254,Token,200,OK,Radial Map 2-10,text,true,,607,268,7,17,https://api-preprod.stg.handshakes.ai/Token,254,0,59
+1764496130642,17,Radial Map,401,Unauthorized,Radial Map 2-10,text,false,Test failed: code expected to contain /200/,673,544,6,16,https://api-preprod.stg.handshakes.ai/api/graph/render,17,0,0
+1764496130027,230,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-8,,false,,1280,812,6,16,null,0,502,46
+1764496130529,213,Token,200,OK,Radial Map 2-8,text,true,,607,268,6,16,https://api-preprod.stg.handshakes.ai/Token,213,0,46
+1764496130742,17,Radial Map,401,Unauthorized,Radial Map 2-8,text,false,Test failed: code expected to contain /200/,673,544,6,16,https://api-preprod.stg.handshakes.ai/api/graph/render,17,0,0
+1764496129564,261,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-9,,false,,1258,712,10,16,null,0,1001,46
+1764496130565,244,Token,200,OK,Enhanced Entity Search 1-9,text,true,,607,268,10,16,https://api-preprod.stg.handshakes.ai/Token,244,0,46
+1764496130809,17,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-9,text,false,Test failed: code expected to contain /200/,651,444,10,16,https://api-preprod.stg.handshakes.ai/api/entity/search,17,0,0
+1764496129407,501,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-4,,false,,1258,712,10,16,null,0,1005,66
+1764496130410,485,Token,200,OK,Enhanced Entity Search 1-4,text,true,,607,268,10,16,https://api-preprod.stg.handshakes.ai/Token,485,0,66
+1764496130897,16,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-4,text,false,Test failed: code expected to contain /200/,651,444,10,16,https://api-preprod.stg.handshakes.ai/api/entity/search,16,0,0
+1764496130091,311,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-5,,false,,1280,812,6,16,null,0,516,58
+1764496130607,292,Token,200,OK,Radial Map 2-5,text,true,,607,268,6,16,https://api-preprod.stg.handshakes.ai/Token,292,0,58
+1764496130899,19,Radial Map,401,Unauthorized,Radial Map 2-5,text,false,Test failed: code expected to contain /200/,673,544,6,16,https://api-preprod.stg.handshakes.ai/api/graph/render,19,0,0
+1764496129630,321,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-2,,false,,1258,712,10,15,null,0,1002,37
+1764496130631,302,Token,200,OK,Enhanced Entity Search 1-2,text,true,,607,268,10,15,https://api-preprod.stg.handshakes.ai/Token,302,0,37
+1764496130934,19,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-2,text,false,Test failed: code expected to contain /200/,651,444,10,15,https://api-preprod.stg.handshakes.ai/api/entity/search,19,0,0
+1764496130311,216,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-6,,false,,1280,812,5,15,null,0,515,43
+1764496130824,200,Token,200,OK,Radial Map 2-6,text,true,,607,268,5,15,https://api-preprod.stg.handshakes.ai/Token,200,0,43
+1764496131025,16,Radial Map,401,Unauthorized,Radial Map 2-6,text,false,Test failed: code expected to contain /200/,673,544,5,15,https://api-preprod.stg.handshakes.ai/api/graph/render,16,0,0
+1764496129865,238,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-10,,false,,1258,712,10,14,null,0,1002,48
+1764496130866,209,Token,200,OK,Enhanced Entity Search 1-10,text,true,,607,268,10,14,https://api-preprod.stg.handshakes.ai/Token,209,0,48
+1764496131076,29,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-10,text,false,Test failed: code expected to contain /200/,651,444,10,14,https://api-preprod.stg.handshakes.ai/api/entity/search,29,0,0
+1764496130447,233,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-9,,false,,1280,812,4,14,null,0,505,60
+1764496130951,216,Token,200,OK,Radial Map 2-9,text,true,,607,268,4,14,https://api-preprod.stg.handshakes.ai/Token,216,0,60
+1764496131168,17,Radial Map,401,Unauthorized,Radial Map 2-9,text,false,Test failed: code expected to contain /200/,673,544,4,14,https://api-preprod.stg.handshakes.ai/api/graph/render,17,0,0
+1764496130006,254,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-5,,false,,1258,712,10,14,null,0,1006,47
+1764496131011,238,Token,200,OK,Enhanced Entity Search 1-5,text,true,,607,268,10,14,https://api-preprod.stg.handshakes.ai/Token,238,0,47
+1764496131250,16,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-5,text,false,Test failed: code expected to contain /200/,651,444,10,14,https://api-preprod.stg.handshakes.ai/api/entity/search,16,0,0
+1764496130503,329,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-7,,false,,1280,812,4,14,null,0,510,46
+1764496131012,314,Token,200,OK,Radial Map 2-7,text,true,,607,268,4,14,https://api-preprod.stg.handshakes.ai/Token,314,0,46
+1764496131326,15,Radial Map,401,Unauthorized,Radial Map 2-7,text,false,Test failed: code expected to contain /200/,673,544,4,14,https://api-preprod.stg.handshakes.ai/api/graph/render,15,0,0
+1764496130091,238,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-6,,false,,1258,712,10,13,null,0,1016,42
+1764496131107,219,Token,200,OK,Enhanced Entity Search 1-6,text,true,,607,268,10,14,https://api-preprod.stg.handshakes.ai/Token,219,0,42
+1764496131326,19,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-6,text,false,Test failed: code expected to contain /200/,651,444,10,13,https://api-preprod.stg.handshakes.ai/api/entity/search,19,0,0
+1764496130659,218,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-10,,false,,1280,812,3,13,null,0,511,40
+1764496131169,203,Token,200,OK,Radial Map 2-10,text,true,,607,268,3,13,https://api-preprod.stg.handshakes.ai/Token,203,0,40
+1764496131373,15,Radial Map,401,Unauthorized,Radial Map 2-10,text,false,Test failed: code expected to contain /200/,673,544,3,13,https://api-preprod.stg.handshakes.ai/api/graph/render,15,0,0
+1764496130759,207,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-8,,false,,1280,812,3,13,null,0,504,30
+1764496131262,186,Token,200,OK,Radial Map 2-8,text,true,,607,268,3,13,https://api-preprod.stg.handshakes.ai/Token,186,0,30
+1764496131449,21,Radial Map,401,Unauthorized,Radial Map 2-8,text,false,Test failed: code expected to contain /200/,673,544,3,13,https://api-preprod.stg.handshakes.ai/api/graph/render,21,0,0
+1764496130210,298,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-7,,false,,1258,712,10,12,null,0,1006,48
+1764496131215,279,Token,200,OK,Enhanced Entity Search 1-7,text,true,,607,268,10,12,https://api-preprod.stg.handshakes.ai/Token,279,0,48
+1764496131495,19,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-7,text,false,Test failed: code expected to contain /200/,651,444,10,12,https://api-preprod.stg.handshakes.ai/api/entity/search,19,0,0
+1764496130350,194,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-3,,false,,1258,712,10,12,null,0,1006,29
+1764496131355,179,Token,200,OK,Enhanced Entity Search 1-3,text,true,,607,268,10,12,https://api-preprod.stg.handshakes.ai/Token,179,0,29
+1764496131534,15,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-3,text,false,Test failed: code expected to contain /200/,651,444,10,12,https://api-preprod.stg.handshakes.ai/api/entity/search,15,0,0
+1764496130476,210,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-1,,false,,1258,712,10,12,null,0,1006,31
+1764496131481,193,Token,200,OK,Enhanced Entity Search 1-1,text,true,,607,268,10,12,https://api-preprod.stg.handshakes.ai/Token,193,0,31
+1764496131675,17,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-1,text,false,Test failed: code expected to contain /200/,651,444,10,12,https://api-preprod.stg.handshakes.ai/api/entity/search,17,0,0
+1764496130613,226,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-8,,false,,1258,712,9,11,null,0,1009,48
+1764496131621,211,Token,200,OK,Enhanced Entity Search 1-8,text,true,,607,268,9,11,https://api-preprod.stg.handshakes.ai/Token,211,0,48
+1764496131833,15,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-8,text,false,Test failed: code expected to contain /200/,651,444,9,11,https://api-preprod.stg.handshakes.ai/api/entity/search,15,0,0
+1764496131186,287,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-9,,false,,1280,812,2,11,null,0,514,33
+1764496131699,258,Token,200,OK,Radial Map 2-9,text,true,,607,268,2,11,https://api-preprod.stg.handshakes.ai/Token,258,0,33
+1764496131958,29,Radial Map,401,Unauthorized,Radial Map 2-9,text,false,Test failed: code expected to contain /200/,673,544,2,11,https://api-preprod.stg.handshakes.ai/api/graph/render,29,0,0
+1764496130826,220,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-9,,false,,1258,712,9,10,null,0,1015,42
+1764496131840,204,Token,200,OK,Enhanced Entity Search 1-9,text,true,,607,268,9,10,https://api-preprod.stg.handshakes.ai/Token,204,0,42
+1764496132044,16,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-9,text,false,Test failed: code expected to contain /200/,651,444,9,10,https://api-preprod.stg.handshakes.ai/api/entity/search,16,0,0
+1764496130954,220,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-2,,false,,1258,712,9,10,null,0,1014,41
+1764496131967,197,Token,200,OK,Enhanced Entity Search 1-2,text,true,,607,268,9,10,https://api-preprod.stg.handshakes.ai/Token,197,0,41
+1764496132165,23,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-2,text,false,Test failed: code expected to contain /200/,651,444,9,10,https://api-preprod.stg.handshakes.ai/api/entity/search,23,0,0
+1764496131388,295,Radial Map,401,"Number of samples in transaction : 2, number of failing samples : 1",Radial Map 2-10,,false,,1280,812,1,9,null,0,517,41
+1764496131904,273,Token,200,OK,Radial Map 2-10,text,true,,607,268,1,10,https://api-preprod.stg.handshakes.ai/Token,273,0,41
+1764496132178,22,Radial Map,401,Unauthorized,Radial Map 2-10,text,false,Test failed: code expected to contain /200/,673,544,1,9,https://api-preprod.stg.handshakes.ai/api/graph/render,22,0,0
+1764496130913,359,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-4,,false,,1258,712,8,8,null,0,1008,43
+1764496131920,341,Token,200,OK,Enhanced Entity Search 1-4,text,true,,607,268,8,8,https://api-preprod.stg.handshakes.ai/Token,341,0,43
+1764496132262,18,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-4,text,false,Test failed: code expected to contain /200/,651,444,8,8,https://api-preprod.stg.handshakes.ai/api/entity/search,18,0,0
+1764496131106,299,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-10,,false,,1258,712,7,7,null,0,1002,42
+1764496132107,275,Token,200,OK,Enhanced Entity Search 1-10,text,true,,607,268,7,7,https://api-preprod.stg.handshakes.ai/Token,275,0,42
+1764496132383,24,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-10,text,false,Test failed: code expected to contain /200/,651,444,7,7,https://api-preprod.stg.handshakes.ai/api/entity/search,24,0,0
+1764496131266,235,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-5,,false,,1258,712,7,7,null,0,1016,46
+1764496132281,218,Token,200,OK,Enhanced Entity Search 1-5,text,true,,607,268,7,7,https://api-preprod.stg.handshakes.ai/Token,218,0,46
+1764496132500,17,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-5,text,false,Test failed: code expected to contain /200/,651,444,7,7,https://api-preprod.stg.handshakes.ai/api/entity/search,17,0,0
+1764496131345,238,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-6,,false,,1258,712,6,6,null,0,1013,51
+1764496132357,222,Token,200,OK,Enhanced Entity Search 1-6,text,true,,607,268,6,6,https://api-preprod.stg.handshakes.ai/Token,222,0,51
+1764496132580,16,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-6,text,false,Test failed: code expected to contain /200/,651,444,6,6,https://api-preprod.stg.handshakes.ai/api/entity/search,16,0,0
+1764496131514,222,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-7,,false,,1258,712,5,5,null,0,1016,36
+1764496132530,205,Token,200,OK,Enhanced Entity Search 1-7,text,true,,607,268,5,5,https://api-preprod.stg.handshakes.ai/Token,205,0,36
+1764496132735,17,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-7,text,false,Test failed: code expected to contain /200/,651,444,5,5,https://api-preprod.stg.handshakes.ai/api/entity/search,17,0,0
+1764496131550,225,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-3,,false,,1258,712,4,4,null,0,1012,38
+1764496132561,207,Token,200,OK,Enhanced Entity Search 1-3,text,true,,607,268,4,4,https://api-preprod.stg.handshakes.ai/Token,207,0,38
+1764496132769,18,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-3,text,false,Test failed: code expected to contain /200/,651,444,4,4,https://api-preprod.stg.handshakes.ai/api/entity/search,18,0,0
+1764496131848,213,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-8,,false,,1258,712,3,3,null,0,1013,36
+1764496132860,194,Token,200,OK,Enhanced Entity Search 1-8,text,true,,607,268,3,3,https://api-preprod.stg.handshakes.ai/Token,194,0,36
+1764496133055,19,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-8,text,false,Test failed: code expected to contain /200/,651,444,3,3,https://api-preprod.stg.handshakes.ai/api/entity/search,19,0,0
+1764496132061,221,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-9,,false,,1258,712,2,2,null,0,1005,41
+1764496133066,201,Token,200,OK,Enhanced Entity Search 1-9,text,true,,607,268,2,2,https://api-preprod.stg.handshakes.ai/Token,201,0,41
+1764496133267,20,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-9,text,false,Test failed: code expected to contain /200/,651,444,2,2,https://api-preprod.stg.handshakes.ai/api/entity/search,19,0,0
+1764496132408,220,Enhanced Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Enhanced Entity Search 1-10,,false,,1258,712,1,1,null,0,1007,34
+1764496133414,196,Token,200,OK,Enhanced Entity Search 1-10,text,true,,607,268,1,1,https://api-preprod.stg.handshakes.ai/Token,196,0,34
+1764496133611,24,Enhanced Entity Search,401,Unauthorized,Enhanced Entity Search 1-10,text,false,Test failed: code expected to contain /200/,651,444,1,1,https://api-preprod.stg.handshakes.ai/api/entity/search,23,0,0

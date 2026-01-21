@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1767588308930,489,Token,200,OK,Token 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,486,0,267
+1767588305836,489,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,259,1,1,null,486,3139,267
+1767588309515,86193,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,15369,2018,1,1,null,0,514,98
+1767588309516,86193,RED List Report,200,OK,APIs 1-1,text,true,,15369,2018,1,1,https://api2.stg.handshakes.ai/api/report/redlist,86192,0,98
+1767588396221,13033,FPR - 1 Year,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,4319,2049,1,1,null,0,21,51
+1767588396221,13033,FPR - 1 Year,200,OK,APIs 1-1,text,true,,4319,2049,1,1,https://api2.stg.handshakes.ai/api/record/financials,13033,0,51
+1767588409277,6849,FPR - 5 Year,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,16835,2038,1,1,null,0,29,0
+1767588409277,6849,FPR - 5 Year,200,OK,APIs 1-1,text,true,,16835,2038,1,1,https://api2.stg.handshakes.ai/api/report/financialprofile,6848,0,0
+1767588416156,42928,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,15369,2018,1,1,null,0,6,46
+1767588416159,42928,RED List Report,200,OK,APIs 1-1,text,true,,15369,2018,1,1,https://api2.stg.handshakes.ai/api/report/redlist,42927,0,46
+1767588459090,2024,FPR - 1 Year,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,4319,2049,1,1,null,0,4,0
+1767588459091,2024,FPR - 1 Year,200,OK,APIs 1-1,text,true,,4319,2049,1,1,https://api2.stg.handshakes.ai/api/record/financials,2024,0,0
+1767588461119,6089,FPR - 5 Year,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,16835,2038,1,1,null,0,4,0
+1767588461119,6089,FPR - 5 Year,200,OK,APIs 1-1,text,true,,16835,2038,1,1,https://api2.stg.handshakes.ai/api/report/financialprofile,6088,0,0
+1767588467212,14011,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,15369,2018,1,1,null,0,5,73
+1767588467214,14011,RED List Report,200,OK,APIs 1-1,text,true,,15369,2018,1,1,https://api2.stg.handshakes.ai/api/report/redlist,14010,0,73
+1767588481228,336,FPR - 1 Year,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,4319,2049,1,1,null,0,3,0
+1767588481229,336,FPR - 1 Year,200,OK,APIs 1-1,text,true,,4319,2049,1,1,https://api2.stg.handshakes.ai/api/record/financials,336,0,0
+1767588481568,3609,FPR - 5 Year,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,16835,2038,1,1,null,0,3,0
+1767588481569,3609,FPR - 5 Year,200,OK,APIs 1-1,text,true,,16835,2038,1,1,https://api2.stg.handshakes.ai/api/report/financialprofile,3609,0,0

@@ -1,0 +1,103 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1759292314105,509,Login,200,"Number of samples in transaction : 1, number of failing samples : 0",setUp Thread Group 1-1,,true,,2271,266,1,1,null,0,639,405
+1759292314715,509,POST|token,200,OK,setUp Thread Group 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,505,0,405
+1759292315277,217,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-1,,true,,779,1935,1,1,null,0,2,46
+1759292315278,217,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-1,text,true,,779,1935,1,1,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,214,0,46
+1759292316278,163,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-2,,true,,779,1935,2,2,null,0,4,79
+1759292316281,163,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-2,text,true,,779,1935,2,2,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,163,0,79
+1759292316446,869,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-2,,true,,5887,2185,3,3,null,0,0,0
+1759292315498,1816,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-1,,true,,5887,2185,3,3,null,0,1,0
+1759292316446,869,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-2,text,true,,5887,2185,3,3,https://api-preprod.stg.handshakes.ai/api/entity/search,868,0,0
+1759292315498,1816,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-1,text,true,,5887,2185,3,3,https://api-preprod.stg.handshakes.ai/api/entity/search,1816,0,0
+1759292317278,1628,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-3,,true,,779,1935,4,4,null,0,3,82
+1759292317280,1628,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-3,text,true,,779,1935,4,4,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,1627,0,82
+1759292318278,844,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-4,,true,,779,1935,4,4,null,0,2,63
+1759292318279,844,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-4,text,true,,779,1935,4,4,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,844,0,63
+1759292318910,1476,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-3,,true,,5887,2185,6,6,null,0,2,0
+1759292318912,1476,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-3,text,true,,5887,2185,6,6,https://api-preprod.stg.handshakes.ai/api/entity/search,1476,0,0
+1759292319124,2401,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-4,,true,,5887,2185,7,7,null,0,0,0
+1759292319124,2401,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-4,text,true,,5887,2185,7,7,https://api-preprod.stg.handshakes.ai/api/entity/search,2401,0,0
+1759292319276,2248,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-5,,true,,779,1935,7,7,null,0,1,58
+1759292319277,2248,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-5,text,true,,779,1935,7,7,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,2248,0,58
+1759292320275,1335,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-6,,true,,779,1935,7,7,null,0,2,51
+1759292320276,1335,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-6,text,true,,779,1935,7,7,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,1335,0,51
+1759292321278,691,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-7,,true,,779,1935,7,7,null,0,3,87
+1759292321281,691,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-7,text,true,,779,1935,7,7,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,691,0,87
+1759292321526,825,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-5,,true,,5887,2185,8,8,null,0,1,0
+1759292321526,825,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-5,text,true,,5887,2185,8,8,https://api-preprod.stg.handshakes.ai/api/entity/search,825,0,0
+1759292322278,318,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-8,,true,,779,1935,8,8,null,0,5,46
+1759292322280,318,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-8,text,true,,779,1935,8,8,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,317,0,46
+1759292321973,768,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-7,,true,,5887,2185,8,8,null,0,1,0
+1759292321973,768,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-7,text,true,,5887,2185,8,8,https://api-preprod.stg.handshakes.ai/api/entity/search,768,0,0
+1759292321612,1325,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-6,,true,,5887,2185,8,8,null,0,2,0
+1759292321613,1325,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-6,text,true,,5887,2185,8,8,https://api-preprod.stg.handshakes.ai/api/entity/search,1325,0,0
+1759292322603,1100,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-8,,true,,5887,2185,9,9,null,0,2,0
+1759292322604,1100,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-8,text,true,,5887,2185,9,9,https://api-preprod.stg.handshakes.ai/api/entity/search,1100,0,0
+1759292323276,431,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-9,,true,,779,1935,9,9,null,0,2,43
+1759292323277,431,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-9,text,true,,779,1935,9,9,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,431,0,43
+1759292323710,11849,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-9,,true,,5887,2185,10,10,null,0,0,0
+1759292323710,11849,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-9,text,true,,5887,2185,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,11849,0,0
+1759292324276,11288,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-10,,true,,779,1935,10,10,null,0,1,43
+1759292324277,11288,Basic Entity Search,200,OK,OW - CRSG x CRMY x CM 1-10,text,true,,779,1935,10,10,https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=FVV%20ECMT%20ZVQMT%20FTQ%20UTEJOC%20IDDCCQD&sourceshortname=CRSG,11288,0,43
+1759292335565,5856,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-10,,true,,5887,2185,10,10,null,0,1,0
+1759292335565,5856,Enhanced Entity Search,200,OK,OW - CRSG x CRMY x CM 1-10,text,true,,5887,2185,10,10,https://api-preprod.stg.handshakes.ai/api/entity/search,5856,0,0
+1759292317316,221389,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-2,,true,,372280,2253,10,10,null,0,1,0
+1759292317317,221389,Radial Map,200,OK,OW - CRSG x CRMY x CM 1-2,text,true,,372280,2253,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,221206,0,0
+1759292321525,217451,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-4,,true,,372280,2253,10,10,null,0,2,0
+1759292321526,217451,Radial Map,200,OK,OW - CRSG x CRMY x CM 1-4,text,true,,372280,2253,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,217346,0,0
+1759292320389,218937,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-3,,true,,372280,2253,10,10,null,0,1,0
+1759292320389,218937,Radial Map,200,OK,OW - CRSG x CRMY x CM 1-3,text,true,,372280,2253,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,218871,0,0
+1759292317316,222450,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-1,,true,,372280,2253,10,10,null,0,2,0
+1759292317317,222450,Radial Map,200,OK,OW - CRSG x CRMY x CM 1-1,text,true,,372280,2253,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,222378,0,0
+1759292322352,219767,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-5,,true,,372280,2253,10,10,null,0,2,0
+1759292322353,219767,Radial Map,200,OK,OW - CRSG x CRMY x CM 1-5,text,true,,372280,2253,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,219577,0,0
+1759292322742,222445,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-7,,true,,372280,2253,10,10,null,0,1,0
+1759292322742,222445,Radial Map,200,OK,OW - CRSG x CRMY x CM 1-7,text,true,,372280,2253,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,222381,0,0
+1759292323705,222250,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-8,,true,,372280,2253,10,10,null,0,1,0
+1759292323706,222250,Radial Map,200,OK,OW - CRSG x CRMY x CM 1-8,text,true,,372280,2253,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,222196,0,0
+1759292341422,205764,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-10,,true,,372280,2253,10,10,null,0,1,0
+1759292341422,205764,Radial Map,200,OK,OW - CRSG x CRMY x CM 1-10,text,true,,372280,2253,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,205700,0,0
+1759292322940,226651,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-6,,true,,372280,2253,10,10,null,0,0,0
+1759292322940,226651,Radial Map,200,OK,OW - CRSG x CRMY x CM 1-6,text,true,,372280,2253,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,226567,0,0
+1759292335560,218478,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-9,,true,,372280,2253,10,10,null,0,1,0
+1759292335560,218478,Radial Map,200,OK,OW - CRSG x CRMY x CM 1-9,text,true,,372280,2253,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,218403,0,0
+1759292538708,47540,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-2,,true,,9893,2302,10,10,null,0,0,84
+1759292538708,47540,Interconnection Map,200,OK,OW - CRSG x CRMY x CM 1-2,text,true,,9893,2302,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,47539,0,84
+1759292547187,47060,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-10,,true,,9893,2302,10,10,null,0,2,44
+1759292547188,47060,Interconnection Map,200,OK,OW - CRSG x CRMY x CM 1-10,text,true,,9893,2302,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,47060,0,44
+1759292539767,56764,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-1,,true,,9893,2302,10,10,null,0,0,49
+1759292539767,56764,Interconnection Map,200,OK,OW - CRSG x CRMY x CM 1-1,text,true,,9893,2302,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,56764,0,49
+1759292545957,54189,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-8,,true,,9893,2302,10,10,null,0,1,43
+1759292545957,54189,Interconnection Map,200,OK,OW - CRSG x CRMY x CM 1-8,text,true,,9893,2302,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,54189,0,43
+1759292554039,47314,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-9,,true,,9893,2302,10,10,null,0,1,80
+1759292554039,47314,Interconnection Map,200,OK,OW - CRSG x CRMY x CM 1-9,text,true,,9893,2302,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,47314,0,80
+1759292549592,52768,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-6,,true,,9893,2302,10,10,null,0,0,46
+1759292549592,52768,Interconnection Map,200,OK,OW - CRSG x CRMY x CM 1-6,text,true,,9893,2302,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,52767,0,46
+1759292538978,63900,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-4,,true,,9893,2302,10,10,null,0,2,37
+1759292538979,63900,Interconnection Map,200,OK,OW - CRSG x CRMY x CM 1-4,text,true,,9893,2302,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,63900,0,37
+1759292539327,64166,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-3,,true,,9893,2302,10,10,null,0,1,44
+1759292539327,64166,Interconnection Map,200,OK,OW - CRSG x CRMY x CM 1-3,text,true,,9893,2302,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,64166,0,44
+1759292545188,60049,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-7,,true,,9893,2302,10,10,null,0,1,47
+1759292545188,60049,Interconnection Map,200,OK,OW - CRSG x CRMY x CM 1-7,text,true,,9893,2302,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,60049,0,47
+1759292542121,64000,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-5,,true,,9893,2302,10,10,null,0,1,51
+1759292542121,64000,Interconnection Map,200,OK,OW - CRSG x CRMY x CM 1-5,text,true,,9893,2302,10,10,https://api-preprod.stg.handshakes.ai/api/graph/render,64000,0,51
+1759292586249,22054,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-2,,true,,71654,1942,10,10,null,0,1,0
+1759292586250,22054,EPR,200,OK,OW - CRSG x CRMY x CM 1-2,text,true,,71654,1942,10,10,https://api-preprod.stg.handshakes.ai/api/report/entityprofile/base/json/1?sourceshortname=CRSG&sourceshortname=CRMY&sourceshortname=CM&uen=197100150N,21990,0,0
+1759292594248,15834,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-10,,true,,71654,1942,9,9,null,0,1,0
+1759292594249,15834,EPR,200,OK,OW - CRSG x CRMY x CM 1-10,text,true,,71654,1942,9,9,https://api-preprod.stg.handshakes.ai/api/report/entityprofile/base/json/1?sourceshortname=CRSG&sourceshortname=CRMY&sourceshortname=CM&uen=197100150N,15783,0,0
+1759292596533,15857,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-1,,true,,71654,1942,8,8,null,0,0,0
+1759292596533,15857,EPR,200,OK,OW - CRSG x CRMY x CM 1-1,text,true,,71654,1942,8,8,https://api-preprod.stg.handshakes.ai/api/report/entityprofile/base/json/1?sourceshortname=CRSG&sourceshortname=CRMY&sourceshortname=CM&uen=197100150N,15819,0,0
+1759292602361,11360,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-6,,true,,71654,1942,7,7,null,0,0,0
+1759292602361,11360,EPR,200,OK,OW - CRSG x CRMY x CM 1-6,text,true,,71654,1942,7,7,https://api-preprod.stg.handshakes.ai/api/report/entityprofile/base/json/1?sourceshortname=CRSG&sourceshortname=CRMY&sourceshortname=CM&uen=197100150N,11327,0,0
+1759292600147,14149,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-8,,true,,71654,1942,6,6,null,0,2,0
+1759292600148,14149,EPR,200,OK,OW - CRSG x CRMY x CM 1-8,text,true,,71654,1942,6,6,https://api-preprod.stg.handshakes.ai/api/report/entityprofile/base/json/1?sourceshortname=CRSG&sourceshortname=CRMY&sourceshortname=CM&uen=197100150N,14115,0,0
+1759292602880,12013,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-4,,true,,71654,1942,5,5,null,0,1,113
+1759292602881,12013,EPR,200,OK,OW - CRSG x CRMY x CM 1-4,text,true,,71654,1942,5,5,https://api-preprod.stg.handshakes.ai/api/report/entityprofile/base/json/1?sourceshortname=CRSG&sourceshortname=CRMY&sourceshortname=CM&uen=197100150N,11980,0,113
+1759292601354,13816,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-9,,true,,71657,1942,4,4,null,0,0,0
+1759292601354,13816,EPR,200,OK,OW - CRSG x CRMY x CM 1-9,text,true,,71657,1942,4,4,https://api-preprod.stg.handshakes.ai/api/report/entityprofile/base/json/1?sourceshortname=CRSG&sourceshortname=CRMY&sourceshortname=CM&uen=197100150N,13788,0,0
+1759292605238,10221,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-7,,true,,71654,1942,3,3,null,0,1,95
+1759292605238,10221,EPR,200,OK,OW - CRSG x CRMY x CM 1-7,text,true,,71654,1942,3,3,https://api-preprod.stg.handshakes.ai/api/report/entityprofile/base/json/1?sourceshortname=CRSG&sourceshortname=CRMY&sourceshortname=CM&uen=197100150N,10208,0,95
+1759292603494,12244,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-3,,true,,71654,1942,2,2,null,0,2,77
+1759292603495,12244,EPR,200,OK,OW - CRSG x CRMY x CM 1-3,text,true,,71654,1942,2,2,https://api-preprod.stg.handshakes.ai/api/report/entityprofile/base/json/1?sourceshortname=CRSG&sourceshortname=CRMY&sourceshortname=CM&uen=197100150N,12226,0,77
+1759292606123,9888,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",OW - CRSG x CRMY x CM 1-5,,true,,71657,1942,1,1,null,0,2,103
+1759292606124,9888,EPR,200,OK,OW - CRSG x CRMY x CM 1-5,text,true,,71657,1942,1,1,https://api-preprod.stg.handshakes.ai/api/report/entityprofile/base/json/1?sourceshortname=CRSG&sourceshortname=CRMY&sourceshortname=CM&uen=197100150N,9875,0,103

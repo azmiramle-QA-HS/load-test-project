@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 4,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 111629.25,
+    "medianResTime" : 132624.5,
+    "minResTime" : 664.0,
+    "maxResTime" : 180604.0,
+    "pct1ResTime" : 180604.0,
+    "pct2ResTime" : 180604.0,
+    "pct3ResTime" : 180604.0,
+    "throughput" : 0.008932319812778576,
+    "receivedKBytesPerSec" : 0.06181095526694238,
+    "sentKBytesPerSec" : 0.015332797998937053
+  },
+  "Token" : {
+    "transaction" : "Token",
+    "sampleCount" : 2,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 664.0,
+    "medianResTime" : 664.0,
+    "minResTime" : 664.0,
+    "maxResTime" : 664.0,
+    "pct1ResTime" : 664.0,
+    "pct2ResTime" : 664.0,
+    "pct3ResTime" : 664.0,
+    "throughput" : 0.5340453938584779,
+    "receivedKBytesPerSec" : 1.184391688918558,
+    "sentKBytesPerSec" : 0.13872663551401868
+  },
+  "Interconnection Map" : {
+    "transaction" : "Interconnection Map",
+    "sampleCount" : 6,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 148617.6666666667,
+    "medianResTime" : 134646.0,
+    "minResTime" : 130603.0,
+    "maxResTime" : 180604.0,
+    "pct1ResTime" : 180604.0,
+    "pct2ResTime" : 180604.0,
+    "pct3ResTime" : 180604.0,
+    "throughput" : 0.013420416927619219,
+    "receivedKBytesPerSec" : 0.11390316749798694,
+    "sentKBytesPerSec" : 0.029553750167755213
+  }
+}

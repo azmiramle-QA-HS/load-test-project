@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1759847401281,4571,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,266,1,1,null,0,644,273
+1759847401897,4571,Token,200,OK,Token 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,4568,0,273
+1759847401281,4571,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,266,1,1,null,0,644,273
+1759847401897,4571,Token,200,OK,Token 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,4568,0,273
+1759847406516,9684,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3522,2129,1,1,null,0,3,40
+1759847406517,9684,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,3522,2129,1,1,https://api-preprod.stg.handshakes.ai/api/entity/search,9684,0,40
+1759847406516,9684,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3522,2129,1,1,null,0,3,40
+1759847406517,9684,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,3522,2129,1,1,https://api-preprod.stg.handshakes.ai/api/entity/search,9684,0,40
+1759847416204,180031,Radial Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,4,0
+1759847416205,180031,Radial Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759847416204,180031,Radial Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,4,0
+1759847416205,180031,Radial Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759847596239,32142,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,8616,2255,1,1,null,0,2,86
+1759847596240,32142,Interconnection Map,200,OK,APIs 1-1,text,true,,8616,2255,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,32141,0,86
+1759847596239,32142,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,8616,2255,1,1,null,0,2,86
+1759847596240,32142,Interconnection Map,200,OK,APIs 1-1,text,true,,8616,2255,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,32141,0,86
+1759847628385,180046,EPR,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,4,0
+1759847628386,180046,EPR,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api-preprod.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=47F27B89-D422-4737-A146-3DED8525CDB9,0,0,0
+1759847628385,180046,EPR,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,4,0
+1759847628386,180046,EPR,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api-preprod.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=47F27B89-D422-4737-A146-3DED8525CDB9,0,0,0

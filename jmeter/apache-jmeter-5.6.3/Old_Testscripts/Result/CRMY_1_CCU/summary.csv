@@ -1,0 +1,145 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1767580559156,1005,Token,200,OK,Token 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,993,0,559
+1767580555955,1005,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,259,1,1,null,993,3267,559
+1767580560289,2493,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,705,1920,1,1,null,0,1367,67
+1767580560290,2493,Basic Entity Search,200,OK,APIs 1-1,text,true,,705,1920,1,1,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,2492,0,67
+1767580564149,206,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2146,2001,1,1,null,0,26,0
+1767580564149,206,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2146,2001,1,1,https://api2.stg.handshakes.ai/api/entity/search,206,0,0
+1767580564382,82792,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2718338,2073,1,1,null,0,12,0
+1767580564383,82792,Radial Map,200,OK,APIs 1-1,text,true,,2718338,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,82586,0,0
+1767580647186,62364,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,4152,2124,1,1,null,0,19,100
+1767580647186,62364,Interconnection Map,200,OK,APIs 1-1,text,true,,4152,2124,1,1,https://api2.stg.handshakes.ai/api/graph/render,62363,0,100
+1767580709570,52326,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3279398,2073,1,1,null,0,28,84
+1767580709571,52326,LBO Map,200,OK,APIs 1-1,text,true,,3279398,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,52033,0,84
+1767580761925,45114,Investee Companies Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,218062,2073,1,1,null,0,18,0
+1767580761925,45114,Investee Companies Map,200,OK,APIs 1-1,text,true,,218062,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,45077,0,0
+1767580807057,81648,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,594446,1962,1,1,null,0,17,75
+1767580807058,81648,EPR,200,OK,APIs 1-1,text,true,,594446,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,81557,0,75
+1767580888722,66909,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,32430,2018,1,1,null,0,13,49
+1767580888722,66909,RED List Report,200,OK,APIs 1-1,text,true,,32430,2018,1,1,https://api2.stg.handshakes.ai/api/report/redlist,66875,0,49
+1767580955645,641,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,705,1920,1,1,null,0,4,54
+1767580955647,641,Basic Entity Search,200,OK,APIs 1-1,text,true,,705,1920,1,1,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,640,0,54
+1767580956291,253,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2146,2001,1,1,null,0,3,0
+1767580956291,253,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2146,2001,1,1,https://api2.stg.handshakes.ai/api/entity/search,253,0,0
+1767580956548,50436,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2718338,2073,1,1,null,0,3,0
+1767580956548,50436,Radial Map,200,OK,APIs 1-1,text,true,,2718338,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,50019,0,0
+1767581006988,70470,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,4152,2124,1,1,null,0,1,0
+1767581006988,70470,Interconnection Map,200,OK,APIs 1-1,text,true,,4152,2124,1,1,https://api2.stg.handshakes.ai/api/graph/render,70470,0,0
+1767581077460,47823,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3279398,2073,1,1,null,0,4,97
+1767581077461,47823,LBO Map,200,OK,APIs 1-1,text,true,,3279398,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,47250,0,97
+1767581125288,39194,Investee Companies Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,218062,2073,1,1,null,0,3,0
+1767581125289,39194,Investee Companies Map,200,OK,APIs 1-1,text,true,,218062,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,39186,0,0
+1767581164486,24869,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,594446,1962,1,1,null,0,3,65
+1767581164487,24869,EPR,200,OK,APIs 1-1,text,true,,594446,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,24644,0,65
+1767581189357,37518,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,32430,2018,1,1,null,0,2,0
+1767581189357,37518,RED List Report,200,OK,APIs 1-1,text,true,,32430,2018,1,1,https://api2.stg.handshakes.ai/api/report/redlist,37517,0,0
+1767581226879,740,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,705,1920,1,1,null,0,4,121
+1767581226881,740,Basic Entity Search,200,OK,APIs 1-1,text,true,,705,1920,1,1,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,740,0,121
+1767581227623,213,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2146,2001,1,1,null,0,3,0
+1767581227624,213,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2146,2001,1,1,https://api2.stg.handshakes.ai/api/entity/search,213,0,0
+1767581227839,38777,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2718338,2073,1,1,null,0,3,0
+1767581227840,38777,Radial Map,200,OK,APIs 1-1,text,true,,2718338,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,37363,0,0
+1767581266620,36132,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,4152,2124,1,1,null,0,2,0
+1767581266620,36132,Interconnection Map,200,OK,APIs 1-1,text,true,,4152,2124,1,1,https://api2.stg.handshakes.ai/api/graph/render,36131,0,0
+1767581302754,33034,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3279398,2073,1,1,null,0,1,59
+1767581302754,33034,LBO Map,200,OK,APIs 1-1,text,true,,3279398,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,31189,0,59
+1767581335790,38589,Investee Companies Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,218062,2073,1,1,null,0,3,0
+1767581335790,38589,Investee Companies Map,200,OK,APIs 1-1,text,true,,218062,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,38585,0,0
+1767581374383,27199,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,594446,1962,1,1,null,0,1,79
+1767581374383,27199,EPR,200,OK,APIs 1-1,text,true,,594446,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,27050,0,79
+1767581401583,35487,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,32430,2018,1,1,null,0,2,0
+1767581401583,35487,RED List Report,200,OK,APIs 1-1,text,true,,32430,2018,1,1,https://api2.stg.handshakes.ai/api/report/redlist,35486,0,0
+1767592104721,775,Token,200,OK,Token 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,769,0,365
+1767592101622,775,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,266,1,1,null,769,3126,365
+1767592105550,28074,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,300565,2131,1,1,null,0,1271,89
+1767592105550,28074,Interconnection Map,200,OK,APIs 1-1,text,true,,300565,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,27999,0,89
+1767592134895,1328,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,300565,2131,1,1,null,0,6,97
+1767592134899,1328,Interconnection Map,200,OK,APIs 1-1,text,true,,300565,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,1168,0,97
+1767592136230,1631,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,300565,2131,1,1,null,0,6,70
+1767592136232,1631,Interconnection Map,200,OK,APIs 1-1,text,true,,300565,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,1566,0,70
+1767592239653,583,Token,200,OK,Token 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,575,0,332
+1767592236544,583,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,266,1,1,null,575,3147,332
+1767592240295,2090,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,300565,2131,1,1,null,0,536,67
+1767592240296,2090,Interconnection Map,200,OK,APIs 1-1,text,true,,300565,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,1984,0,67
+1767592242921,1575,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,300565,2131,1,1,null,0,5,39
+1767592242923,1575,Interconnection Map,200,OK,APIs 1-1,text,true,,300565,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,1497,0,39
+1767592244502,1157,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,300565,2131,1,1,null,0,3,53
+1767592244503,1157,Interconnection Map,200,OK,APIs 1-1,text,true,,300565,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,1096,0,53
+1767592337122,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Token 1-1,text,false,,875,0,1,1,null,0,0,0
+1767592334105,0,Token,,"Number of samples in transaction : 1, number of failing samples : 1",Token 1-1,,false,,875,0,1,1,null,0,3138,0
+1767592337313,0,Interconnection Map,Non HTTP response code: java.net.MalformedURLException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,875,0,1,1,null,0,1485,0
+1767592337313,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',APIs 1-1,text,false,Test failed: code expected to contain /200/,875,0,1,1,null,0,0,0
+1767592338800,0,Interconnection Map,Non HTTP response code: java.net.MalformedURLException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,875,0,1,1,null,0,7,0
+1767592338800,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',APIs 1-1,text,false,Test failed: code expected to contain /200/,875,0,1,1,null,0,0,0
+1767592338808,0,Interconnection Map,Non HTTP response code: java.net.MalformedURLException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,875,0,1,1,null,0,6,0
+1767592338809,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',APIs 1-1,text,false,Test failed: code expected to contain /200/,875,0,1,1,null,0,0,0
+1767592370506,1169,Token,200,OK,Token 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,1156,0,767
+1767592367356,1169,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,259,1,1,null,1156,3292,767
+1767592371889,62354,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,361475,2124,1,1,null,0,1124,82
+1767592371890,62354,Interconnection Map,200,OK,APIs 1-1,text,true,,361475,2124,1,1,https://api2.stg.handshakes.ai/api/graph/render,62267,0,82
+1767592435367,10565,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,361475,2124,1,1,null,0,10,85
+1767592435371,10565,Interconnection Map,200,OK,APIs 1-1,text,true,,361475,2124,1,1,https://api2.stg.handshakes.ai/api/graph/render,10423,0,85
+1767592445944,8093,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,361475,2124,1,1,null,0,7,62
+1767592445947,8093,Interconnection Map,200,OK,APIs 1-1,text,true,,361475,2124,1,1,https://api2.stg.handshakes.ai/api/graph/render,7918,0,62
+1767678209184,511,Token,200,OK,Token 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,505,0,250
+1767678206080,511,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,259,1,1,null,505,3142,250
+1767678209771,1402,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,705,1920,1,1,null,0,488,91
+1767678209772,1402,Basic Entity Search,200,OK,APIs 1-1,text,true,,705,1920,1,1,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,1401,0,91
+1767678211661,257,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2146,2001,1,1,null,0,15,0
+1767678211661,257,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2146,2001,1,1,https://api2.stg.handshakes.ai/api/entity/search,257,0,0
+1767678211934,52384,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2718323,2073,1,1,null,0,17,0
+1767678211934,52384,Radial Map,200,OK,APIs 1-1,text,true,,2718323,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,52190,0,0
+1767678264335,59582,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,361472,2124,1,1,null,0,24,0
+1767678264336,59582,Interconnection Map,200,OK,APIs 1-1,text,true,,361472,2124,1,1,https://api2.stg.handshakes.ai/api/graph/render,59560,0,0
+1767678323942,23961,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3279383,2073,1,1,null,0,10,62
+1767678323943,23961,LBO Map,200,OK,APIs 1-1,text,true,,3279383,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,23701,0,62
+1767678636220,614,Token,200,OK,Token 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,608,0,374
+1767678633138,614,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,259,1,1,null,608,3111,374
+1767678636904,454,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,705,1920,1,1,null,0,485,75
+1767678636905,454,Basic Entity Search,200,OK,APIs 1-1,text,true,,705,1920,1,1,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,453,0,75
+1767678637843,221,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2146,2001,1,1,null,0,22,0
+1767678637843,221,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2146,2001,1,1,https://api2.stg.handshakes.ai/api/entity/search,221,0,0
+1767678638087,19503,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2718323,2073,1,1,null,0,7,0
+1767678638087,19503,Radial Map,200,OK,APIs 1-1,text,true,,2718323,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,18098,0,0
+1767678657598,7522,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,361472,2124,1,1,null,0,10,0
+1767678657598,7522,Interconnection Map,200,OK,APIs 1-1,text,true,,361472,2124,1,1,https://api2.stg.handshakes.ai/api/graph/render,7463,0,0
+1767678665130,19873,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3279383,2073,1,1,null,0,7,0
+1767678665130,19873,LBO Map,200,OK,APIs 1-1,text,true,,3279383,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,18102,0,0
+1767678685010,13286,Investee Companies Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,218062,2073,1,1,null,0,16,0
+1767678685010,13286,Investee Companies Map,200,OK,APIs 1-1,text,true,,218062,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,13276,0,0
+1767678698313,14801,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,594446,1962,1,1,null,0,9,67
+1767678698313,14801,EPR,200,OK,APIs 1-1,text,true,,594446,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,14641,0,67
+1767678713123,10697,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,32430,2018,1,1,null,0,18,0
+1767678713124,10697,RED List Report,200,OK,APIs 1-1,text,true,,32430,2018,1,1,https://api2.stg.handshakes.ai/api/report/redlist,10697,0,0
+1767678723839,198,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,705,1920,1,1,null,0,4,58
+1767678723841,198,Basic Entity Search,200,OK,APIs 1-1,text,true,,705,1920,1,1,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,197,0,58
+1767678724042,187,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2146,2001,1,1,null,0,3,0
+1767678724042,187,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2146,2001,1,1,https://api2.stg.handshakes.ai/api/entity/search,187,0,0
+1767678724232,17689,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2718323,2073,1,1,null,0,3,0
+1767678724233,17689,Radial Map,200,OK,APIs 1-1,text,true,,2718323,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,16258,0,0
+1767678741925,6915,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,361472,2124,1,1,null,0,2,0
+1767678741925,6915,Interconnection Map,200,OK,APIs 1-1,text,true,,361472,2124,1,1,https://api2.stg.handshakes.ai/api/graph/render,6880,0,0
+1767678748843,17520,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3279383,2073,1,1,null,0,1,0
+1767678748843,17520,LBO Map,200,OK,APIs 1-1,text,true,,3279383,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,15767,0,0
+1767678766363,6068,Investee Companies Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,218062,2073,1,1,null,0,2,0
+1767678766363,6068,Investee Companies Map,200,OK,APIs 1-1,text,true,,218062,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,6058,0,0
+1767678772433,15521,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,594446,1962,1,1,null,0,2,0
+1767678772434,15521,EPR,200,OK,APIs 1-1,text,true,,594446,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,15346,0,0
+1767678787956,8778,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,32430,2018,1,1,null,0,2,77
+1767678787956,8778,RED List Report,200,OK,APIs 1-1,text,true,,32430,2018,1,1,https://api2.stg.handshakes.ai/api/report/redlist,8778,0,77
+1767678796737,189,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,705,1920,1,1,null,0,4,50
+1767678796739,189,Basic Entity Search,200,OK,APIs 1-1,text,true,,705,1920,1,1,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,189,0,50
+1767678796930,194,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2146,2001,1,1,null,0,2,0
+1767678796931,194,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,2146,2001,1,1,https://api2.stg.handshakes.ai/api/entity/search,194,0,0
+1767678797127,17819,Radial Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,2718323,2073,1,1,null,0,1,0
+1767678797127,17819,Radial Map,200,OK,APIs 1-1,text,true,,2718323,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,16399,0,0
+1767678814948,6883,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,361472,2124,1,1,null,0,1,0
+1767678814948,6883,Interconnection Map,200,OK,APIs 1-1,text,true,,361472,2124,1,1,https://api2.stg.handshakes.ai/api/graph/render,6863,0,0
+1767678821833,17462,LBO Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3279383,2073,1,1,null,0,1,0
+1767678821833,17462,LBO Map,200,OK,APIs 1-1,text,true,,3279383,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,15701,0,0
+1767678839296,6327,Investee Companies Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,218062,2073,1,1,null,0,2,0
+1767678839296,6327,Investee Companies Map,200,OK,APIs 1-1,text,true,,218062,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,6313,0,0
+1767678845625,13011,EPR,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,594446,1962,1,1,null,0,1,0
+1767678845625,13011,EPR,200,OK,APIs 1-1,text,true,,594446,1962,1,1,https://api2.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,12831,0,0
+1767678858638,9574,RED List Report,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,32430,2018,1,1,null,0,4,51
+1767678858638,9574,RED List Report,200,OK,APIs 1-1,text,true,,32430,2018,1,1,https://api2.stg.handshakes.ai/api/report/redlist,9570,0,51

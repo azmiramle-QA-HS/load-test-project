@@ -1,0 +1,25 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1759886566646,837,Token,200,OK,Token 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,831,0,264
+1759886566646,837,Token,200,OK,Token 1-1,text,true,,2271,266,1,1,https://api-preprod.stg.handshakes.ai/Token,831,0,264
+1759886566053,837,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,266,1,1,null,831,627,264
+1759886566053,837,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,266,1,1,null,831,627,264
+1759886567541,528,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3069,1936,1,1,null,0,1,54
+1759886567541,528,Basic Entity Search,200,OK,APIs 1-1,text,true,,3069,1936,1,1,"https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Bank%20of%20America,%20National%20Association&sourceshortname=SPG",527,0,54
+1759886567541,528,Basic Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,3069,1936,1,1,null,0,1,54
+1759886567541,528,Basic Entity Search,200,OK,APIs 1-1,text,true,,3069,1936,1,1,"https://api-preprod.stg.handshakes.ai/api/search/entity/byname/json?searchText=Bank%20of%20America,%20National%20Association&sourceshortname=SPG",527,0,54
+1759886568071,923,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,15607,2016,1,1,null,0,0,0
+1759886568071,923,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,15607,2016,1,1,https://api-preprod.stg.handshakes.ai/api/entity/search,922,0,0
+1759886568071,923,Enhanced Entity Search,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,15607,2016,1,1,null,0,0,0
+1759886568071,923,Enhanced Entity Search,200,OK,APIs 1-1,text,true,,15607,2016,1,1,https://api-preprod.stg.handshakes.ai/api/entity/search,922,0,0
+1759886568995,180030,Radial Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,1,0
+1759886568995,180030,Radial Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759886568995,180030,Radial Map,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,1,0
+1759886568995,180030,Radial Map,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,0,0,0
+1759886749027,95637,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,23987173,2131,1,1,null,0,0,74
+1759886749027,95637,Interconnection Map,200,OK,APIs 1-1,text,true,,23987173,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,94218,0,74
+1759886749027,95637,Interconnection Map,200,"Number of samples in transaction : 1, number of failing samples : 0",APIs 1-1,,true,,23987173,2131,1,1,null,0,0,74
+1759886749027,95637,Interconnection Map,200,OK,APIs 1-1,text,true,,23987173,2131,1,1,https://api-preprod.stg.handshakes.ai/api/graph/render,94218,0,74
+1759886844665,180136,EPR,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,2,108
+1759886844665,180136,EPR,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=BDF67157-F728-596A-8A51-38335B9335BC,0,0,108
+1759886844665,180136,EPR,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,3184,0,1,1,null,0,2,108
+1759886844665,180136,EPR,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,APIs 1-1,text,false,Test failed: code expected to contain /200/,3184,0,1,1,https://api-preprod.stg.handshakes.ai/api/report/single/entityprofile/base/json/2?sourceguid=73e4c5c3-58c7-4f4e-837c-41411a19abca&entityguid=BDF67157-F728-596A-8A51-38335B9335BC,0,0,108

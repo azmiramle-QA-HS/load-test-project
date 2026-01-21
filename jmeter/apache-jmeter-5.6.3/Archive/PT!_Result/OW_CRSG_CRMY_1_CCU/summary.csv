@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1764238965070,960,Interconnection Map,500,"Number of samples in transaction : 2, number of failing samples : 1",Interconnection Map 3-1,,false,,2913,2556,1,6,null,0,625,474
+1764238965673,811,Token,200,OK,Interconnection Map 3-1,text,true,,2271,259,1,6,https://api2.stg.handshakes.ai/Token,811,0,474
+1764238966504,149,Interconnection Map,500,Internal Server Error,Interconnection Map 3-1,,false,Test failed: code expected to contain /200/,642,2297,1,6,https://api2.stg.handshakes.ai/api/graph/render,148,0,0
+1764238966659,587,Interconnection Map,500,"Number of samples in transaction : 2, number of failing samples : 1",Interconnection Map 3-1,,false,,2913,2556,1,6,null,0,524,45
+1764238967179,305,Token,200,OK,Interconnection Map 3-1,text,true,,2271,259,1,6,https://api2.stg.handshakes.ai/Token,305,0,45
+1764238967487,282,Interconnection Map,500,Internal Server Error,Interconnection Map 3-1,,false,Test failed: code expected to contain /200/,642,2297,1,6,https://api2.stg.handshakes.ai/api/graph/render,282,0,0
+1764238967770,970,Interconnection Map,500,"Number of samples in transaction : 2, number of failing samples : 1",Interconnection Map 3-1,,false,,2913,2556,1,6,null,0,507,42
+1764238968273,113,Token,200,OK,Interconnection Map 3-1,text,true,,2271,259,1,6,https://api2.stg.handshakes.ai/Token,113,0,42
+1764238968389,857,Interconnection Map,500,Internal Server Error,Interconnection Map 3-1,,false,Test failed: code expected to contain /200/,642,2297,1,6,https://api2.stg.handshakes.ai/api/graph/render,856,0,0
+1764238965066,18262,Enhanced Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Enhanced Entity Search 1-1,,true,,12750,2420,1,5,null,0,642,474
+1764238965673,796,Token,200,OK,Enhanced Entity Search 1-1,text,true,,2271,259,1,6,https://api2.stg.handshakes.ai/Token,793,0,474
+1764238966504,17466,Enhanced Entity Search,200,OK,Enhanced Entity Search 1-1,text,true,,10479,2161,1,5,https://api2.stg.handshakes.ai/api/entity/search,17466,0,0
+1764238983971,17596,Enhanced Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Enhanced Entity Search 1-1,,true,,12750,2420,1,5,null,0,520,47
+1764238984486,143,Token,200,OK,Enhanced Entity Search 1-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,143,0,47
+1764238984633,17453,Enhanced Entity Search,200,OK,Enhanced Entity Search 1-1,text,true,,10479,2161,1,5,https://api2.stg.handshakes.ai/api/entity/search,17453,0,0
+1764239002087,17340,Enhanced Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Enhanced Entity Search 1-1,,true,,12750,2420,1,5,null,0,506,34
+1764239002589,106,Token,200,OK,Enhanced Entity Search 1-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,105,0,34
+1764239002698,17234,Enhanced Entity Search,200,OK,Enhanced Entity Search 1-1,text,true,,10479,2161,1,5,https://api2.stg.handshakes.ai/api/entity/search,17234,0,0
+1764238965068,2199402,Radial Map,Non HTTP response code: java.net.SocketException,,Radial Map 2-1,,false,,5445,259,1,4,null,0,0,0
+1764238965072,2199398,LBO Map,Non HTTP response code: java.net.SocketException,,LBO Map 4-1,,false,,5445,259,1,4,null,0,0,0
+1764238965673,930,Token,200,OK,Radial Map 2-1,text,true,,2271,259,1,6,https://api2.stg.handshakes.ai/Token,930,0,474
+1764238965076,2199395,IC Map,Non HTTP response code: java.net.SocketException,,IC Map 5-1,,false,,5445,259,1,4,null,0,0,0
+1764238965673,878,Token,200,OK,LBO Map 4-1,text,true,,2271,259,1,6,https://api2.stg.handshakes.ai/Token,878,0,474
+1764238966607,2197863,Radial Map,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Radial Map 2-1,text,false,Test failed: code expected to contain /200/,3174,0,1,4,https://api2.stg.handshakes.ai/api/graph/render,0,0,0
+1764238965673,916,Token,200,OK,IC Map 5-1,text,true,,2271,259,1,6,https://api2.stg.handshakes.ai/Token,916,0,474
+1764238966553,2197917,LBO Map,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,LBO Map 4-1,text,false,Test failed: code expected to contain /200/,3174,0,1,4,https://api2.stg.handshakes.ai/api/graph/render,0,0,0
+1764238965079,2199393,EPR,Non HTTP response code: java.net.SocketException,,EPR 6-1,,false,,5445,259,1,4,null,0,0,0
+1764238966591,2197880,IC Map,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,IC Map 5-1,text,false,Test failed: code expected to contain /200/,3174,0,1,4,https://api2.stg.handshakes.ai/api/graph/render,0,0,0
+1764238965673,854,Token,200,OK,EPR 6-1,text,true,,2271,259,1,6,https://api2.stg.handshakes.ai/Token,854,0,474
+1764238966529,2197943,EPR,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,EPR 6-1,text,false,Test failed: code expected to contain /200/,3174,0,1,4,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=4af00c3f-bda4-490c-8c7b-c7645bfaf395&sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&sourceguid=edffcff1-81bf-4ace-bdb5-049e8799137d&entityguid=31803D13-A45A-4BB2-8897-56A47E40C2D2,0,0,0

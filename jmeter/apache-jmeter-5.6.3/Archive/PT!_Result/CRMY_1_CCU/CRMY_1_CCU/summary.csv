@@ -1,0 +1,91 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1764255221503,1365,Basic Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Basic Entity Search 1-1,,false,,1258,504,1,5,null,0,686,803
+1764255221522,1366,EPR,401,"Number of samples in transaction : 2, number of failing samples : 1",EPR 5-1,,false,,2922,539,1,5,null,0,666,804
+1764255222185,1312,Token,200,OK,Basic Entity Search 1-1,text,true,,607,259,1,5,https://api2.stg.handshakes.ai/Token,1312,0,803
+1764255222185,1312,Token,200,OK,EPR 5-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,1312,0,804
+1764255223499,53,Basic Entity Search,401,Unauthorized,Basic Entity Search 1-1,text,false,Test failed: code expected to contain /200/,651,245,1,5,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,52,0,0
+1764255223500,54,EPR,401,Unauthorized,EPR 5-1,text,false,Test failed: code expected to contain /200/,651,280,1,5,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,53,0,0
+1764255221503,1365,Basic Entity Search,401,"Number of samples in transaction : 2, number of failing samples : 1",Basic Entity Search 1-1,,false,,1258,504,1,5,null,0,686,803
+1764255222185,1312,Token,200,OK,Basic Entity Search 1-1,text,true,,607,259,1,5,https://api2.stg.handshakes.ai/Token,1312,0,803
+1764255221522,1366,EPR,401,"Number of samples in transaction : 2, number of failing samples : 1",EPR 5-1,,false,,2922,539,1,5,null,0,666,804
+1764255223499,53,Basic Entity Search,401,Unauthorized,Basic Entity Search 1-1,text,false,Test failed: code expected to contain /200/,651,245,1,5,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,52,0,0
+1764255222185,1312,Token,200,OK,EPR 5-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,1312,0,804
+1764255223500,54,EPR,401,Unauthorized,EPR 5-1,text,false,Test failed: code expected to contain /200/,651,280,1,5,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,53,0,0
+1764255221517,1438,Interconnection Map,500,"Number of samples in transaction : 2, number of failing samples : 1",Interconnection Map 4-1,,false,,2913,2383,1,5,null,0,735,805
+1764255222185,1126,Token,200,OK,Interconnection Map 4-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,1116,0,805
+1764255223377,312,Interconnection Map,500,Internal Server Error,Interconnection Map 4-1,,false,Test failed: code expected to contain /200/,642,2124,1,5,https://api2.stg.handshakes.ai/api/graph/render,312,0,0
+1764255221517,1438,Interconnection Map,500,"Number of samples in transaction : 2, number of failing samples : 1",Interconnection Map 4-1,,false,,2913,2383,1,5,null,0,735,805
+1764255222185,1126,Token,200,OK,Interconnection Map 4-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,1116,0,805
+1764255223377,312,Interconnection Map,500,Internal Server Error,Interconnection Map 4-1,,false,Test failed: code expected to contain /200/,642,2124,1,5,https://api2.stg.handshakes.ai/api/graph/render,312,0,0
+1764255223692,475,Interconnection Map,500,"Number of samples in transaction : 2, number of failing samples : 1",Interconnection Map 4-1,,false,,2913,2383,1,5,null,0,520,88
+1764255224207,334,Token,200,OK,Interconnection Map 4-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,334,0,88
+1764255224545,141,Interconnection Map,500,Internal Server Error,Interconnection Map 4-1,,false,Test failed: code expected to contain /200/,642,2124,1,5,https://api2.stg.handshakes.ai/api/graph/render,141,0,0
+1764255223692,475,Interconnection Map,500,"Number of samples in transaction : 2, number of failing samples : 1",Interconnection Map 4-1,,false,,2913,2383,1,5,null,0,520,88
+1764255224207,334,Token,200,OK,Interconnection Map 4-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,334,0,88
+1764255224545,141,Interconnection Map,500,Internal Server Error,Interconnection Map 4-1,,false,Test failed: code expected to contain /200/,642,2124,1,5,https://api2.stg.handshakes.ai/api/graph/render,141,0,0
+1764255224688,539,Interconnection Map,500,"Number of samples in transaction : 2, number of failing samples : 1",Interconnection Map 4-1,,false,,2913,2383,1,5,null,0,509,118
+1764255225193,222,Token,200,OK,Interconnection Map 4-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,222,0,118
+1764255225419,317,Interconnection Map,500,Internal Server Error,Interconnection Map 4-1,,false,Test failed: code expected to contain /200/,642,2124,1,5,https://api2.stg.handshakes.ai/api/graph/render,316,0,0
+1764255224688,539,Interconnection Map,500,"Number of samples in transaction : 2, number of failing samples : 1",Interconnection Map 4-1,,false,,2913,2383,1,5,null,0,509,118
+1764255225193,222,Token,200,OK,Interconnection Map 4-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,222,0,118
+1764255225419,317,Interconnection Map,500,Internal Server Error,Interconnection Map 4-1,,false,Test failed: code expected to contain /200/,642,2124,1,5,https://api2.stg.handshakes.ai/api/graph/render,316,0,0
+1764255221503,13678,Enhanced Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Enhanced Entity Search 2-1,,true,,4417,2260,1,4,null,0,694,803
+1764255222185,1181,Token,200,OK,Enhanced Entity Search 2-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,1181,0,803
+1764255223377,12497,Enhanced Entity Search,200,OK,Enhanced Entity Search 2-1,text,true,,2146,2001,1,4,https://api2.stg.handshakes.ai/api/entity/search,12497,0,0
+1764255221503,13678,Enhanced Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Enhanced Entity Search 2-1,,true,,4417,2260,1,4,null,0,694,803
+1764255222185,1181,Token,200,OK,Enhanced Entity Search 2-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,1181,0,803
+1764255223377,12497,Enhanced Entity Search,200,OK,Enhanced Entity Search 2-1,text,true,,2146,2001,1,4,https://api2.stg.handshakes.ai/api/entity/search,12497,0,0
+1764255223556,11870,Basic Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Basic Entity Search 1-1,,true,,2976,2179,1,4,null,0,523,131
+1764255224071,438,Token,200,OK,Basic Entity Search 1-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,437,0,131
+1764255224517,11432,Basic Entity Search,200,OK,Basic Entity Search 1-1,text,true,,705,1920,1,4,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,11431,0,0
+1764255223556,11870,Basic Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Basic Entity Search 1-1,,true,,2976,2179,1,4,null,0,523,131
+1764255224071,438,Token,200,OK,Basic Entity Search 1-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,437,0,131
+1764255224517,11432,Basic Entity Search,200,OK,Basic Entity Search 1-1,text,true,,705,1920,1,4,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,11431,0,0
+1764255235877,6340,Enhanced Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Enhanced Entity Search 2-1,,true,,4417,2260,1,4,null,0,518,723
+1764255236390,1122,Token,200,OK,Enhanced Entity Search 2-1,text,true,,2271,259,1,4,https://api2.stg.handshakes.ai/Token,1122,0,723
+1764255237516,5218,Enhanced Entity Search,200,OK,Enhanced Entity Search 2-1,text,true,,2146,2001,1,4,https://api2.stg.handshakes.ai/api/entity/search,5218,0,0
+1764255235877,6340,Enhanced Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Enhanced Entity Search 2-1,,true,,4417,2260,1,4,null,0,518,723
+1764255236390,1122,Token,200,OK,Enhanced Entity Search 2-1,text,true,,2271,259,1,4,https://api2.stg.handshakes.ai/Token,1122,0,723
+1764255237516,5218,Enhanced Entity Search,200,OK,Enhanced Entity Search 2-1,text,true,,2146,2001,1,4,https://api2.stg.handshakes.ai/api/entity/search,5218,0,0
+1764255235951,7491,Basic Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Basic Entity Search 1-1,,true,,2976,2179,1,4,null,0,522,1611
+1764255236467,2477,Token,200,OK,Basic Entity Search 1-1,text,true,,2271,259,1,4,https://api2.stg.handshakes.ai/Token,2477,0,1611
+1764255238950,5014,Basic Entity Search,200,OK,Basic Entity Search 1-1,text,true,,705,1920,1,4,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,5013,0,0
+1764255235951,7491,Basic Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Basic Entity Search 1-1,,true,,2976,2179,1,4,null,0,522,1611
+1764255236467,2477,Token,200,OK,Basic Entity Search 1-1,text,true,,2271,259,1,4,https://api2.stg.handshakes.ai/Token,2477,0,1611
+1764255238950,5014,Basic Entity Search,200,OK,Basic Entity Search 1-1,text,true,,705,1920,1,4,https://api2.stg.handshakes.ai/api/search/entity/byname/json?searchText=TRILLION%20COVE%20HOLDINGS%20BERHAD&sourceshortname=CRMY,5013,0,0
+1764255242736,4200,Enhanced Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Enhanced Entity Search 2-1,,true,,4417,2260,1,3,null,0,509,116
+1764255243239,419,Token,200,OK,Enhanced Entity Search 2-1,text,true,,2271,259,1,4,https://api2.stg.handshakes.ai/Token,417,0,116
+1764255243664,3781,Enhanced Entity Search,200,OK,Enhanced Entity Search 2-1,text,true,,2146,2001,1,3,https://api2.stg.handshakes.ai/api/entity/search,3780,0,0
+1764255242736,4200,Enhanced Entity Search,200,"Number of samples in transaction : 2, number of failing samples : 0",Enhanced Entity Search 2-1,,true,,4417,2260,1,3,null,0,509,116
+1764255243239,419,Token,200,OK,Enhanced Entity Search 2-1,text,true,,2271,259,1,4,https://api2.stg.handshakes.ai/Token,417,0,116
+1764255243664,3781,Enhanced Entity Search,200,OK,Enhanced Entity Search 2-1,text,true,,2146,2001,1,3,https://api2.stg.handshakes.ai/api/entity/search,3780,0,0
+1764255221512,60167,Radial Map,200,"Number of samples in transaction : 2, number of failing samples : 0",Radial Map 3-1,,true,,2465000,2332,1,2,null,0,677,803
+1764255222185,1218,Token,200,OK,Radial Map 3-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,1218,0,803
+1764255223406,58949,Radial Map,200,OK,Radial Map 3-1,text,true,,2462729,2073,1,2,https://api2.stg.handshakes.ai/api/graph/render,56303,0,0
+1764255221512,60167,Radial Map,200,"Number of samples in transaction : 2, number of failing samples : 0",Radial Map 3-1,,true,,2465000,2332,1,2,null,0,677,803
+1764255222185,1218,Token,200,OK,Radial Map 3-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,1218,0,803
+1764255223406,58949,Radial Map,200,OK,Radial Map 3-1,text,true,,2462729,2073,1,2,https://api2.stg.handshakes.ai/api/graph/render,56303,0,0
+1764255223556,96925,EPR,200,"Number of samples in transaction : 2, number of failing samples : 0",EPR 5-1,,true,,671998,2214,1,2,null,0,525,119
+1764255224071,439,Token,200,OK,EPR 5-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,439,0,119
+1764255224519,96486,EPR,200,OK,EPR 5-1,text,true,,669727,1955,1,2,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,95935,0,0
+1764255223556,96925,EPR,200,"Number of samples in transaction : 2, number of failing samples : 0",EPR 5-1,,true,,671998,2214,1,2,null,0,525,119
+1764255224071,439,Token,200,OK,EPR 5-1,text,true,,2271,259,1,5,https://api2.stg.handshakes.ai/Token,439,0,119
+1764255224519,96486,EPR,200,OK,EPR 5-1,text,true,,669727,1955,1,2,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,95935,0,0
+1764255282357,60231,Radial Map,200,"Number of samples in transaction : 2, number of failing samples : 0",Radial Map 3-1,,true,,2465000,2332,1,2,null,0,507,308
+1764255282861,626,Token,200,OK,Radial Map 3-1,text,true,,2271,259,1,2,https://api2.stg.handshakes.ai/Token,626,0,308
+1764255283490,59605,Radial Map,200,OK,Radial Map 3-1,text,true,,2462729,2073,1,2,https://api2.stg.handshakes.ai/api/graph/render,55190,0,0
+1764255282357,60231,Radial Map,200,"Number of samples in transaction : 2, number of failing samples : 0",Radial Map 3-1,,true,,2465000,2332,1,2,null,0,507,308
+1764255282861,626,Token,200,OK,Radial Map 3-1,text,true,,2271,259,1,2,https://api2.stg.handshakes.ai/Token,626,0,308
+1764255283490,59605,Radial Map,200,OK,Radial Map 3-1,text,true,,2462729,2073,1,2,https://api2.stg.handshakes.ai/api/graph/render,55190,0,0
+1764255321006,47210,EPR,200,"Number of samples in transaction : 2, number of failing samples : 0",EPR 5-1,,true,,671998,2214,1,2,null,0,515,135
+1764255321517,276,Token,200,OK,EPR 5-1,text,true,,2271,259,1,2,https://api2.stg.handshakes.ai/Token,276,0,135
+1764255321796,46934,EPR,200,OK,EPR 5-1,text,true,,669727,1955,1,2,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,45172,0,0
+1764255321006,47210,EPR,200,"Number of samples in transaction : 2, number of failing samples : 0",EPR 5-1,,true,,671998,2214,1,2,null,0,515,135
+1764255321517,276,Token,200,OK,EPR 5-1,text,true,,2271,259,1,2,https://api2.stg.handshakes.ai/Token,276,0,135
+1764255321796,46934,EPR,200,OK,EPR 5-1,text,true,,669727,1955,1,2,https://api2.stg.handshakes.ai/api/report/entityprofile/base/json/2?sourceguid=2b750d5e-4646-4843-9292-7c82940f55b2&entityguid=6C982F92-2D00-4D1B-B153-29F989313F4B,45172,0,0
+1764255343096,46250,Radial Map,200,"Number of samples in transaction : 2, number of failing samples : 0",Radial Map 3-1,,true,,2465000,2332,1,1,null,0,513,126
+1764255343605,215,Token,200,OK,Radial Map 3-1,text,true,,2271,259,1,2,https://api2.stg.handshakes.ai/Token,215,0,126
+1764255343823,46035,Radial Map,200,OK,Radial Map 3-1,text,true,,2462729,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,40137,0,0
+1764255343096,46250,Radial Map,200,"Number of samples in transaction : 2, number of failing samples : 0",Radial Map 3-1,,true,,2465000,2332,1,1,null,0,513,126
+1764255343605,215,Token,200,OK,Radial Map 3-1,text,true,,2271,259,1,2,https://api2.stg.handshakes.ai/Token,215,0,126
+1764255343823,46035,Radial Map,200,OK,Radial Map 3-1,text,true,,2462729,2073,1,1,https://api2.stg.handshakes.ai/api/graph/render,40137,0,0

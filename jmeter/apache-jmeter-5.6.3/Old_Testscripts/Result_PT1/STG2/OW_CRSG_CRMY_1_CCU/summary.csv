@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1764586589732,342,Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Token 1-1,,true,,2271,259,1,1,null,0,3053,59
+1764586592744,342,Token,200,OK,Token 1-1,text,true,,2271,259,1,1,https://api2.stg.handshakes.ai/Token,342,0,59
+1764586593203,81,Interconnection Map,500,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,642,2248,1,1,null,0,2,31
+1764586593204,81,Interconnection Map,500,Internal Server Error,APIs 1-1,,false,Test failed: code expected to contain /200/,642,2248,1,1,https://api2.stg.handshakes.ai/api/graph/render,81,0,31
+1764586593287,76,Interconnection Map,500,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,642,2248,1,1,null,0,2,32
+1764586593289,76,Interconnection Map,500,Internal Server Error,APIs 1-1,,false,Test failed: code expected to contain /200/,642,2248,1,1,https://api2.stg.handshakes.ai/api/graph/render,76,0,32
+1764586593366,84,Interconnection Map,500,"Number of samples in transaction : 1, number of failing samples : 1",APIs 1-1,,false,,642,2248,1,1,null,0,1,33
+1764586593367,84,Interconnection Map,500,Internal Server Error,APIs 1-1,,false,Test failed: code expected to contain /200/,642,2248,1,1,https://api2.stg.handshakes.ai/api/graph/render,83,0,33
