@@ -1,8 +1,8 @@
-name: Run JMeter Tests
+name: Run JMeter OneWorld Tests
 
 on:
-  workflow_dispatch:   # Manual run button
-  push:                # Auto-run when you push
+  workflow_dispatch:     # Manual run button in GitHub UI
+  push:                  # Auto-run when you push commits
 
 jobs:
   jmeter:
@@ -17,18 +17,22 @@ jobs:
           curl -L -o jmeter.zip https://archive.apache.org/dist/jmeter/binaries/apache-jmeter-5.6.3.zip
           tar -xf jmeter.zip
 
-      - name: Create results folder
-        run: mkdir results
+      - name: Prepare results folder
+        run: |
+          if exist results rmdir /s /q results
+          mkdir results
 
-      - name: Run all JMX files
+      - name: Run all OneWorld JMX files
         shell: cmd
         run: |
-          for %%f in (jmx\*.jmx) do (
+          for %%f in (jmx\OneWorld\*.jmx) do (
+            echo ==========================================
             echo Running %%f
-            apache-jmeter-5.6.3\bin\jmeter.bat -n -t "%%f" -l "results\%%~nf.jtl" -e -o "results\%%~nf_report"
+            echo ==========================================
+            apache-jmeter-5.6.3\bin\jmeter.bat -n -t "%%f"
           )
 
-      - name: Upload Test Results
+      - name: Upload JMeter Results
         uses: actions/upload-artifact@v4
         with:
           name: jmeter-results
