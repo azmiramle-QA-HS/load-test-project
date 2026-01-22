@@ -18,9 +18,10 @@ jobs:
           tar -xf jmeter.zip
 
       - name: Prepare results folder
+        shell: cmd
         run: |
-          if exist results rmdir /s /q results
-          mkdir results
+          if not exist results mkdir results
+
 
       - name: Run all OneWorld JMX files
         shell: cmd
