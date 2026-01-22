@@ -22,7 +22,6 @@ jobs:
         run: |
           if not exist results mkdir results
 
-
       - name: Run all OneWorld JMX files
         shell: cmd
         run: |
@@ -30,7 +29,7 @@ jobs:
             echo ==========================================
             echo Running %%f
             echo ==========================================
-            apache-jmeter-5.6.3\bin\jmeter.bat -n -t "%%f"
+            apache-jmeter-5.6.3\bin\jmeter.bat -n -t "%%f" -l "results\%%~nf.jtl" -e -o "results\%%~nf_report"
           )
 
       - name: Upload JMeter Results
