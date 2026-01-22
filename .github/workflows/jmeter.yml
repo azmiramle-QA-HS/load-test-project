@@ -29,7 +29,8 @@ jobs:
             echo ==========================================
             echo Running %%f
             echo ==========================================
-            apache-jmeter-5.6.3\bin\jmeter.bat -n -t "%%f" -l "results\%%~nf.jtl" -e -o "results\%%~nf_report"
+            if not exist "results\%%~nf" mkdir "results\%%~nf"
+            apache-jmeter-5.6.3\bin\jmeter.bat -n -t "%%f" -l "results\%%~nf\%%~nf.jtl" -e -o "results\%%~nf"
           )
 
       - name: Upload JMeter Results
