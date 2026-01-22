@@ -785,7 +785,7 @@ log.info(&quot;global_token from login: ${__property(global_token)}&quot;);</str
             </hashTree>
           </hashTree>
         </hashTree>
-        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="LBO Map" enabled="false">
+        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="LBO Map" enabled="true">
           <boolProp name="TransactionController.parent">true</boolProp>
           <boolProp name="TransactionController.includeTimers">false</boolProp>
         </TransactionController>
@@ -1097,7 +1097,7 @@ log.info(&quot;global_token from login: ${__property(global_token)}&quot;);</str
             </hashTree>
           </hashTree>
         </hashTree>
-        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="Basic Entity Search" enabled="false">
+        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="Basic Entity Search" enabled="true">
           <boolProp name="TransactionController.parent">true</boolProp>
           <boolProp name="TransactionController.includeTimers">false</boolProp>
         </TransactionController>
@@ -1409,7 +1409,7 @@ log.info(&quot;global_token from login: ${__property(global_token)}&quot;);</str
             </hashTree>
           </hashTree>
         </hashTree>
-        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="RED List Report" enabled="false">
+        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="RED List Report" enabled="true">
           <boolProp name="TransactionController.parent">true</boolProp>
           <boolProp name="TransactionController.includeTimers">false</boolProp>
         </TransactionController>
@@ -1561,7 +1561,7 @@ log.info(&quot;global_token from login: ${__property(global_token)}&quot;);</str
             </hashTree>
           </hashTree>
         </hashTree>
-        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="FPR - 1 Year" enabled="false">
+        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="FPR - 1 Year">
           <boolProp name="TransactionController.parent">true</boolProp>
           <boolProp name="TransactionController.includeTimers">false</boolProp>
         </TransactionController>
@@ -1715,7 +1715,7 @@ log.info(&quot;global_token from login: ${__property(global_token)}&quot;);</str
             </hashTree>
           </hashTree>
         </hashTree>
-        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="FPR - 5 Year" enabled="false">
+        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="FPR - 5 Year" enabled="true">
           <boolProp name="TransactionController.parent">true</boolProp>
           <boolProp name="TransactionController.includeTimers">false</boolProp>
         </TransactionController>
@@ -1868,7 +1868,7 @@ log.info(&quot;global_token from login: ${__property(global_token)}&quot;);</str
           </hashTree>
         </hashTree>
       </hashTree>
-      <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report">
+      <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report" enabled="true">
         <boolProp name="ResultCollector.error_logging">false</boolProp>
         <objProp>
           <name>saveConfig</name>
