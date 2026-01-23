@@ -13,7 +13,7 @@
         <collectionProp name="Arguments.arguments">
           <elementProp name="BASE_URL" elementType="Argument">
             <stringProp name="Argument.name">BASE_URL</stringProp>
-            <stringProp name="Argument.value">api2.stg.handshakes.ai</stringProp>
+            <stringProp name="Argument.value">api-preprod.stg.handshakes.ai</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
             <stringProp name="Argument.desc"></stringProp>
           </elementProp>
@@ -627,7 +627,7 @@ log.info(&quot;global_token from login: ${__property(global_token)}&quot;);</str
           <boolProp name="TransactionController.includeTimers">false</boolProp>
         </TransactionController>
         <hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Interconnection Map" enabled="true">
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Interconnection Map">
             <intProp name="HTTPSampler.connect_timeout">1800000</intProp>
             <intProp name="HTTPSampler.response_timeout">1800000</intProp>
             <stringProp name="HTTPSampler.domain">${BASE_URL}</stringProp>
@@ -645,8 +645,8 @@ log.info(&quot;global_token from login: ${__property(global_token)}&quot;);</str
 {&#xd;
     &quot;source&quot;: &quot;${OW}&quot;,&#xd;
     &quot;datasets&quot;: [&#xd;
-        &quot;${CRMY}&quot;,&#xd;
-        &quot;${CRSG}&quot;&#xd;
+        &quot;${CRSG}&quot;,&#xd;
+        &quot;${CRMY}&quot;&#xd;
     ],&#xd;
     &quot;origin_entities&quot;: [&#xd;
         &quot;${Intercon_Entity_1}&quot;,&#xd;
@@ -716,7 +716,7 @@ log.info(&quot;global_token from login: ${__property(global_token)}&quot;);</str
               </collectionProp>
             </ModuleController>
             <hashTree/>
-            <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Interconnection Map" enabled="true">
+            <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Interconnection Map">
               <intProp name="HTTPSampler.connect_timeout">1800000</intProp>
               <intProp name="HTTPSampler.response_timeout">1800000</intProp>
               <stringProp name="HTTPSampler.domain">${BASE_URL}</stringProp>
@@ -734,8 +734,8 @@ log.info(&quot;global_token from login: ${__property(global_token)}&quot;);</str
 {&#xd;
     &quot;source&quot;: &quot;${OW}&quot;,&#xd;
     &quot;datasets&quot;: [&#xd;
-        &quot;${CRMY}&quot;,&#xd;
-        &quot;${CRSG}&quot;&#xd;
+        &quot;${CRSG}&quot;,&#xd;
+        &quot;${CRMY}&quot;&#xd;
     ],&#xd;
     &quot;origin_entities&quot;: [&#xd;
         &quot;${Intercon_Entity_1}&quot;,&#xd;
@@ -792,7 +792,7 @@ log.info(&quot;global_token from login: ${__property(global_token)}&quot;);</str
             </hashTree>
           </hashTree>
         </hashTree>
-        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="LBO Map">
+        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="LBO Map" enabled="true">
           <boolProp name="TransactionController.parent">true</boolProp>
           <boolProp name="TransactionController.includeTimers">false</boolProp>
         </TransactionController>
